@@ -1,0 +1,2917 @@
+[
+  {
+    "en": "Copper Oxychloride",
+    "bn": "কপার অক্সিক্লোরাইড",
+    "type": "fungicide",
+    "mode_of_action": "Inorganic fungicide that disrupts cellular respiration and protein synthesis",
+    "aliases": [
+      "copper oxychloride",
+      "কপার অক্সিক্লোরাইড"
+    ]
+  },
+  {
+    "en": "Zinc Sulfate",
+    "bn": "জিঙ্ক সালফেট",
+    "type": "fertilizer",
+    "mode_of_action": "Provides essential micronutrients for enzyme activation and chlorophyll production",
+    "aliases": [
+      "zinc sulfate",
+      "জিংক সালফেট",
+      "জিঙ্ক সালফেট"
+    ]
+  },
+  {
+    "en": "Carbofuran 5G",
+    "bn": "কার্বোফুরান ৫জি",
+    "type": "pesticide",
+    "mode_of_action": "Systemic insecticide/nematicide acting on the nervous system of pests",
+    "aliases": [
+      "carbofuran 5g",
+      "কার্বোফুরান ৫জি"
+    ]
+  },
+  {
+    "en": "Aluminum phosphide",
+    "bn": "অ্যালুমিনিয়াম ফসফাইড",
+    "type": "pesticide",
+    "mode_of_action": "Releases phosphine gas to inhibit cellular respiration in pests",
+    "aliases": [
+      "aluminum phosphide",
+      "অ্যালুমিনিয়াম ফসফাইড"
+    ]
+  },
+  {
+    "en": "Gypsum",
+    "bn": "জিপসাম",
+    "type": "fertilizer",
+    "mode_of_action": "Provides calcium and sulfur to improve soil structure and plant nutrition",
+    "aliases": [
+      "gypsum",
+      "জিপসাম"
+    ]
+  },
+  {
+    "en": "Sevin powder",
+    "bn": "সেভিন পাউডার",
+    "type": "pesticide",
+    "mode_of_action": "Carbamate insecticide that inhibits acetylcholinesterase",
+    "aliases": [
+      "sevin powder",
+      "সেভিন পাউডার"
+    ]
+  },
+  {
+    "en": "Mancozeb",
+    "bn": "ম্যানকোজেব",
+    "type": "fungicide",
+    "mode_of_action": "Protective contact fungicide that disrupts fungal metabolic processes",
+    "aliases": [
+      "mancozeb",
+      "ম্যাঙ্কোজেব",
+      "ম্যানকোজেব"
+    ]
+  },
+  {
+    "en": "Azoxystrobin",
+    "bn": "অ্যাজোক্সিস্ট্রবিন",
+    "type": "fungicide",
+    "mode_of_action": "Strobilurin fungicide that inhibits mitochondrial respiration",
+    "aliases": [
+      "azoxystrobin",
+      "অ্যাজোক্সিস্ট্রবিন",
+      "অ্যাজোক্সিস্ট্রোবি",
+      "অ্যাজোক্সিস্ট্রোবিন",
+      "এজোক্সিস্ট্রবিন"
+    ]
+  },
+  {
+    "en": "Propiconazole",
+    "bn": "প্রোপিকোনাজল",
+    "type": "fungicide",
+    "mode_of_action": "Systemic triazole fungicide that inhibits ergosterol synthesis",
+    "aliases": [
+      "propiconazole",
+      "প্রোপাইকোফস",
+      "প্রোপাইকোরাম",
+      "প্রোপিকোনাজল",
+      "প্রোপিকোনাজোল",
+      "প্রোপিনাজল",
+      "প্রোপোকোনাজিম",
+      "প্রোপোকোনাজোল",
+      "প্রোপোকোবে",
+      "প্রোফেনাজিন",
+      "প্রোফেনাজোন"
+    ]
+  },
+  {
+    "en": "Carbendazim",
+    "bn": "কার্বেন্ডাজিম",
+    "type": "fungicide",
+    "mode_of_action": "Systemic fungicide that inhibits fungal growth by interfering with cell division",
+    "aliases": [
+      "carbendazim",
+      "কারবেনডাজিম",
+      "কারবেন্ডাজিম",
+      "কার্বেনডাজিম",
+      "কার্বেন্ডাজিম"
+    ]
+  },
+  {
+    "en": "Benomyl",
+    "bn": "বেনোমিল",
+    "type": "fungicide",
+    "mode_of_action": "Systemic fungicide that interferes with fungal cell division",
+    "aliases": [
+      "benomyl",
+      "বেনোমিল"
+    ]
+  },
+  {
+    "en": "Beauveria bassiana",
+    "bn": "বিউভেরিয়া ব্যাসিয়ানা",
+    "type": "pesticide",
+    "mode_of_action": "Biological insecticide that infects insects with spores",
+    "aliases": [
+      "beauveria bassiana",
+      "বিউভেরিয়া ব্যাসিয়ানা",
+      "বিউভেরিয়া ব্যাসিয়ানা"
+    ]
+  },
+  {
+    "en": "Diazinon",
+    "bn": "ডায়াজিনন",
+    "type": "pesticide",
+    "mode_of_action": "Organophosphate insecticide that inhibits acetylcholinesterase",
+    "aliases": [
+      "diazinon",
+      "ডায়াজিনন",
+      "ডায়াজিনন"
+    ]
+  },
+  {
+    "en": "Dithane M-45",
+    "bn": "ডায়াথেন এম-৪৫",
+    "type": "fungicide",
+    "mode_of_action": "Protective fungicide that inhibits fungal enzyme systems",
+    "aliases": [
+      "dithane m-45",
+      "ডাইথেন এম-৪৫",
+      "ডায়থেন এম-৪৫",
+      "ডায়াথেন এম-৪৫"
+    ]
+  },
+  {
+    "en": "MOP (Muriate of Potash)",
+    "bn": "এমওপি",
+    "type": "fertilizer",
+    "mode_of_action": "Provides potassium for plant growth and disease resistance",
+    "aliases": [
+      "mop (muriate of potash)",
+      "এমওপি",
+      "পটাশ",
+      "পটাশ সার"
+    ]
+  },
+  {
+    "en": "Thiram",
+    "bn": "থাইরাম",
+    "type": "fungicide",
+    "mode_of_action": "Protective fungicide that disrupts fungal enzyme systems",
+    "aliases": [
+      "thiram",
+      "থাইরাম",
+      "থিরাম"
+    ]
+  },
+  {
+    "en": "Prochloraz",
+    "bn": "প্রোক্লোরাজ",
+    "type": "fungicide",
+    "mode_of_action": "Inhibits ergosterol biosynthesis in fungi",
+    "aliases": [
+      "prochloraz",
+      "প্রোক্লোরাজ"
+    ]
+  },
+  {
+    "en": "Triflumizole",
+    "bn": "ট্রাইফ্লুমাইজোল",
+    "type": "fungicide",
+    "mode_of_action": "Systemic fungicide inhibiting ergosterol biosynthesis",
+    "aliases": [
+      "triflumizole",
+      "ট্রাইফ্লুমাইজোল"
+    ]
+  },
+  {
+    "en": "Copper Hydroxide",
+    "bn": "কপার হাইড্রোক্সাইড",
+    "type": "fungicide",
+    "mode_of_action": "Contact fungicide that disrupts bacterial and fungal protein synthesis",
+    "aliases": [
+      "copper hydroxide",
+      "কপার হাইড্রক্সাইড",
+      "কপার হাইড্রোক্সাইড"
+    ]
+  },
+  {
+    "en": "Difenoconazole",
+    "bn": "ডাইফেনোকোনাজল",
+    "type": "fungicide",
+    "mode_of_action": "Systemic fungicide that inhibits fungal cell membrane synthesis",
+    "aliases": [
+      "difenoconazole",
+      "ডাইফেনোকোনাজল",
+      "ডাইফেনোকোনাজোল",
+      "ডিফেনোকোনাজল",
+      "ডিফেনোকোনাজোল"
+    ]
+  },
+  {
+    "en": "Thiophanate-methyl",
+    "bn": "থিওফেনেট মিথাইল",
+    "type": "fungicide",
+    "mode_of_action": "Systemic fungicide that inhibits fungal cell division",
+    "aliases": [
+      "thiophanate-methyl",
+      "থায়োফেনেট মিথাইল",
+      "থায়োফেনেট মিথাইল",
+      "থিওফানেট-মিথাইল",
+      "থিওফেনেট মিথাইল",
+      "থিওফ্যানেট মিথাইল",
+      "থিওফ্যানেট-মিথাইল"
+    ]
+  },
+  {
+    "en": "Buprofezin",
+    "bn": "বুপ্রোফেজিন",
+    "type": "pesticide",
+    "mode_of_action": "Insect growth regulator that inhibits chitin synthesis",
+    "aliases": [
+      "buprofezin",
+      "বুপ্রোফেজিন"
+    ]
+  },
+  {
+    "en": "Imidacloprid",
+    "bn": "ইমিডাক্লোপ্রিড",
+    "type": "pesticide",
+    "mode_of_action": "Acts on the insect nervous system as a nicotinic acetylcholine receptor agonist",
+    "aliases": [
+      "imidacloprid",
+      "ইমড্যাক্সাইম",
+      "ইমিডাক্লোপ্রিড",
+      "ইমিড্যাক্লোপ্রিড",
+      "ইম্যাডাক্সিপ্ট"
+    ]
+  },
+  {
+    "en": "Neem oil",
+    "bn": "নিম তেল",
+    "type": "pesticide",
+    "mode_of_action": "Botanical insecticide causing suffocation and growth inhibition",
+    "aliases": [
+      "neem oil",
+      "নিম তেল",
+      "নিমের তেল"
+    ]
+  },
+  {
+    "en": "Spinosad",
+    "bn": "স্পিনোসাড",
+    "type": "pesticide",
+    "mode_of_action": "Insecticide that causes paralysis by overstimulating the nervous system",
+    "aliases": [
+      "spinosad",
+      "স্পাইডার অ্যাক্টিভ (স্পিনোসাড)",
+      "স্পাইনোসাইড",
+      "স্পাইনোসেড",
+      "স্পাইনোস্যাড",
+      "স্পিনোসাড",
+      "স্পিনোসেড",
+      "স্পিনোস্যাড"
+    ]
+  },
+  {
+    "en": "Autostin",
+    "bn": "অটোস্টিন",
+    "type": "fungicide",
+    "mode_of_action": "Systemic fungicide for seed treatment",
+    "aliases": [
+      "autostin",
+      "অটোস্টিন"
+    ]
+  },
+  {
+    "en": "Provex-200",
+    "bn": "প্রোভেক্স-২০০",
+    "type": "fungicide",
+    "mode_of_action": "Protective layer against fungal spores",
+    "aliases": [
+      "provex-200",
+      "প্রোভেক্স-২০০"
+    ]
+  },
+  {
+    "en": "Tilt 250 EC",
+    "bn": "টিল্ট ২৫০ ইসি",
+    "type": "fungicide",
+    "mode_of_action": "Triazole fungicide that inhibits ergosterol biosynthesis",
+    "aliases": [
+      "tilt 250 ec",
+      "টিল্ট ২৫০ ইসি"
+    ]
+  },
+  {
+    "en": "Acetamiprid",
+    "bn": "অ্যাসিটামিপ্রিড",
+    "type": "pesticide",
+    "mode_of_action": "Neonicotinoid that acts as an agonist of nicotinic acetylcholine receptors",
+    "aliases": [
+      "acetamiprid",
+      "অ্যাসিটামাইপ্রিড",
+      "অ্যাসিটামিপ্রিড",
+      "এসিটামিপ্রিড"
+    ]
+  },
+  {
+    "en": "Metalaxyl",
+    "bn": "মেটালাক্সিল",
+    "type": "fungicide",
+    "mode_of_action": "Systemic fungicide that inhibits protein synthesis in fungi",
+    "aliases": [
+      "metalaxyl",
+      "মেটালাক্সিল",
+      "মেটালেক্সিল",
+      "মেটাল্যাক্সিল"
+    ]
+  },
+  {
+    "en": "Boric acid",
+    "bn": "বোরিক এসিড",
+    "type": "fertilizer",
+    "mode_of_action": "Provides essential boron for cell wall structure and reproductive health",
+    "aliases": [
+      "boric acid",
+      "বরিক এসিড",
+      "বোরিক অ্যাসিড",
+      "বোরিক এসিড"
+    ]
+  },
+  {
+    "en": "Dimethoate",
+    "bn": "ডাইমেথোয়েট",
+    "type": "pesticide",
+    "mode_of_action": "Organophosphate insecticide acting as an acetylcholinesterase inhibitor",
+    "aliases": [
+      "dimethoate",
+      "ডাইমেথোয়েট",
+      "ডাইমেথয়েট",
+      "ডায়মেথোয়েট"
+    ]
+  },
+  {
+    "en": "Malathion 57 EC",
+    "bn": "মেলাথিয়ন ৫৭ ইসি",
+    "type": "pesticide",
+    "mode_of_action": "Inhibits acetylcholinesterase, disrupting nervous system",
+    "aliases": [
+      "malathion 57 ec",
+      "মেলাথিয়ন ৫৭ ইসি",
+      "ম্যালাথিয়ন ৫৭ ইসি"
+    ]
+  },
+  {
+    "en": "Sulfuric acid",
+    "bn": "সালফিউরিক এসিড",
+    "type": "chemical",
+    "mode_of_action": "Used for seed delinting to remove fuzz and pathogens",
+    "aliases": [
+      "sulfuric acid",
+      "সালফিউরিক এসিড"
+    ]
+  },
+  {
+    "en": "Cupravit",
+    "bn": "কুপ্রাভিট",
+    "type": "fungicide",
+    "mode_of_action": "Copper-based fungicide/bactericide disrupting protein synthesis",
+    "aliases": [
+      "cupravit",
+      "কুপ্রাভিট"
+    ]
+  },
+  {
+    "en": "Bacillus thuringiensis (Bt)",
+    "bn": "ব্যাসিলাস থুরিনজিয়েনসিস",
+    "type": "pesticide",
+    "mode_of_action": "Produces toxins that disrupt the digestive system of larvae",
+    "aliases": [
+      "bacillus thuringiensis (bt)",
+      "ব্যাসিলাস থুরিনজিয়েনসিস",
+      "ব্যাসিলাস থুরিনজেনসিস"
+    ]
+  },
+  {
+    "en": "Dolomite lime",
+    "bn": "ডলোচুন",
+    "type": "fertilizer",
+    "mode_of_action": "Reduces soil acidity and increases magnesium availability",
+    "aliases": [
+      "dolomite lime",
+      "ডলোচুন",
+      "ডলোমাইট চুন"
+    ]
+  },
+  {
+    "en": "Fentin hydroxide",
+    "bn": "ফেন্টিন হাইড্রোক্সাইড",
+    "type": "fungicide",
+    "mode_of_action": "Inhibits fungal oxidative phosphorylation and enzyme activity",
+    "aliases": [
+      "fentin hydroxide",
+      "ফেন্টিন হাইড্রোক্সাইড"
+    ]
+  },
+  {
+    "en": "Sevin powder (Carbaryl)",
+    "bn": "সেভিন পাউডার",
+    "type": "pesticide",
+    "mode_of_action": "Acetylcholinesterase inhibitor affecting the nervous system of insects",
+    "aliases": [
+      "sevin powder (carbaryl)",
+      "সেভিন পাউডার"
+    ]
+  },
+  {
+    "en": "Lime",
+    "bn": "চুন",
+    "type": "fertilizer",
+    "mode_of_action": "Adjusts soil pH and aids in decomposition",
+    "aliases": [
+      "lime",
+      "চুন"
+    ]
+  },
+  {
+    "en": "Ridomil Gold",
+    "bn": "রিডোমিল গোল্ড",
+    "type": "fungicide",
+    "mode_of_action": "Systemic and contact action, inhibits fungal metabolism",
+    "aliases": [
+      "ridomil gold",
+      "রিডোমিল গোল্ড"
+    ]
+  },
+  {
+    "en": "Copper-based fungicide",
+    "bn": "কপার-ভিত্তিক ছত্রাকনাশক",
+    "type": "fungicide",
+    "mode_of_action": "Disrupts enzyme activity and protein synthesis in pathogens",
+    "aliases": [
+      "copper-based fungicide",
+      "কপার বেসড ছত্রাকনাশক",
+      "কপার ভিত্তিক ছত্রাকনাশক",
+      "কপার-ভিত্তিক ছত্রাকনাশক",
+      "তামাভিত্তিক ছত্রাকনাশক"
+    ]
+  },
+  {
+    "en": "Calcium silicate",
+    "bn": "ক্যালসিয়াম সিলিকেট",
+    "type": "fertilizer",
+    "mode_of_action": "Provides silicon to strengthen cell walls and improve resistance",
+    "aliases": [
+      "calcium silicate",
+      "ক্যালসিয়াম সিলিকেট"
+    ]
+  },
+  {
+    "en": "Triazoles",
+    "bn": "ট্রায়াজোল",
+    "type": "fungicide",
+    "mode_of_action": "Inhibits fungal growth by disrupting ergosterol biosynthesis",
+    "aliases": [
+      "triazoles",
+      "ট্রায়াজোল"
+    ]
+  },
+  {
+    "en": "Strobilurins",
+    "bn": "স্ট্রবিলুরিন",
+    "type": "fungicide",
+    "mode_of_action": "Inhibits mitochondrial respiration in fungi",
+    "aliases": [
+      "strobilurins",
+      "স্ট্রবিলুরিন"
+    ]
+  },
+  {
+    "en": "Iprodione",
+    "bn": "ইপ্রোডিয়ন",
+    "type": "fungicide",
+    "mode_of_action": "Inhibits fungal protein kinase and cell division",
+    "aliases": [
+      "iprodione",
+      "আইপ্রোডিয়ন",
+      "ইপ্রোডিয়ন",
+      "ইপ্রোডিয়ন"
+    ]
+  },
+  {
+    "en": "Trifloxystrobin",
+    "bn": "ট্রাইফ্লক্সিস্ট্রোবিন",
+    "type": "fungicide",
+    "mode_of_action": "Systemic fungicide, inhibits mitochondrial respiration",
+    "aliases": [
+      "trifloxystrobin",
+      "ট্রাইফ্লক্সিস্ট্রবিন",
+      "ট্রাইফ্লক্সিস্ট্রোবিন"
+    ]
+  },
+  {
+    "en": "Quintozene",
+    "bn": "কুইটোজিন",
+    "type": "fungicide",
+    "mode_of_action": "Protective fungicide inhibiting fungal respiration",
+    "aliases": [
+      "quintozene",
+      "কুইটোজিন"
+    ]
+  },
+  {
+    "en": "Fentin acetate",
+    "bn": "ফেন্টিন অ্যাসিটেট",
+    "type": "fungicide",
+    "mode_of_action": "Protective fungicide inhibiting oxidative phosphorylation",
+    "aliases": [
+      "fentin acetate",
+      "ফেন্টিন অ্যাসিটেট"
+    ]
+  },
+  {
+    "en": "Edifenphos",
+    "bn": "এডিফেনফস",
+    "type": "fungicide",
+    "mode_of_action": "Organophosphorus fungicide inhibiting lipid biosynthesis",
+    "aliases": [
+      "edifenphos",
+      "এডিফেনফস"
+    ]
+  },
+  {
+    "en": "Validamycin",
+    "bn": "ভ্যালিডামাইসিন",
+    "type": "fungicide",
+    "mode_of_action": "Systemic antibiotic that inhibits fungal enzyme activity",
+    "aliases": [
+      "validamycin",
+      "ভ্যালিডামাইসিন"
+    ]
+  },
+  {
+    "en": "Captafol",
+    "bn": "ক্যাপটাফল",
+    "type": "fungicide",
+    "mode_of_action": "Multi-site contact fungicide",
+    "aliases": [
+      "captafol",
+      "ক্যাপটাফল"
+    ]
+  },
+  {
+    "en": "Carbofuran",
+    "bn": "কার্বোফুরান",
+    "type": "pesticide",
+    "mode_of_action": "Systemic insecticide/nematicide that inhibits acetylcholinesterase",
+    "aliases": [
+      "carbofuran",
+      "কারথিন",
+      "কার্বোফুরান"
+    ]
+  },
+  {
+    "en": "Aluminium phosphide",
+    "bn": "অ্যালুমিনিয়াম ফসফাইড",
+    "type": "pesticide",
+    "mode_of_action": "Fumigant, releases phosphine gas to inhibit respiration",
+    "aliases": [
+      "aluminium phosphide",
+      "অ্যালুমিনিয়াম ফসফাইড"
+    ]
+  },
+  {
+    "en": "Sevin",
+    "bn": "সেভিন",
+    "type": "pesticide",
+    "mode_of_action": "Carbamate insecticide, inhibits acetylcholinesterase",
+    "aliases": [
+      "sevin",
+      "সেভিন"
+    ]
+  },
+  {
+    "en": "Rovral (Iprodione)",
+    "bn": "রোভরাল",
+    "type": "fungicide",
+    "mode_of_action": "Inhibits fungal spore germination and mycelial growth",
+    "aliases": [
+      "rovral (iprodione)",
+      "রোভরাল"
+    ]
+  },
+  {
+    "en": "Ridomil Gold (Metalaxyl-M + Mancozeb)",
+    "bn": "রিডোমিল গোল্ড",
+    "type": "fungicide",
+    "mode_of_action": "Inhibits RNA synthesis and multi-site enzyme activity",
+    "aliases": [
+      "ridomil gold (metalaxyl-m + mancozeb)",
+      "রিডোমিল গোল্ড"
+    ]
+  },
+  {
+    "en": "Chlorpyrifos",
+    "bn": "ক্লোরপাইরিফস",
+    "type": "pesticide",
+    "mode_of_action": "Inhibits acetylcholinesterase, disrupting the nervous system of insects",
+    "aliases": [
+      "chlorpyrifos",
+      "ক্লোরপাইরিফস",
+      "ক্লোরোপাইরিফস",
+      "ক্লোরোবান"
+    ]
+  },
+  {
+    "en": "Fluazinam",
+    "bn": "ফ্লুয়াজিনাম",
+    "type": "fungicide",
+    "mode_of_action": "Contact fungicide that uncouples oxidative phosphorylation",
+    "aliases": [
+      "fluazinam",
+      "ফ্লুয়াজিনাম",
+      "ফ্লুয়োকোনাজোল",
+      "ফ্লুয়োক্সিন"
+    ]
+  },
+  {
+    "en": "Urea",
+    "bn": "ইউরিয়া",
+    "type": "fertilizer",
+    "mode_of_action": "Provides nitrogen for chlorophyll synthesis and vegetative growth",
+    "aliases": [
+      "urea",
+      "ইউরিয়া",
+      "ইউরিয়া"
+    ]
+  },
+  {
+    "en": "TSP (Triple Super Phosphate)",
+    "bn": "টিএসপি",
+    "type": "fertilizer",
+    "mode_of_action": "Provides Phosphorus for root and flower development",
+    "aliases": [
+      "tsp (triple super phosphate)",
+      "টিএসপি"
+    ]
+  },
+  {
+    "en": "DAP (Diammonium Phosphate)",
+    "bn": "ডিএপি",
+    "type": "fertilizer",
+    "mode_of_action": "Provides nitrogen and phosphorus",
+    "aliases": [
+      "dap (diammonium phosphate)",
+      "ডিএপি"
+    ]
+  },
+  {
+    "en": "Cupravit (Copper Oxychloride)",
+    "bn": "কুপ্রাভিট",
+    "type": "fungicide",
+    "mode_of_action": "Copper-based protective fungicide",
+    "aliases": [
+      "cupravit (copper oxychloride)",
+      "কুপ্রাভিট"
+    ]
+  },
+  {
+    "en": "Quinalphos",
+    "bn": "কুইনালফস",
+    "type": "pesticide",
+    "mode_of_action": "Organophosphate insecticide acting as an acetylcholinesterase inhibitor",
+    "aliases": [
+      "quinalphos",
+      "কুইনালফস"
+    ]
+  },
+  {
+    "en": "Tilt (Propiconazole)",
+    "bn": "টিল্ট",
+    "type": "fungicide",
+    "mode_of_action": "Demethylation inhibitor (DMI)",
+    "aliases": [
+      "tilt (propiconazole)",
+      "টিল্ট"
+    ]
+  },
+  {
+    "en": "Karathane (Dinocap)",
+    "bn": "কারথিন (ডিনোক্যাপ)",
+    "type": "fungicide",
+    "mode_of_action": "Contact fungicide, uncouples oxidative phosphorylation",
+    "aliases": [
+      "karathane (dinocap)",
+      "কারথিন",
+      "কারথিন (ডিনোক্যাপ)"
+    ]
+  },
+  {
+    "en": "Provax-200",
+    "bn": "প্রোভেক্স-২০০",
+    "type": "fungicide",
+    "mode_of_action": "Seed treatment fungicide",
+    "aliases": [
+      "provax-200",
+      "প্রোভেক্স-২০০"
+    ]
+  },
+  {
+    "en": "Score (Difenoconazole)",
+    "bn": "স্কোর",
+    "type": "fungicide",
+    "mode_of_action": "Systemic fungicide inhibiting ergosterol biosynthesis",
+    "aliases": [
+      "score (difenoconazole)",
+      "স্কোর",
+      "স্কোর (ডাইফেনোকোনাজল)"
+    ]
+  },
+  {
+    "en": "Tricyclazole",
+    "bn": "ট্রাইসাইক্লাজোল",
+    "type": "fungicide",
+    "mode_of_action": "Systemic fungicide that inhibits melanin biosynthesis in fungi",
+    "aliases": [
+      "tricyclazole",
+      "ট্রাইসাইক্লাজল",
+      "ট্রাইসাইক্লাজোল"
+    ]
+  },
+  {
+    "en": "Sulfur",
+    "bn": "সালফার",
+    "type": "fungicide",
+    "mode_of_action": "Contact fungicide destroying fungal cell walls",
+    "aliases": [
+      "sulfur",
+      "সালফার"
+    ]
+  },
+  {
+    "en": "Abamectin",
+    "bn": "অ্যাবামেকটিন",
+    "type": "pesticide",
+    "mode_of_action": "Systemic insecticide/miticide that disrupts nervous system",
+    "aliases": [
+      "abamectin",
+      "অ্যাবামেকটিন",
+      "অ্যাবামেক্টিন",
+      "এবামেকটিন"
+    ]
+  },
+  {
+    "en": "Pymetrozine",
+    "bn": "পাইমেট্রোজিন",
+    "type": "pesticide",
+    "mode_of_action": "Systemic insecticide that disrupts insect feeding and nervous system",
+    "aliases": [
+      "pymetrozine",
+      "পাইমেট্রোজিন"
+    ]
+  },
+  {
+    "en": "Fipronil",
+    "bn": "ফিপ্রোনিল",
+    "type": "pesticide",
+    "mode_of_action": "Broad-spectrum insecticide that blocks GABA-gated chloride channels",
+    "aliases": [
+      "fipronil",
+      "ফিনপ্রোনিল",
+      "ফিপোনিল",
+      "ফিপ্রোনিল"
+    ]
+  },
+  {
+    "en": "Cartap",
+    "bn": "কারটাপ",
+    "type": "pesticide",
+    "mode_of_action": "Systemic insecticide acting as an acetylcholine receptor antagonist",
+    "aliases": [
+      "cartap",
+      "কারটাপ",
+      "কার্টাপ"
+    ]
+  },
+  {
+    "en": "Thiamethoxam",
+    "bn": "থায়ামেথক্সাম",
+    "type": "pesticide",
+    "mode_of_action": "Neonicotinoid that acts on the insect nervous system",
+    "aliases": [
+      "thiamethoxam",
+      "থায়ামেথক্সাম",
+      "থায়ামেথক্সাম",
+      "থায়ামেথোক্সাম",
+      "থিয়ামিথোক্সাম",
+      "পাইরিথ্রিয়াম"
+    ]
+  },
+  {
+    "en": "Dimethomorph",
+    "bn": "ডাইমেথোমর্ফ",
+    "type": "fungicide",
+    "mode_of_action": "Fungicide that inhibits cell wall formation in oomycetes",
+    "aliases": [
+      "dimethomorph",
+      "ডাইমেথোমর্ফ"
+    ]
+  },
+  {
+    "en": "Bleach solution",
+    "bn": "ব্লিচ দ্রবণ",
+    "type": "fungicide",
+    "mode_of_action": "Oxidizes microbial cell walls",
+    "aliases": [
+      "bleach solution",
+      "ব্লিচ দ্রবণ"
+    ]
+  },
+  {
+    "en": "Lecanicillium lecanii",
+    "bn": "লেকানিসিলিয়াম লেকানি",
+    "type": "pesticide",
+    "mode_of_action": "Entomopathogenic fungus infecting insect cuticle",
+    "aliases": [
+      "lecanicillium lecanii",
+      "লেকানিসিলিয়াম লেকানি"
+    ]
+  },
+  {
+    "en": "Metarhizium anisopliae",
+    "bn": "মেটারহিজিয়াম অ্যানিসোপ্লিয়া",
+    "type": "pesticide",
+    "mode_of_action": "Entomopathogenic fungus that infects and kills insects",
+    "aliases": [
+      "metarhizium anisopliae",
+      "মেটারহিজিয়াম অ্যানিসোপ্লিয়া"
+    ]
+  },
+  {
+    "en": "Methoxyfenozide",
+    "bn": "মেথোক্সিফেনোজাইড",
+    "type": "pesticide",
+    "mode_of_action": "Ecdysone agonist that induces premature molting in larvae",
+    "aliases": [
+      "methoxyfenozide",
+      "মেথোক্সিফেনোজাইড",
+      "মেথোক্সিফোনাজ"
+    ]
+  },
+  {
+    "en": "Provax",
+    "bn": "প্রোভ্যাক্স",
+    "type": "fungicide",
+    "mode_of_action": "Broad-spectrum seed treatment fungicide",
+    "aliases": [
+      "provax",
+      "প্রোভ্যাক্স"
+    ]
+  },
+  {
+    "en": "Vitavax",
+    "bn": "ভিটাভ্যাক্স",
+    "type": "fungicide",
+    "mode_of_action": "Seed treatment fungicide",
+    "aliases": [
+      "vitavax",
+      "ভিটাভ্যাক্স"
+    ]
+  },
+  {
+    "en": "Bavistin",
+    "bn": "ব্যাভিষ্টিন",
+    "type": "fungicide",
+    "mode_of_action": "Systemic fungicide inhibiting fungal mitosis",
+    "aliases": [
+      "bavistin",
+      "বেভিস্টিন",
+      "ব্যাভিষ্টন",
+      "ব্যাভিষ্টিন",
+      "ব্যাভিস্টিন"
+    ]
+  },
+  {
+    "en": "Hexaconazole",
+    "bn": "হেক্সাকোনাজল",
+    "type": "fungicide",
+    "mode_of_action": "Triazole fungicide that inhibits ergosterol biosynthesis",
+    "aliases": [
+      "hexaconazole",
+      "হেক্সাকোনাজল"
+    ]
+  },
+  {
+    "en": "Proud",
+    "bn": "প্রাউড",
+    "type": "fungicide",
+    "mode_of_action": "Systemic fungicide for disease control",
+    "aliases": [
+      "proud",
+      "প্রাউড"
+    ]
+  },
+  {
+    "en": "Chloroban",
+    "bn": "ক্লোরোবান",
+    "type": "pesticide",
+    "mode_of_action": "Insecticide that inactivates the nervous system",
+    "aliases": [
+      "chloroban",
+      "ক্লোরোবান"
+    ]
+  },
+  {
+    "en": "Ammonium sulfate",
+    "bn": "অ্যামোনিয়াম সালফেট",
+    "type": "fertilizer",
+    "mode_of_action": "Provides nitrogen for plant growth",
+    "aliases": [
+      "ammonium sulfate",
+      "অ্যামোনিয়াম সালফেট",
+      "অ্যামোনিয়াম সালফেট"
+    ]
+  },
+  {
+    "en": "Deltamethrin",
+    "bn": "ডেল্টামেথ্রিন",
+    "type": "pesticide",
+    "mode_of_action": "Disrupts the insect nervous system by interfering with sodium channels",
+    "aliases": [
+      "deltamethrin",
+      "ডেল্টামেথ্রিন"
+    ]
+  },
+  {
+    "en": "Malathion",
+    "bn": "মেলাথিয়ন",
+    "type": "pesticide",
+    "mode_of_action": "Organophosphate insecticide that inhibits acetylcholinesterase",
+    "aliases": [
+      "malathion",
+      "মেলাথিয়ন",
+      "ম্যালাথিয়ন",
+      "ম্যালাথিয়ন"
+    ]
+  },
+  {
+    "en": "Validamycin A",
+    "bn": "ভ্যালিডামাইসিন এ",
+    "type": "fungicide",
+    "mode_of_action": "Antibiotic fungicide that inhibits fungal enzyme secretion",
+    "aliases": [
+      "validamycin a",
+      "ভ্যালিডামাইসিন এ"
+    ]
+  },
+  {
+    "en": "Muriate of Potash",
+    "bn": "এমওপি",
+    "type": "fertilizer",
+    "mode_of_action": "Provides potassium for overall plant health and stress resistance",
+    "aliases": [
+      "muriate of potash",
+      "এমওপি"
+    ]
+  },
+  {
+    "en": "Zinc phosphide",
+    "bn": "জিংক ফসফাইড",
+    "type": "pesticide",
+    "mode_of_action": "Releases phosphine gas in the stomach to cause metabolic failure",
+    "aliases": [
+      "zinc phosphide",
+      "জিংক ফসফাইড",
+      "জিঙ্ক ফসফাইড"
+    ]
+  },
+  {
+    "en": "Trichoderma viride",
+    "bn": "ট্রাইকোডার্মা ভিরিডি",
+    "type": "fungicide",
+    "mode_of_action": "Biological control agent that parasitizes harmful fungi",
+    "aliases": [
+      "trichoderma viride",
+      "ট্রাইকোডার্মা ভিরিডি"
+    ]
+  },
+  {
+    "en": "Bacillus thuringiensis",
+    "bn": "ব্যাসিলাস থুরিনজিয়েনসিস",
+    "type": "pesticide",
+    "mode_of_action": "Biological agent that disrupts insect digestive system",
+    "aliases": [
+      "bacillus thuringiensis",
+      "ব্যাসিলাস থুরিনজিয়েনসিস"
+    ]
+  },
+  {
+    "en": "Cymoxanil",
+    "bn": "সাইমোক্সানিল",
+    "type": "fungicide",
+    "mode_of_action": "Local systemic fungicide inhibiting protein synthesis",
+    "aliases": [
+      "cymoxanil",
+      "সাইমোক্সানিল"
+    ]
+  },
+  {
+    "en": "Fenobucarb",
+    "bn": "ফেনোবুকার্ব",
+    "type": "pesticide",
+    "mode_of_action": "Carbamate insecticide acting on the nervous system",
+    "aliases": [
+      "fenobucarb",
+      "ফেনোবকার্ব",
+      "ফেনোবুকার্ব"
+    ]
+  },
+  {
+    "en": "Cypermethrin",
+    "bn": "সাইপারমেথ্রিন",
+    "type": "pesticide",
+    "mode_of_action": "Pyrethroid insecticide that disrupts the insect nervous system",
+    "aliases": [
+      "cypermethrin",
+      "সাইপারমেথ্রিন"
+    ]
+  },
+  {
+    "en": "Score 250 EC",
+    "bn": "স্কোর ২৫০ ইসি",
+    "type": "fungicide",
+    "mode_of_action": "Systemic fungicide inhibiting fungal metabolism",
+    "aliases": [
+      "score 250 ec",
+      "স্কোর ২৫০ ইসি"
+    ]
+  },
+  {
+    "en": "Metalaxyl-M",
+    "bn": "মেটালাক্সিল-এম",
+    "type": "fungicide",
+    "mode_of_action": "Systemic action, inhibits fungal protein synthesis",
+    "aliases": [
+      "metalaxyl-m",
+      "মেটালাক্সিল-এম"
+    ]
+  },
+  {
+    "en": "Cartap Hydrochloride",
+    "bn": "কার্টাপ হাইড্রোক্লোরাইড",
+    "type": "pesticide",
+    "mode_of_action": "Systemic insecticide acting on the nervous system",
+    "aliases": [
+      "cartap hydrochloride",
+      "কারটাপ হাইড্রোক্লোরাইড",
+      "কার্টাপ হাইড্রোক্লোরাইড"
+    ]
+  },
+  {
+    "en": "Rovral",
+    "bn": "রোভরাল",
+    "type": "fungicide",
+    "mode_of_action": "Fungicide that inhibits fungal growth",
+    "aliases": [
+      "rovral",
+      "রোভরাল"
+    ]
+  },
+  {
+    "en": "Ferimzone",
+    "bn": "ফেরিমজোন",
+    "type": "fungicide",
+    "mode_of_action": "Fungicide inhibiting fungal protein synthesis",
+    "aliases": [
+      "ferimzone",
+      "ফেরিমজোন"
+    ]
+  },
+  {
+    "en": "Emamectin benzoate",
+    "bn": "ইমামামেকটিন বেনজয়েট",
+    "type": "pesticide",
+    "mode_of_action": "Neurotoxic insecticide affecting nerve impulses",
+    "aliases": [
+      "emamectin benzoate",
+      "ইমামামেকটিন বেনজয়েট",
+      "ইমামালেকটিন বেনজয়েট",
+      "ইমামেকটিন বেনজয়েট",
+      "ইমামেকটিন বেনজয়েট",
+      "এমামেকটিন বেনজয়েট"
+    ]
+  },
+  {
+    "en": "Dinocap",
+    "bn": "ডিনোক্যাপ",
+    "type": "fungicide",
+    "mode_of_action": "Fungicide that disrupts oxidative phosphorylation in fungi",
+    "aliases": [
+      "dinocap",
+      "কারথিন (ডিনোক্যাপ)",
+      "ডিনোক্যাপ"
+    ]
+  },
+  {
+    "en": "TSP",
+    "bn": "টিএসপি",
+    "type": "fertilizer",
+    "mode_of_action": "Provides phosphorus for root and flower development",
+    "aliases": [
+      "tsp",
+      "টিএসপি"
+    ]
+  },
+  {
+    "en": "MOP",
+    "bn": "এমওপি",
+    "type": "fertilizer",
+    "mode_of_action": "Provides potassium for plant strength and stress resistance",
+    "aliases": [
+      "mop",
+      "এমওপি"
+    ]
+  },
+  {
+    "en": "Magnesium sulfate",
+    "bn": "ম্যাগনেসিয়াম সালফেট",
+    "type": "fertilizer",
+    "mode_of_action": "Fertilizer providing essential nutrients for photosynthesis",
+    "aliases": [
+      "magnesium sulfate",
+      "ম্যাগনেশিয়াম সালফেট",
+      "ম্যাগনেসিয়াম সালফেট",
+      "ম্যাগনেসিয়াম সালফেট"
+    ]
+  },
+  {
+    "en": "Tebuconazole",
+    "bn": "টেবুকেোনাজল",
+    "type": "fungicide",
+    "mode_of_action": "Triazole fungicide that inhibits ergosterol biosynthesis",
+    "aliases": [
+      "tebuconazole",
+      "টেবু কোনাজল",
+      "টেবুকোনাজল",
+      "টেবুকেোনাজল",
+      "টেবুকোনাজল",
+      "টেবুকোনাজোল",
+      "টেবুকোফেনব",
+      "টেবুকোফেনাইল",
+      "টেবুকোফেনিল",
+      "টেবুফোনাজোল"
+    ]
+  },
+  {
+    "en": "Lambda-cyhalothrin",
+    "bn": "ল্যামডা-সাইহ্যালোথ্রিন",
+    "type": "pesticide",
+    "mode_of_action": "Pyrethroid insecticide that disrupts sodium channel function in nerve cells",
+    "aliases": [
+      "lambda-cyhalothrin",
+      "ল্যামডা-সাইহ্যালোথ্রিন"
+    ]
+  },
+  {
+    "en": "Azadirachtin",
+    "bn": "অ্যাজাডিরাকটিন",
+    "type": "pesticide",
+    "mode_of_action": "Natural insect growth regulator and antifeedant",
+    "aliases": [
+      "azadirachtin",
+      "অ্যাজাডিরাকটিন",
+      "আজাদির‌্যাকটিন"
+    ]
+  },
+  {
+    "en": "Chlorantraniliprole",
+    "bn": "ক্লোরানট্রানিলিপ্রোল",
+    "type": "pesticide",
+    "mode_of_action": "Activates ryanodine receptors causing muscle paralysis in insects",
+    "aliases": [
+      "chlorantraniliprole",
+      "ক্লোরানট্রানিলিপ্রোল",
+      "ক্লোরেন্ট্রানিলিপ্রোল"
+    ]
+  },
+  {
+    "en": "DAP",
+    "bn": "ডিএপি",
+    "type": "fertilizer",
+    "mode_of_action": "Provides nitrogen and phosphorus for root and plant development",
+    "aliases": [
+      "dap",
+      "ডাইঅ্যামোনিয়াম ফসফেট",
+      "ডিএপি"
+    ]
+  },
+  {
+    "en": "Pro-vax 200 WP",
+    "bn": "প্রোভেক্স-২০০ ডাব্লিউপি",
+    "type": "fungicide",
+    "mode_of_action": "Systemic seed treatment fungicide",
+    "aliases": [
+      "pro-vax 200 wp",
+      "প্রোভেক্স-২০০ ডাব্লিউপি"
+    ]
+  },
+  {
+    "en": "Acephate",
+    "bn": "অ্যাসিফেট",
+    "type": "pesticide",
+    "mode_of_action": "Systemic insecticide that disrupts the insect nervous system",
+    "aliases": [
+      "acephate",
+      "অ্যাসিপ্রিড",
+      "অ্যাসিফেট",
+      "এসিফেট"
+    ]
+  },
+  {
+    "en": "Zinc sulfate heptahydrate",
+    "bn": "জিঙ্ক সালফেট হেপ্টাহাইড্রেট",
+    "type": "fertilizer",
+    "mode_of_action": "Provides essential micronutrient for plant growth",
+    "aliases": [
+      "zinc sulfate heptahydrate",
+      "জিংক সালফেট হেপ্টা হাইড্রেট",
+      "জিংক সালফেট হেপ্টাহাইড্রেট",
+      "জিঙ্ক সালফেট হেপ্টাহাইড্রেট"
+    ]
+  },
+  {
+    "en": "Tilt 250 EC (Propiconazole)",
+    "bn": "টিল্ট ২৫০ ইসি",
+    "type": "fungicide",
+    "mode_of_action": "Triazole fungicide that inhibits ergosterol biosynthesis",
+    "aliases": [
+      "tilt 250 ec (propiconazole)",
+      "টিল্ট ২৫০ ইসি",
+      "টিল্ট ২৫০ ইসি (প্রোপিকোনাজল)"
+    ]
+  },
+  {
+    "en": "Boron",
+    "bn": "বোরন",
+    "type": "fertilizer",
+    "mode_of_action": "Micronutrient for pollination and cell wall structure",
+    "aliases": [
+      "boron",
+      "বোরন"
+    ]
+  },
+  {
+    "en": "Carbaryl",
+    "bn": "কার্বারিল",
+    "type": "pesticide",
+    "mode_of_action": "Carbamate insecticide inhibiting nervous system enzymes",
+    "aliases": [
+      "carbaryl",
+      "কার্বaryl",
+      "কার্বারিল",
+      "কার্বেনিক অ্যাসিড",
+      "কার্বেনিল"
+    ]
+  },
+  {
+    "en": "Provex",
+    "bn": "প্রোভেক্স",
+    "type": "fungicide",
+    "mode_of_action": "Systemic fungicide for seed treatment",
+    "aliases": [
+      "provex",
+      "প্রোভেক্স"
+    ]
+  },
+  {
+    "en": "Dichlorvos",
+    "bn": "ডাইক্লোরভস",
+    "type": "pesticide",
+    "mode_of_action": "Inactivates the nervous system",
+    "aliases": [
+      "dichlorvos",
+      "ডাইক্লোরভস"
+    ]
+  },
+  {
+    "en": "Bordeaux mixture",
+    "bn": "বোর্দোমিক্সার",
+    "type": "fungicide",
+    "mode_of_action": "Protective fungicide preventing fungal spore germination",
+    "aliases": [
+      "bordeaux mixture",
+      "বোরডো মিক্সচার",
+      "বোর্দোমিক্সর",
+      "বোর্দোমিক্সার"
+    ]
+  },
+  {
+    "en": "Karathane",
+    "bn": "কারথিন",
+    "type": "fungicide",
+    "mode_of_action": "Fungicide that disrupts fungal respiration",
+    "aliases": [
+      "karathane",
+      "কারথিন"
+    ]
+  },
+  {
+    "en": "Famoxadone",
+    "bn": "ফ্যামোক্সাডোন",
+    "type": "fungicide",
+    "mode_of_action": "Inhibits mitochondrial respiration",
+    "aliases": [
+      "famoxadone",
+      "ফামোক্সাডোন",
+      "ফ্যামোক্সাডোন"
+    ]
+  },
+  {
+    "en": "Chlorothalonil",
+    "bn": "ক্লোরোথ্যালোনিল",
+    "type": "fungicide",
+    "mode_of_action": "Broad-spectrum contact fungicide that inhibits fungal cell division",
+    "aliases": [
+      "chlorothalonil",
+      "ক্লোরোথালোনিল",
+      "ক্লোরোথ্যালোনিল"
+    ]
+  },
+  {
+    "en": "Metalaxyl-M + Mancozeb",
+    "bn": "মেটালাক্সিল-এম + ম্যানকোজেব",
+    "type": "fungicide",
+    "mode_of_action": "Systemic and contact fungicide inhibiting fungal protein synthesis",
+    "aliases": [
+      "metalaxyl-m + mancozeb",
+      "মেটালাক্সিল-এম + ম্যানকোজেব"
+    ]
+  },
+  {
+    "en": "Formalin",
+    "bn": "ফরমালিন",
+    "type": "pesticide",
+    "mode_of_action": "Disinfectant that denatures microbial proteins",
+    "aliases": [
+      "formalin",
+      "ফরমালিন"
+    ]
+  },
+  {
+    "en": "Trifloxystrobin + Tebuconazole",
+    "bn": "ট্রাইফ্লক্সিস্ট্রবিন + টেবুফোনাজল",
+    "type": "fungicide",
+    "mode_of_action": "Broad-spectrum systemic fungicide",
+    "aliases": [
+      "trifloxystrobin + tebuconazole",
+      "ট্রাইফ্লক্সিস্ট্রবিন + টেবুফোনাজল"
+    ]
+  },
+  {
+    "en": "Famoxadone + Cymoxanil",
+    "bn": "ফ্যামোক্সাডোন + সাইমোক্সানিল",
+    "type": "fungicide",
+    "mode_of_action": "Fungicide mixture inhibiting mitochondrial respiration and protein synthesis",
+    "aliases": [
+      "famoxadone + cymoxanil",
+      "ফ্যামোক্সাডোন + সাইমোক্সানিল"
+    ]
+  },
+  {
+    "en": "Carbosulfan",
+    "bn": "কার্বোসালফান",
+    "type": "pesticide",
+    "mode_of_action": "Carbamate insecticide that inhibits acetylcholinesterase",
+    "aliases": [
+      "carbosulfan",
+      "কার্বোসালফান"
+    ]
+  },
+  {
+    "en": "Ethofenprox",
+    "bn": "ইথোফেনপ্রক্স",
+    "type": "pesticide",
+    "mode_of_action": "Contact and stomach poison insecticide",
+    "aliases": [
+      "ethofenprox",
+      "ইথোফেনপ্রক্স"
+    ]
+  },
+  {
+    "en": "Bacillus subtilis",
+    "bn": "বেসিলাস সাবটিলিস",
+    "type": "fungicide",
+    "mode_of_action": "Biological control by occupying space and nutrients",
+    "aliases": [
+      "bacillus subtilis",
+      "বেসিলাস সাবটিলিস"
+    ]
+  },
+  {
+    "en": "Bavistin (Carbendazim)",
+    "bn": "ব্যাভিষ্টন",
+    "type": "fungicide",
+    "mode_of_action": "Systemic fungicide that inhibits fungal cell division",
+    "aliases": [
+      "bavistin (carbendazim)",
+      "ব্যাভিষ্টন",
+      "ব্যাভিষ্টিন"
+    ]
+  },
+  {
+    "en": "Chloroban (Chlorpyrifos)",
+    "bn": "ক্লোরোবান",
+    "type": "pesticide",
+    "mode_of_action": "Organophosphate insecticide that inhibits nerve signaling",
+    "aliases": [
+      "chloroban (chlorpyrifos)",
+      "ক্লোরোবান"
+    ]
+  },
+  {
+    "en": "Cyproconazole",
+    "bn": "সাইপ্রোকোনাজল",
+    "type": "fungicide",
+    "mode_of_action": "Inhibits fungal growth by interfering with ergosterol biosynthesis",
+    "aliases": [
+      "cyproconazole",
+      "সাইপ্রোকোনাজল",
+      "সাইপ্রোকোনাজোল"
+    ]
+  },
+  {
+    "en": "Rovral 50 WP",
+    "bn": "রোভরাল-৫০ ডাব্লিউপি",
+    "type": "fungicide",
+    "mode_of_action": "Dicarboximide fungicide inhibiting fungal growth",
+    "aliases": [
+      "rovral 50 wp",
+      "রোভরাল ৫০ ডব্লিউপি",
+      "রোভরাল-৫০ ডাব্লিউপি"
+    ]
+  },
+  {
+    "en": "Bifenthrin",
+    "bn": "বাইফেনথ্রিন",
+    "type": "pesticide",
+    "mode_of_action": "Pyrethroid insecticide affecting nervous system",
+    "aliases": [
+      "bifenthrin",
+      "বাইফেনথ্রিন",
+      "বিফেনথ্রিন"
+    ]
+  },
+  {
+    "en": "MOP (Potash)",
+    "bn": "পটাশ সার (এমওপি)",
+    "type": "fertilizer",
+    "mode_of_action": "Nutrient supplement for plant health and disease resistance",
+    "aliases": [
+      "mop (potash)",
+      "পটাশ সার (এমওপি)"
+    ]
+  },
+  {
+    "en": "Sevin (Carbaryl)",
+    "bn": "সেভিন পাউডার",
+    "type": "pesticide",
+    "mode_of_action": "Insecticide/fungicide that disrupts nervous system/cellular function",
+    "aliases": [
+      "sevin (carbaryl)",
+      "সেভিন",
+      "সেভিন পাউডার"
+    ]
+  },
+  {
+    "en": "Trichoderma",
+    "bn": "ট্রাইকোডার্মা",
+    "type": "fungicide",
+    "mode_of_action": "Biological control agent that suppresses soil-borne pathogens",
+    "aliases": [
+      "trichoderma",
+      "ট্রাইকোডার্মা"
+    ]
+  },
+  {
+    "en": "Rodenticide",
+    "bn": "রডেন্টিসাইড",
+    "type": "pesticide",
+    "mode_of_action": "Disrupts nervous system or blood circulation in rodents",
+    "aliases": [
+      "rodenticide",
+      "রডেন্টিসাইড"
+    ]
+  },
+  {
+    "en": "TSP/DAP",
+    "bn": "টিএসপি/ডিএপি",
+    "type": "fertilizer",
+    "mode_of_action": "Provides phosphorus for root and flower development",
+    "aliases": [
+      "dap",
+      "tsp",
+      "tsp/dap",
+      "টিএসপি",
+      "টিএসপি/ডিএপি",
+      "ডিএপি"
+    ]
+  },
+  {
+    "en": "Carboxin",
+    "bn": "কার্বক্সিন",
+    "type": "fungicide",
+    "mode_of_action": "Inhibits succinate dehydrogenase in the fungal mitochondrial respiration chain",
+    "aliases": [
+      "carboxin",
+      "কার্বক্সিন",
+      "কার্বেক্সিন"
+    ]
+  },
+  {
+    "en": "Potash",
+    "bn": "পটাশ",
+    "type": "fertilizer",
+    "mode_of_action": "Enhances plant disease resistance and root development",
+    "aliases": [
+      "potash",
+      "পটাশ"
+    ]
+  },
+  {
+    "en": "Pro-vax 200",
+    "bn": "প্রোভেক্স-২০০",
+    "type": "fungicide",
+    "mode_of_action": "Systemic fungicide for seed treatment",
+    "aliases": [
+      "pro-vax 200",
+      "প্রোভেক্স-২০০"
+    ]
+  },
+  {
+    "en": "Bromadiolone",
+    "bn": "ব্রোমাডিওলোন",
+    "type": "pesticide",
+    "mode_of_action": "Causes internal bleeding in rodents",
+    "aliases": [
+      "bromadiolone",
+      "ব্রোমাডিওল",
+      "ব্রোমাডিওলোন"
+    ]
+  },
+  {
+    "en": "Cymoxanil + Famoxadone",
+    "bn": "সাইমোক্সানিল + ফামোক্সাডোন",
+    "type": "fungicide",
+    "mode_of_action": "Inhibits fungal respiration and growth",
+    "aliases": [
+      "cymoxanil + famoxadone",
+      "সাইমোক্সানিল + ফামোক্সাডোন"
+    ]
+  },
+  {
+    "en": "Benzimidazole",
+    "bn": "বেনজিমিডাজল",
+    "type": "fungicide",
+    "mode_of_action": "Inhibits fungal mitosis",
+    "aliases": [
+      "benzimidazole",
+      "বেনজিমিডাজল"
+    ]
+  },
+  {
+    "en": "Triadimefon",
+    "bn": "ট্রায়াডিমেনফন",
+    "type": "fungicide",
+    "mode_of_action": "Systemic fungicide that inhibits ergosterol biosynthesis",
+    "aliases": [
+      "triadimefon",
+      "ট্রায়াডিমেনফন"
+    ]
+  },
+  {
+    "en": "Silicon fertilizer",
+    "bn": "সিলিকন সার",
+    "type": "fertilizer",
+    "mode_of_action": "Strengthens plant cell walls",
+    "aliases": [
+      "silicon fertilizer",
+      "সিলিকন সার"
+    ]
+  },
+  {
+    "en": "Admire",
+    "bn": "এ্যাডমায়ার",
+    "type": "pesticide",
+    "mode_of_action": "Systemic insecticide acting on the nervous system",
+    "aliases": [
+      "admire",
+      "এডমায়ার",
+      "এ্যাডমায়ার"
+    ]
+  },
+  {
+    "en": "Tido",
+    "bn": "টিডো",
+    "type": "pesticide",
+    "mode_of_action": "Systemic insecticide targeting nervous system",
+    "aliases": [
+      "tido",
+      "টিডো"
+    ]
+  },
+  {
+    "en": "Cupravit-50",
+    "bn": "কুপ্রাভিট-৫০",
+    "type": "fungicide",
+    "mode_of_action": "Copper-based fungicide that destroys bacterial cell walls",
+    "aliases": [
+      "cupravit-50",
+      "কুপ্রাভিট-৫০"
+    ]
+  },
+  {
+    "en": "Strobilurin",
+    "bn": "স্ট্রোবিলুরিন",
+    "type": "fungicide",
+    "mode_of_action": "Inhibits mitochondrial respiration in fungi",
+    "aliases": [
+      "strobilurin",
+      "স্ট্রবিলুরিন",
+      "স্ট্রিপ্টিন",
+      "স্ট্রোবিলুরিন"
+    ]
+  },
+  {
+    "en": "Spiromesifen",
+    "bn": "স্পাইরোমেসিফেন",
+    "type": "pesticide",
+    "mode_of_action": "Inhibits lipid biosynthesis in pests",
+    "aliases": [
+      "spiromesifen",
+      "স্পাইরোমেসিফেন"
+    ]
+  },
+  {
+    "en": "Metalaxyl and Mancozeb",
+    "bn": "মেটালাক্সিল ও ম্যানকোজেব",
+    "type": "fungicide",
+    "mode_of_action": "Systemic and contact action inhibiting fungal protein and enzyme activity",
+    "aliases": [
+      "metalaxyl and mancozeb",
+      "মেটালাক্সিল ও ম্যানকোজেব"
+    ]
+  },
+  {
+    "en": "Triazole",
+    "bn": "ট্রায়াজোল",
+    "type": "fungicide",
+    "mode_of_action": "Systemic fungicide that inhibits fungal growth",
+    "aliases": [
+      "triazole",
+      "ট্রায়াজোল",
+      "ট্রিয়াজোল"
+    ]
+  },
+  {
+    "en": "Potash fertilizer",
+    "bn": "পটাশ সার",
+    "type": "fertilizer",
+    "mode_of_action": "Provides potassium for plant growth and disease resistance",
+    "aliases": [
+      "potash fertilizer",
+      "পটাশ সার"
+    ]
+  },
+  {
+    "en": "Pro-vax (Carboxin)",
+    "bn": "প্রোভেক্স",
+    "type": "fungicide",
+    "mode_of_action": "Systemic fungicide used for seed treatment",
+    "aliases": [
+      "pro-vax (carboxin)",
+      "প্রোভেক্স",
+      "প্রোভ্যাক্স"
+    ]
+  },
+  {
+    "en": "Dimethoate 40 EC",
+    "bn": "ডাইমেথয়েট ৪০ ইসি",
+    "type": "pesticide",
+    "mode_of_action": "Organophosphate systemic insecticide",
+    "aliases": [
+      "dimethoate 40 ec",
+      "ডাইমেথয়েট ৪০ ইসি"
+    ]
+  },
+  {
+    "en": "Neem seed extract",
+    "bn": "নিমবীজের নির্যাস",
+    "type": "pesticide",
+    "mode_of_action": "Insect growth regulator",
+    "aliases": [
+      "neem seed extract",
+      "নিমবীজের নির্যাস"
+    ]
+  },
+  {
+    "en": "Famoxadone and Cymoxanil",
+    "bn": "ফামোক্সাডোন ও সাইমোক্সানিল",
+    "type": "fungicide",
+    "mode_of_action": "Inhibits fungal energy production",
+    "aliases": [
+      "famoxadone and cymoxanil",
+      "ফামোক্সাডোন ও সাইমোক্সানিল"
+    ]
+  },
+  {
+    "en": "Fenitrothion",
+    "bn": "ফেনিট্রোথিয়ন",
+    "type": "pesticide",
+    "mode_of_action": "Acts on the respiratory system of insects",
+    "aliases": [
+      "fenitrothion",
+      "ফেনিট্রোথিয়ন"
+    ]
+  },
+  {
+    "en": "Fenpyroximate",
+    "bn": "ফেনপাইরোক্সিমেট",
+    "type": "pesticide",
+    "mode_of_action": "Acaricide that inhibits mitochondrial electron transport",
+    "aliases": [
+      "fenpyroximate",
+      "ফেনপাইরোক্সিমেট"
+    ]
+  },
+  {
+    "en": "Ridomil",
+    "bn": "রিডোমিল",
+    "type": "fungicide",
+    "mode_of_action": "Systemic fungicide inhibiting protein synthesis",
+    "aliases": [
+      "ridomil",
+      "রিডোমিল"
+    ]
+  },
+  {
+    "en": "Karthin",
+    "bn": "কারথিন",
+    "type": "fungicide",
+    "mode_of_action": "Fungal growth inhibition",
+    "aliases": [
+      "karthin",
+      "কারথিন"
+    ]
+  },
+  {
+    "en": "Rovral 50 WP (Iprodione)",
+    "bn": "রোভরাল-৫০ ডাব্লিউপি",
+    "type": "fungicide",
+    "mode_of_action": "Inhibits fungal spore germination and mycelial growth",
+    "aliases": [
+      "rovral 50 wp (iprodione)",
+      "রোভরাল-৫০ ডাব্লিউপি"
+    ]
+  },
+  {
+    "en": "Tilt",
+    "bn": "টিল্ট",
+    "type": "fungicide",
+    "mode_of_action": "Inhibits fungal growth and spread",
+    "aliases": [
+      "tilt",
+      "টিল্ট"
+    ]
+  },
+  {
+    "en": "Cyantraniliprole",
+    "bn": "সায়ানট্রানিলিপ্রোল",
+    "type": "pesticide",
+    "mode_of_action": "Disrupts insect muscle contraction",
+    "aliases": [
+      "cyantraniliprole",
+      "সায়ানট্রানিলিপ্রোল"
+    ]
+  },
+  {
+    "en": "Bleaching powder",
+    "bn": "ব্লিচিং পাউডার",
+    "type": "disinfectant",
+    "mode_of_action": "Oxidizing agent that disrupts biological activity",
+    "aliases": [
+      "bleaching powder",
+      "ব্লিচিং পাউডার"
+    ]
+  },
+  {
+    "en": "Dimethomorph + Mancozeb",
+    "bn": "ডাইমেথোমর্ফ + ম্যানকোজেব",
+    "type": "fungicide",
+    "mode_of_action": "Systemic and contact fungicide",
+    "aliases": [
+      "dimethomorph + mancozeb",
+      "ডাইমেথোমর্ফ + ম্যানকোজেব"
+    ]
+  },
+  {
+    "en": "Blue Copper",
+    "bn": "ব্লু কপার",
+    "type": "fungicide",
+    "mode_of_action": "Fungal growth inhibition",
+    "aliases": [
+      "blue copper",
+      "ব্লু কপার"
+    ]
+  },
+  {
+    "en": "Pyraclostrobin",
+    "bn": "পাইরোক্লোস্ট্রবিন",
+    "type": "fungicide",
+    "mode_of_action": "Inhibits mitochondrial respiration in fungi",
+    "aliases": [
+      "pyraclostrobin",
+      "পাইরাক্লোস্ট্রবিন",
+      "পাইরোক্লোস্ট্রবিন"
+    ]
+  },
+  {
+    "en": "Pro-vax",
+    "bn": "প্রোভেক্স",
+    "type": "fungicide",
+    "mode_of_action": "Seed treatment against soil-borne fungi",
+    "aliases": [
+      "pro-vax",
+      "প্রোভেক্স"
+    ]
+  },
+  {
+    "en": "Dinotefuran",
+    "bn": "ডাইনেটোফুরান",
+    "type": "pesticide",
+    "mode_of_action": "Acts as a nicotinic acetylcholine receptor agonist",
+    "aliases": [
+      "dinotefuran",
+      "ডাইনেটোফুরান",
+      "ডাইনোটেফুরান"
+    ]
+  },
+  {
+    "en": "Bixafen + Flutriafol",
+    "bn": "বিক্সাফেন + ফ্লুট্রিয়াফল",
+    "type": "fungicide",
+    "mode_of_action": "Systemic fungicide combination inhibiting fungal respiration and ergosterol synthesis",
+    "aliases": [
+      "bixafen + flutriafol",
+      "বিক্সাফেন + ফ্লুট্রিয়াফল"
+    ]
+  },
+  {
+    "en": "Zinc",
+    "bn": "জিংক",
+    "type": "fertilizer",
+    "mode_of_action": "Micronutrient for disease resistance",
+    "aliases": [
+      "zinc",
+      "জিংক",
+      "দস্তা"
+    ]
+  },
+  {
+    "en": "Pro-Vax 200 (Carboxin + Thiram)",
+    "bn": "প্রোভেক্স-২০০",
+    "type": "fungicide",
+    "mode_of_action": "Inhibits mitochondrial respiration and fungal enzymes",
+    "aliases": [
+      "pro-vax 200 (carboxin + thiram)",
+      "প্রোভেক্স-২০০"
+    ]
+  },
+  {
+    "en": "Phostoxin",
+    "bn": "ফসটক্সিন",
+    "type": "pesticide",
+    "mode_of_action": "Fumigant that causes respiratory failure in pests",
+    "aliases": [
+      "phostoxin",
+      "ফসটক্সিন"
+    ]
+  },
+  {
+    "en": "Karathane/Dinocap",
+    "bn": "কারথিন/ডিনোক্যাপ",
+    "type": "fungicide",
+    "mode_of_action": "Disrupts fungal oxidative phosphorylation",
+    "aliases": [
+      "dinocap",
+      "karathane",
+      "karathane/dinocap",
+      "কারথিন",
+      "কারথিন/ডিনোক্যাপ",
+      "ডিনোক্যাপ"
+    ]
+  },
+  {
+    "en": "Triple Super Phosphate",
+    "bn": "টিএসপি",
+    "type": "fertilizer",
+    "mode_of_action": "Provides phosphorus for root and flower development",
+    "aliases": [
+      "triple super phosphate",
+      "টিএসপি"
+    ]
+  },
+  {
+    "en": "Zinc oxide",
+    "bn": "জিংক অক্সাইড",
+    "type": "fertilizer",
+    "mode_of_action": "Provides zinc for enzymatic function",
+    "aliases": [
+      "zinc oxide",
+      "জিংক অক্সাইড",
+      "জিঙ্ক অক্সাইড"
+    ]
+  },
+  {
+    "en": "Dithane M-45 (Mancozeb)",
+    "bn": "ডায়থেন এম-৪৫",
+    "type": "fungicide",
+    "mode_of_action": "Multi-site contact fungicide inhibiting enzyme systems",
+    "aliases": [
+      "dithane m-45 (mancozeb)",
+      "ডাইথেন এম-৪৫",
+      "ডায়থেন এম-৪৫",
+      "ডায়াথেন এম-৪৫"
+    ]
+  },
+  {
+    "en": "Propargite",
+    "bn": "প্রোপারজাইট",
+    "type": "pesticide",
+    "mode_of_action": "Miticide that disrupts mitochondrial electron transport",
+    "aliases": [
+      "propargite",
+      "প্রোপারজাইট"
+    ]
+  },
+  {
+    "en": "Nativo 75 WG",
+    "bn": "নাটিভো ৭৫ ডাব্লিউজি",
+    "type": "fungicide",
+    "mode_of_action": "Broad-spectrum systemic fungicide",
+    "aliases": [
+      "nativo 75 wg",
+      "নাটিভো ৭৫ ডাব্লিউ জি",
+      "নাটিভো ৭৫ ডাব্লিউজি"
+    ]
+  },
+  {
+    "en": "Thiodan 35EC",
+    "bn": "থিওডান ৩৫ইসি",
+    "type": "pesticide",
+    "mode_of_action": "Broad-spectrum insect control",
+    "aliases": [
+      "thiodan 35ec",
+      "থিওডান ৩৫ইসি"
+    ]
+  },
+  {
+    "en": "Calixin 75EC",
+    "bn": "ক্যালিক্সিন ৭৫ইসি",
+    "type": "fungicide",
+    "mode_of_action": "Systemic fungicide",
+    "aliases": [
+      "calixin 75ec",
+      "ক্যালিক্সিন ৭৫ইসি"
+    ]
+  },
+  {
+    "en": "Oxalis",
+    "bn": "অক্সালিস",
+    "type": "herbicide",
+    "mode_of_action": "Weed control",
+    "aliases": [
+      "oxalis",
+      "অক্সালিস"
+    ]
+  },
+  {
+    "en": "Sulfur Powder",
+    "bn": "সালফার পাউডার",
+    "type": "fungicide",
+    "mode_of_action": "Protective layer against pathogens",
+    "aliases": [
+      "sulfur powder",
+      "সালফার পাউডার"
+    ]
+  },
+  {
+    "en": "Baculovirus",
+    "bn": "ব্যাকুলোভাইরাস",
+    "type": "pesticide",
+    "mode_of_action": "Viral pathogen that infects and kills specific insect larvae",
+    "aliases": [
+      "baculovirus",
+      "ব্যাকুলোভাইরাস"
+    ]
+  },
+  {
+    "en": "Muriate of Potash (MOP)",
+    "bn": "মিউরেট অফ পটাশ",
+    "type": "fertilizer",
+    "mode_of_action": "Provides potassium for plant immunity and structural strength",
+    "aliases": [
+      "muriate of potash (mop)",
+      "এমওপি",
+      "মিউরেট অফ পটাশ"
+    ]
+  },
+  {
+    "en": "Dolomite",
+    "bn": "ডলোচুন",
+    "type": "fertilizer",
+    "mode_of_action": "Neutralizes soil acidity",
+    "aliases": [
+      "dolomite",
+      "ডলোচুন"
+    ]
+  },
+  {
+    "en": "Trifloxystrobin and Tebuconazole",
+    "bn": "ট্রাইফ্লক্সিস্ট্রবিন ও টেবুকেোনাজল",
+    "type": "fungicide",
+    "mode_of_action": "Inhibits fungal respiration and growth",
+    "aliases": [
+      "trifloxystrobin and tebuconazole",
+      "ট্রাইফ্লক্সিস্ট্রবিন ও টেবুকেোনাজল"
+    ]
+  },
+  {
+    "en": "Provax 200 WP",
+    "bn": "প্রোভেক্স-২০০ ডাব্লিউপি",
+    "type": "fungicide",
+    "mode_of_action": "Seed treatment fungicide",
+    "aliases": [
+      "provax 200 wp",
+      "প্রোভেক্স-২০০ ডাব্লিউপি"
+    ]
+  },
+  {
+    "en": "Fungicide",
+    "bn": "ছত্রাকনাশক",
+    "type": "fungicide",
+    "mode_of_action": "Inhibits fungal growth or destroys cell walls",
+    "aliases": [
+      "fungicide",
+      "ছত্রাকনাশক"
+    ]
+  },
+  {
+    "en": "Tido (Flowgent)",
+    "bn": "টিডো",
+    "type": "pesticide",
+    "mode_of_action": "Systemic insect control",
+    "aliases": [
+      "tido (flowgent)",
+      "টিডো"
+    ]
+  },
+  {
+    "en": "Pyrethroid",
+    "bn": "পাইরেথ্রয়েড",
+    "type": "pesticide",
+    "mode_of_action": "Paralyzes insect nervous system",
+    "aliases": [
+      "pyrethroid",
+      "পাইরেথ্রয়েড"
+    ]
+  },
+  {
+    "en": "Contaf",
+    "bn": "কনটাফ",
+    "type": "fungicide",
+    "mode_of_action": "Inhibits ergosterol biosynthesis",
+    "aliases": [
+      "contaf",
+      "কনটাফ"
+    ]
+  },
+  {
+    "en": "Nativo",
+    "bn": "নাটিভো",
+    "type": "fungicide",
+    "mode_of_action": "Systemic fungicide (Tebuconazole + Trifloxystrobin)",
+    "aliases": [
+      "nativo",
+      "নাটিভো"
+    ]
+  },
+  {
+    "en": "Metalaxyl-Mancozeb",
+    "bn": "মেটালাক্সিল-ম্যানকোজেব",
+    "type": "fungicide",
+    "mode_of_action": "Systemic and contact fungal inhibition",
+    "aliases": [
+      "metalaxyl-mancozeb",
+      "মেটালাক্সিল-ম্যানকোজেব"
+    ]
+  },
+  {
+    "en": "Sumithion",
+    "bn": "সুমিথিয়ন",
+    "type": "pesticide",
+    "mode_of_action": "Neurotoxin",
+    "aliases": [
+      "sumithion",
+      "সুমিথিয়ন"
+    ]
+  },
+  {
+    "en": "Flutriafol + Azoxystrobin",
+    "bn": "ফ্লুট্রিয়াফল + অ্যাজোক্সিস্ট্রোবিন",
+    "type": "fungicide",
+    "mode_of_action": "Inhibits fungal respiration and ergosterol synthesis",
+    "aliases": [
+      "flutriafol + azoxystrobin",
+      "ফ্লুট্রিয়াফল + অ্যাজোক্সিস্ট্রোবিন"
+    ]
+  },
+  {
+    "en": "Tebuconazole + Trifloxystrobin",
+    "bn": "টেবুকোনাজল + ট্রাইফ্লক্সিস্ট্রবিন",
+    "type": "fungicide",
+    "mode_of_action": "Inhibits fungal respiration and ergosterol synthesis",
+    "aliases": [
+      "tebuconazole + trifloxystrobin",
+      "টেবুকোনাজল + ট্রাইফ্লক্সিস্ট্রবিন"
+    ]
+  },
+  {
+    "en": "Propineb",
+    "bn": "প্রোপিনবেট",
+    "type": "fungicide",
+    "mode_of_action": "Contact fungicide with protective action",
+    "aliases": [
+      "propineb",
+      "প্রোপিনবেট",
+      "প্রোপিনবেন",
+      "প্রোপিনবেনজাইম",
+      "প্রোপিনেব",
+      "প্রোফেনাজিন"
+    ]
+  },
+  {
+    "en": "Ammonium Nitrate",
+    "bn": "অ্যামোনিয়াম নাইট্রেট",
+    "type": "fertilizer",
+    "mode_of_action": "Provides nitrogen for plant growth",
+    "aliases": [
+      "ammonium nitrate",
+      "অ্যামোনিয়াম নাইট্রেট"
+    ]
+  },
+  {
+    "en": "Propionic Acid",
+    "bn": "প্রোপিনিক অ্যাসিড",
+    "type": "fungicide",
+    "mode_of_action": "Disrupts fungal cell membrane and metabolism",
+    "aliases": [
+      "propionic acid",
+      "প্রোপিনিক অ্যাসিড"
+    ]
+  },
+  {
+    "en": "Myclobutanil",
+    "bn": "মিক্লোবুটিনিল",
+    "type": "fungicide",
+    "mode_of_action": "Systemic fungicide inhibiting ergosterol synthesis",
+    "aliases": [
+      "myclobutanil",
+      "মিক্লোবুটানিল",
+      "মিক্লোবুটিনিল",
+      "মিক্লোবেকটিন"
+    ]
+  },
+  {
+    "en": "TSP (Triple Superphosphate)",
+    "bn": "টিএসপি",
+    "type": "fertilizer",
+    "mode_of_action": "Provides phosphorus for root development",
+    "aliases": [
+      "tsp (triple superphosphate)",
+      "টিএসপি"
+    ]
+  },
+  {
+    "en": "Trichoderma spp.",
+    "bn": "ট্রাইকোডার্মা",
+    "type": "fungicide",
+    "mode_of_action": "Beneficial fungus that suppresses harmful soil-borne pathogens",
+    "aliases": [
+      "trichoderma spp.",
+      "ট্রাইকোডার্মা"
+    ]
+  },
+  {
+    "en": "Carbex",
+    "bn": "কার্বেনিক অ্যাসিড",
+    "type": "fungicide",
+    "mode_of_action": "Broad-spectrum fungal control",
+    "aliases": [
+      "carbex",
+      "কার্বেনিক অ্যাসিড"
+    ]
+  },
+  {
+    "en": "Sulphur",
+    "bn": "সিলোক্স",
+    "type": "fungicide",
+    "mode_of_action": "Fungicidal activity against powdery mildew",
+    "aliases": [
+      "sulphur",
+      "সালফার",
+      "সিলোক্স"
+    ]
+  },
+  {
+    "en": "Potassium Oxalate",
+    "bn": "পটাসিয়াম অক্সালেট",
+    "type": "fungicide",
+    "mode_of_action": "Fungal growth inhibition",
+    "aliases": [
+      "potassium oxalate",
+      "পটাসিয়াম অক্সালেট"
+    ]
+  },
+  {
+    "en": "Triple Super Phosphate (TSP)",
+    "bn": "টিএসপি",
+    "type": "fertilizer",
+    "mode_of_action": "Provides phosphorus for plant growth",
+    "aliases": [
+      "triple super phosphate (tsp)",
+      "টিএসপি"
+    ]
+  },
+  {
+    "en": "Siloxyn",
+    "bn": "সিলোক্সিন",
+    "type": "fungicide",
+    "mode_of_action": "Disrupts fungal cell membrane",
+    "aliases": [
+      "siloxyn",
+      "সিলোক্সিন"
+    ]
+  },
+  {
+    "en": "Myclobutanil oxide",
+    "bn": "মিক্লোবুটিনিল অক্সাইড",
+    "type": "fungicide",
+    "mode_of_action": "Ergosterol biosynthesis inhibitor",
+    "aliases": [
+      "myclobutanil oxide",
+      "মিক্লোবুটিনিল অক্সাইড"
+    ]
+  },
+  {
+    "en": "Calcium Sulfate",
+    "bn": "ক্যালসিয়াম সালফেট",
+    "type": "fertilizer",
+    "mode_of_action": "Soil amendment/nutrient source",
+    "aliases": [
+      "calcium sulfate",
+      "ক্যালসিয়াম সালফেট"
+    ]
+  },
+  {
+    "en": "Diammonium phosphate",
+    "bn": "ডাইঅ্যামোনিয়াম ফসফেট",
+    "type": "fertilizer",
+    "mode_of_action": "Provides nitrogen and phosphorus",
+    "aliases": [
+      "diammonium phosphate",
+      "ডাইঅ্যামোনিয়াম ফসফেট"
+    ]
+  },
+  {
+    "en": "Potassium sulfate",
+    "bn": "পটাসিয়াম সালফেট",
+    "type": "fertilizer",
+    "mode_of_action": "Provides potassium for plant health",
+    "aliases": [
+      "potassium sulfate",
+      "পটাসিয়াম সালফেট",
+      "পটাসিয়াম সালফেট"
+    ]
+  },
+  {
+    "en": "Carbonic Acid",
+    "bn": "কার্বেনিক অ্যাসিড",
+    "type": "fungicide",
+    "mode_of_action": "Disrupts fungal cell membrane",
+    "aliases": [
+      "carbonic acid",
+      "কার্বেনিক অ্যাসিড"
+    ]
+  },
+  {
+    "en": "Nitrogen",
+    "bn": "নাইট্রোজেন",
+    "type": "fertilizer",
+    "mode_of_action": "Essential nutrient for vegetative growth",
+    "aliases": [
+      "nitrogen",
+      "নাইট্রোজেন"
+    ]
+  },
+  {
+    "en": "Myclobectin",
+    "bn": "মিক্লোবেকটিন",
+    "type": "fungicide",
+    "mode_of_action": "Inhibits fungal growth",
+    "aliases": [
+      "myclobectin",
+      "মিক্লোবেকটিন"
+    ]
+  },
+  {
+    "en": "Bromicin",
+    "bn": "ব্রোমিসিন",
+    "type": "fungicide",
+    "mode_of_action": "Inhibits fungal growth",
+    "aliases": [
+      "bromicin",
+      "ব্রোমিসিন"
+    ]
+  },
+  {
+    "en": "Flutriafol",
+    "bn": "ফ্লুট্রিয়াফল",
+    "type": "fungicide",
+    "mode_of_action": "Systemic fungicide, inhibits ergosterol biosynthesis",
+    "aliases": [
+      "flutriafol",
+      "ফ্লুট্রিয়াফল"
+    ]
+  },
+  {
+    "en": "Pyrethroids",
+    "bn": "পাইরেথ্রয়েড",
+    "type": "pesticide",
+    "mode_of_action": "Disrupts the nervous system of insects",
+    "aliases": [
+      "pyrethroids",
+      "পাইরেথ্রয়েড"
+    ]
+  },
+  {
+    "en": "Selimazine",
+    "bn": "সিলিম্যাট্রিন",
+    "type": "pesticide",
+    "mode_of_action": "Insect growth regulator or contact poison",
+    "aliases": [
+      "selimazine",
+      "সিলিম্যাট্রিন"
+    ]
+  },
+  {
+    "en": "Pro-vax 200 (Carboxin+Thiram)",
+    "bn": "প্রোভেক্স-২০০",
+    "type": "fungicide",
+    "mode_of_action": "Inhibits mitochondrial respiration and enzyme activity",
+    "aliases": [
+      "pro-vax 200 (carboxin+thiram)",
+      "প্রোভেক্স-২০০"
+    ]
+  },
+  {
+    "en": "Diafenthiuron",
+    "bn": "ডাইফেনথিউরন",
+    "type": "pesticide",
+    "mode_of_action": "Inhibits mitochondrial respiration in pests",
+    "aliases": [
+      "diafenthiuron",
+      "ডাইফেনথিউরন"
+    ]
+  },
+  {
+    "en": "Spinosyn",
+    "bn": "স্পাইসিমেথিন",
+    "type": "pesticide",
+    "mode_of_action": "Targets insect nervous system",
+    "aliases": [
+      "spinosyn",
+      "স্পাইসিমেথিন"
+    ]
+  },
+  {
+    "en": "Carbamate",
+    "bn": "কার্বেনাইল",
+    "type": "pesticide",
+    "mode_of_action": "Inhibits acetylcholinesterase",
+    "aliases": [
+      "carbamate",
+      "কার্বেনাইল"
+    ]
+  },
+  {
+    "en": "Provex 200 WP",
+    "bn": "প্রোভেক্স-২০০ ডাব্লিউপি",
+    "type": "fungicide",
+    "mode_of_action": "Seed treatment fungicide",
+    "aliases": [
+      "provex 200 wp",
+      "প্রোভেক্স-২০০ ডাব্লিউপি"
+    ]
+  },
+  {
+    "en": "Copper Sulfate",
+    "bn": "কপার সালফেট",
+    "type": "fungicide",
+    "mode_of_action": "Disrupts fungal metabolic processes",
+    "aliases": [
+      "copper sulfate",
+      "কপার সালফেট"
+    ]
+  },
+  {
+    "en": "Thiophenilam",
+    "bn": "থিয়োফেনিলম",
+    "type": "fungicide",
+    "mode_of_action": "Inhibits fungal respiration",
+    "aliases": [
+      "thiophenilam",
+      "থিয়োফেনিলম"
+    ]
+  },
+  {
+    "en": "Thiophenilmethane",
+    "bn": "থিয়োফেনিলম",
+    "type": "fungicide",
+    "mode_of_action": "Systemic fungal inhibition",
+    "aliases": [
+      "thiophenilmethane",
+      "থিয়োফেনিলম"
+    ]
+  },
+  {
+    "en": "Oxadiazon",
+    "bn": "অক্সাকোনাজল",
+    "type": "fungicide",
+    "mode_of_action": "Protoporphyrinogen oxidase inhibitor",
+    "aliases": [
+      "oxadiazon",
+      "অক্সাকোনাজল"
+    ]
+  },
+  {
+    "en": "Diammonium Phosphate (DAP)",
+    "bn": "ডিএপি",
+    "type": "fertilizer",
+    "mode_of_action": "Provides nitrogen and phosphorus for root and plant development",
+    "aliases": [
+      "diammonium phosphate (dap)",
+      "ডিএপি"
+    ]
+  },
+  {
+    "en": "Nitrogen fertilizer",
+    "bn": "নাইট্রোজেন সার",
+    "type": "fertilizer",
+    "mode_of_action": "Promotes vegetative growth; excessive use can increase disease susceptibility",
+    "aliases": [
+      "nitrogen fertilizer",
+      "নাইট্রোজেন সার"
+    ]
+  },
+  {
+    "en": "Superphosphate",
+    "bn": "সুপারফোসফেট",
+    "type": "fertilizer",
+    "mode_of_action": "Provides phosphorus for root development",
+    "aliases": [
+      "superphosphate",
+      "সুপারফোসফেট"
+    ]
+  },
+  {
+    "en": "Ridomil (Metalaxyl)",
+    "bn": "রিডোমিল",
+    "type": "fungicide",
+    "mode_of_action": "RNA polymerase inhibitor",
+    "aliases": [
+      "ridomil (metalaxyl)",
+      "রিডোমিল"
+    ]
+  },
+  {
+    "en": "Trichoderma compost",
+    "bn": "ট্রাইকোডার্মা কম্পোস্ট",
+    "type": "fungicide",
+    "mode_of_action": "Biological control agent that suppresses harmful fungi",
+    "aliases": [
+      "trichoderma compost",
+      "ট্রাইকোডার্মা কম্পোস্ট"
+    ]
+  },
+  {
+    "en": "Furadan",
+    "bn": "ফুরাডান",
+    "type": "pesticide",
+    "mode_of_action": "Systemic insecticide/nematicide",
+    "aliases": [
+      "furadan",
+      "ফুরাডান"
+    ]
+  },
+  {
+    "en": "Curadan",
+    "bn": "কিউরাডান",
+    "type": "pesticide",
+    "mode_of_action": "Systemic insecticide",
+    "aliases": [
+      "curadan",
+      "কিউরাডান"
+    ]
+  },
+  {
+    "en": "Carthine",
+    "bn": "কারথিন",
+    "type": "fungicide",
+    "mode_of_action": "Fungicide that inhibits fungal growth",
+    "aliases": [
+      "carthine",
+      "কারথিন"
+    ]
+  },
+  {
+    "en": "Dolomitic Lime",
+    "bn": "ডলোচুন",
+    "type": "fertilizer",
+    "mode_of_action": "Neutralizes soil acidity",
+    "aliases": [
+      "dolomitic lime",
+      "ডলোচুন"
+    ]
+  },
+  {
+    "en": "Prophenazine",
+    "bn": "প্রোফেনাজিন",
+    "type": "fungicide",
+    "mode_of_action": "Fungal growth inhibition",
+    "aliases": [
+      "prophenazine",
+      "প্রোফেনাজিন",
+      "প্রোফেনাজোন"
+    ]
+  },
+  {
+    "en": "Melathion 57 EC",
+    "bn": "মেলাথিয়ন ৫৭ ইসি",
+    "type": "pesticide",
+    "mode_of_action": "Organophosphate insecticide",
+    "aliases": [
+      "melathion 57 ec",
+      "মেলাথিয়ন ৫৭ ইসি"
+    ]
+  },
+  {
+    "en": "Potash (MOP)",
+    "bn": "পটাশ",
+    "type": "fertilizer",
+    "mode_of_action": "Regulates osmotic pressure and enzyme activation",
+    "aliases": [
+      "potash (mop)",
+      "পটাশ"
+    ]
+  },
+  {
+    "en": "Silocoxin",
+    "bn": "সিলোক্স",
+    "type": "fungicide",
+    "mode_of_action": "Protective barrier",
+    "aliases": [
+      "silocoxin",
+      "সিলোক্স"
+    ]
+  },
+  {
+    "en": "Benzimides",
+    "bn": "বেনজিমাইড",
+    "type": "fungicide",
+    "mode_of_action": "Systemic fungal inhibition",
+    "aliases": [
+      "benzimides",
+      "বেনজিমাইড"
+    ]
+  },
+  {
+    "en": "Sumithion (Fenitrothion)",
+    "bn": "সুমিথিয়ন",
+    "type": "pesticide",
+    "mode_of_action": "Acetylcholinesterase inhibitor",
+    "aliases": [
+      "sumithion (fenitrothion)",
+      "সুমিথিয়ন"
+    ]
+  },
+  {
+    "en": "Fentine hydroxide",
+    "bn": "ফেন্টিন হাইড্রোক্সাইড",
+    "type": "fungicide",
+    "mode_of_action": "Destroys fungal cell walls",
+    "aliases": [
+      "fentine hydroxide",
+      "ফেন্টিন হাইড্রোক্সাইড"
+    ]
+  },
+  {
+    "en": "Econazole",
+    "bn": "একোনাজল",
+    "type": "fungicide",
+    "mode_of_action": "Ergosterol biosynthesis inhibitor",
+    "aliases": [
+      "econazole",
+      "একোনাজল"
+    ]
+  },
+  {
+    "en": "Bixafen",
+    "bn": "বিক্সাফেন",
+    "type": "fungicide",
+    "mode_of_action": "Systemic fungicide, SDHI inhibitor",
+    "aliases": [
+      "bixafen",
+      "বিক্সাফেন"
+    ]
+  },
+  {
+    "en": "Maneb",
+    "bn": "ম্যানেব",
+    "type": "fungicide",
+    "mode_of_action": "Broad-spectrum protectant fungicide",
+    "aliases": [
+      "maneb",
+      "ম্যানেব"
+    ]
+  },
+  {
+    "en": "Elemental sulfur",
+    "bn": "এলিমেন্টাল সালফার",
+    "type": "fungicide",
+    "mode_of_action": "Protectant fungicide, disrupts fungal metabolism",
+    "aliases": [
+      "elemental sulfur",
+      "এলিমেন্টাল সালফার"
+    ]
+  },
+  {
+    "en": "Captan",
+    "bn": "ক্যাপটান",
+    "type": "fungicide",
+    "mode_of_action": "Multi-site broad spectrum",
+    "aliases": [
+      "captan",
+      "ক্যাপটান"
+    ]
+  },
+  {
+    "en": "Folpet",
+    "bn": "ফলপেট",
+    "type": "fungicide",
+    "mode_of_action": "Multi-site broad spectrum",
+    "aliases": [
+      "folpet",
+      "ফলপেট"
+    ]
+  },
+  {
+    "en": "Affinity Powder",
+    "bn": "এফিনিটি পাউডার",
+    "type": "herbicide",
+    "mode_of_action": "Post-emergence herbicide for broad-leaf weeds",
+    "aliases": [
+      "affinity powder",
+      "এফিনিটি পাউডার"
+    ]
+  },
+  {
+    "en": "Lanirat",
+    "bn": "ল্যানির‌্যাট",
+    "type": "pesticide",
+    "mode_of_action": "Anticoagulant rodenticide",
+    "aliases": [
+      "lanirat",
+      "ল্যানির‌্যাট"
+    ]
+  },
+  {
+    "en": "2,4-D Amine",
+    "bn": "২,৪ ডি এমাইন",
+    "type": "herbicide",
+    "mode_of_action": "Selective herbicide for broad-leaf weeds",
+    "aliases": [
+      "2,4-d amine",
+      "২,৪ ডি এমাইন"
+    ]
+  },
+  {
+    "en": "Hammer",
+    "bn": "হ্যামার",
+    "type": "herbicide",
+    "mode_of_action": "Post-emergence herbicide",
+    "aliases": [
+      "hammer",
+      "হ্যামার"
+    ]
+  },
+  {
+    "en": "Folicur",
+    "bn": "ফলিকুর",
+    "type": "fungicide",
+    "mode_of_action": "Systemic fungicide (Tebuconazole)",
+    "aliases": [
+      "folicur",
+      "ফলিকুর"
+    ]
+  },
+  {
+    "en": "Provax-200 WP",
+    "bn": "প্রোভ্যাক্স-২০০ ডব্লিউপি",
+    "type": "fungicide",
+    "mode_of_action": "Seed treatment fungicide",
+    "aliases": [
+      "provax-200 wp",
+      "প্রোভ্যাক্স-২০০ ডব্লিউপি"
+    ]
+  },
+  {
+    "en": "Fortenza",
+    "bn": "ফরটেনজা",
+    "type": "pesticide",
+    "mode_of_action": "Insecticide for seed treatment",
+    "aliases": [
+      "fortenza",
+      "ফরটেনজা"
+    ]
+  },
+  {
+    "en": "Gaucho",
+    "bn": "গাউচু",
+    "type": "pesticide",
+    "mode_of_action": "Systemic insecticide for seed treatment",
+    "aliases": [
+      "gaucho",
+      "গাউচু"
+    ]
+  },
+  {
+    "en": "Confidor",
+    "bn": "কনফিডর",
+    "type": "pesticide",
+    "mode_of_action": "Systemic insecticide targeting sucking pests",
+    "aliases": [
+      "confidor",
+      "কনফিডর"
+    ]
+  },
+  {
+    "en": "Actara",
+    "bn": "একতারা",
+    "type": "pesticide",
+    "mode_of_action": "Systemic insecticide for sucking pests",
+    "aliases": [
+      "actara",
+      "একতারা"
+    ]
+  },
+  {
+    "en": "Vitavax-200",
+    "bn": "ভিটাবেক্স-২০০",
+    "type": "fungicide",
+    "mode_of_action": "Systemic fungicide for seed treatment",
+    "aliases": [
+      "vitavax-200",
+      "ভিটাবেক্স-২০০"
+    ]
+  },
+  {
+    "en": "Planofix",
+    "bn": "প্লানোফ্লিক্সা",
+    "type": "fertilizer",
+    "mode_of_action": "Plant growth regulator",
+    "aliases": [
+      "planofix",
+      "প্লানোফ্লিক্সা"
+    ]
+  },
+  {
+    "en": "Flora",
+    "bn": "ফ্লোরা",
+    "type": "fertilizer",
+    "mode_of_action": "Plant growth regulator",
+    "aliases": [
+      "flora",
+      "ফ্লোরা"
+    ]
+  },
+  {
+    "en": "Mepiquat Chloride",
+    "bn": "ম্যাপাকুইট ক্লোরাইড",
+    "type": "fertilizer",
+    "mode_of_action": "Plant growth retardant",
+    "aliases": [
+      "mepiquat chloride",
+      "ম্যাপাকুইট ক্লোরাইড"
+    ]
+  },
+  {
+    "en": "Proud (Propiconazole)",
+    "bn": "প্রাউড",
+    "type": "fungicide",
+    "mode_of_action": "Systemic fungicide",
+    "aliases": [
+      "proud (propiconazole)",
+      "প্রাউড"
+    ]
+  },
+  {
+    "en": "Uzinash",
+    "bn": "উজিনাশ",
+    "type": "pesticide",
+    "mode_of_action": "Insecticide for Uzi fly eggs",
+    "aliases": [
+      "uzinash",
+      "উজিনাশ"
+    ]
+  },
+  {
+    "en": "Thiodan",
+    "bn": "থিওডান",
+    "type": "pesticide",
+    "mode_of_action": "Broad-spectrum insecticide",
+    "aliases": [
+      "thiodan",
+      "থিওডান"
+    ]
+  },
+  {
+    "en": "Calixin",
+    "bn": "ক্যালিক্সিন",
+    "type": "fungicide",
+    "mode_of_action": "Systemic fungicide",
+    "aliases": [
+      "calixin",
+      "ক্যালিক্সিন"
+    ]
+  },
+  {
+    "en": "Kasugamycin",
+    "bn": "কাসুগামাইসিন",
+    "type": "bactericide",
+    "mode_of_action": "Inhibits bacterial protein synthesis",
+    "aliases": [
+      "kasugamycin",
+      "কাসুগামাইসিন"
+    ]
+  },
+  {
+    "en": "Kaolin",
+    "bn": "কাওলিন",
+    "type": "pesticide",
+    "mode_of_action": "Creates a physical particle film barrier",
+    "aliases": [
+      "kaolin",
+      "কাওলিন"
+    ]
+  },
+  {
+    "en": "Liquid Soap",
+    "bn": "তরল সাবান",
+    "type": "pesticide",
+    "mode_of_action": "Disrupts the outer layer of soft-bodied insects causing dehydration",
+    "aliases": [
+      "liquid soap",
+      "তরল সাবান"
+    ]
+  }
+]

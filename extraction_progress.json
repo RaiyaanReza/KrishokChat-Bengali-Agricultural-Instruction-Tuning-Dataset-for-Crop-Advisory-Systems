@@ -1,0 +1,16 @@
+{
+  "current_file": "docs/agri_expert_corpus_bengali.json",
+  "current_file_progress": "21/21",
+  "global_batches_progress": "469/477",
+  "elapsed_time_seconds": 6862.1,
+  "estimated_remaining_time_minutes": 2.0,
+  "estimated_remaining_time_seconds": 117.1,
+  "total_extracted_unique_glossary": 1417,
+  "total_extracted_unique_chemicals": 3157,
+  "api_keys_status": {
+    "total_keys": 29,
+    "active_working_keys": 23,
+    "disabled_invalid_keys": 6,
+    "keys_in_429_cooldown": 21
+  }
+}

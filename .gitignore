@@ -1,0 +1,30 @@
+# Large dataset files (tracked via Git LFS)
+dataset_hf/train.jsonl
+dataset_hf/test.jsonl
+dataset_hf/val.jsonl
+dataset_hf/full_dataset.jsonl
+
+# Parquet copies (generated from JSONL)
+dataset_hf/*.parquet
+
+# Notebook checkpoints
+notebooks/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment files
+.env
+.env.*
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Ignore dataset folder
+dataset_hf/
+dataset/
+*.jsonl
+*.parquet

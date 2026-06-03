@@ -1,0 +1,7087 @@
+[
+  {
+    "bn": "অল্টারনারিয়া স্পট",
+    "en": "Alternaria spot",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্ল্যাক রট",
+    "en": "Black rot",
+    "category": "disease"
+  },
+  {
+    "bn": "উড়চুঙ্গা পোকা",
+    "en": "Mole cricket",
+    "category": "pest"
+  },
+  {
+    "bn": "ইজিপশিয়ান কটনওয়ার্ম",
+    "en": "Egyptian cottonworm",
+    "category": "pest"
+  },
+  {
+    "bn": "ধান পোকা",
+    "en": "Stored grain pest",
+    "category": "pest"
+  },
+  {
+    "bn": "ফুমিনেশন",
+    "en": "Fumigation",
+    "category": "general"
+  },
+  {
+    "bn": "রিং স্পট",
+    "en": "Ring spot",
+    "category": "disease"
+  },
+  {
+    "bn": "স্ট্রাইপ রাস্ট",
+    "en": "Stripe rust",
+    "category": "disease"
+  },
+  {
+    "bn": "খোলপচা",
+    "en": "Sheath rot",
+    "category": "disease"
+  },
+  {
+    "bn": "শট হোল বোরার",
+    "en": "Shot hole borer",
+    "category": "pest"
+  },
+  {
+    "bn": "লিফ মাইনার",
+    "en": "Leaf miner",
+    "category": "pest"
+  },
+  {
+    "bn": "নলিমাছি",
+    "en": "Gall midge",
+    "category": "pest"
+  },
+  {
+    "bn": "আলোক ফাঁদ",
+    "en": "Light trap",
+    "category": "general"
+  },
+  {
+    "bn": "বীজ শোধন",
+    "en": "Seed treatment",
+    "category": "general"
+  },
+  {
+    "bn": "শস্য পর্যায়",
+    "en": "Crop rotation",
+    "category": "general"
+  },
+  {
+    "bn": "ছত্রাকনাশক",
+    "en": "Fungicide",
+    "category": "general"
+  },
+  {
+    "bn": "বালাইনাশক",
+    "en": "Pesticide",
+    "category": "general"
+  },
+  {
+    "bn": "সারফ্যাক্ট্যান্ট",
+    "en": "Surfactant",
+    "category": "general"
+  },
+  {
+    "bn": "বাকানি রোগ",
+    "en": "Bakanae disease",
+    "category": "disease"
+  },
+  {
+    "bn": "রাইস র‍্যাগেড স্টান্ট",
+    "en": "Rice ragged stunt",
+    "category": "disease"
+  },
+  {
+    "bn": "ডাউনি মিলডিউ",
+    "en": "Downy mildew",
+    "category": "disease"
+  },
+  {
+    "bn": "শৈবাল পাতার দাগ",
+    "en": "Algal leaf spot",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্রাউন প্ল্যান্ট হপার",
+    "en": "Brown planthopper",
+    "category": "pest"
+  },
+  {
+    "bn": "রাইস গ্রাসি স্টান্ট",
+    "en": "Rice grassy stunt",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াজনিত পাতা পোড়া রোগ",
+    "en": "Bacterial leaf spot",
+    "category": "disease"
+  },
+  {
+    "bn": "অ্যানথ্রাকনোজ",
+    "en": "Anthracnose",
+    "category": "disease"
+  },
+  {
+    "bn": "খোলপোড়া রোগ",
+    "en": "Sheath blight",
+    "category": "disease"
+  },
+  {
+    "bn": "বাদামী গাছফড়িং",
+    "en": "Brown planthopper",
+    "category": "pest"
+  },
+  {
+    "bn": "ফ্লি বিটল",
+    "en": "Flea beetle",
+    "category": "pest"
+  },
+  {
+    "bn": "ঢলে পড়া রোগ",
+    "en": "Wilt disease",
+    "category": "disease"
+  },
+  {
+    "bn": "থ্রিপস",
+    "en": "Thrips",
+    "category": "pest"
+  },
+  {
+    "bn": "ক্লাব রুট",
+    "en": "Club root",
+    "category": "disease"
+  },
+  {
+    "bn": "আর্লি ব্লাইট",
+    "en": "Early blight",
+    "category": "disease"
+  },
+  {
+    "bn": "জাব পোকা",
+    "en": "Aphid",
+    "category": "pest"
+  },
+  {
+    "bn": "ফসল আবর্তন",
+    "en": "Crop rotation",
+    "category": "general"
+  },
+  {
+    "bn": "মিশ্র চাষ",
+    "en": "Intercropping",
+    "category": "general"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াল ব্লাইট",
+    "en": "Bacterial Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "রাইস র‍্যাগেড স্টান্ট",
+    "en": "Rice Ragged Stunt",
+    "category": "disease"
+  },
+  {
+    "bn": "সমন্বিত বালাই ব্যবস্থাপনা",
+    "en": "Integrated Pest Management (IPM)",
+    "category": "general"
+  },
+  {
+    "bn": "ফেরোমন ফাঁদ",
+    "en": "Pheromone trap",
+    "category": "general"
+  },
+  {
+    "bn": "ডিলিন্টেড",
+    "en": "Delinted",
+    "category": "general"
+  },
+  {
+    "bn": "অণুখাদ্য",
+    "en": "Micronutrient",
+    "category": "general"
+  },
+  {
+    "bn": "ধানত পোকা",
+    "en": "Stored grain pest",
+    "category": "pest"
+  },
+  {
+    "bn": "অনুখাদ্য",
+    "en": "Micronutrient",
+    "category": "general"
+  },
+  {
+    "bn": "গ্রাসি স্টান্ট",
+    "en": "Grassy stunt",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াল ব্লাইট",
+    "en": "Bacterial blight",
+    "category": "disease"
+  },
+  {
+    "bn": "কাণ্ড মরিচা",
+    "en": "Stem rust",
+    "category": "disease"
+  },
+  {
+    "bn": "ন্যারো ব্রাউন স্পট",
+    "en": "Narrow brown spot",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্লাস্ট",
+    "en": "Blast",
+    "category": "disease"
+  },
+  {
+    "bn": "সমন্বিত কীটপতঙ্গ দমন",
+    "en": "Integrated Pest Management (IPM)",
+    "category": "general"
+  },
+  {
+    "bn": "পরাগায়নকারী পতঙ্গ",
+    "en": "Pollinator",
+    "category": "general"
+  },
+  {
+    "bn": "শস্য আবর্তন",
+    "en": "Crop rotation",
+    "category": "general"
+  },
+  {
+    "bn": "রাইস র‍্যাগেড স্টান্ট ভাইরাস",
+    "en": "Rice ragged stunt virus",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্লাস্ট রোগ",
+    "en": "Blast disease",
+    "category": "disease"
+  },
+  {
+    "bn": "সাদা গাছফড়িং",
+    "en": "White-backed planthopper",
+    "category": "pest"
+  },
+  {
+    "bn": "ছত্রাকজনিত ঢলে পড়া রোগ",
+    "en": "Fungal wilt",
+    "category": "disease"
+  },
+  {
+    "bn": "নাবি ধসা",
+    "en": "Late blight",
+    "category": "disease"
+  },
+  {
+    "bn": "ক্যাবেজ ওয়েবওয়ার্ম",
+    "en": "Cabbage webworm",
+    "category": "pest"
+  },
+  {
+    "bn": "ক্যাবেজ লুফার",
+    "en": "Cabbage looper",
+    "category": "pest"
+  },
+  {
+    "bn": "পাতা পোড়া",
+    "en": "Bacterial blight",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াল লিফ স্ট্রিক",
+    "en": "Bacterial leaf streak",
+    "category": "disease"
+  },
+  {
+    "bn": "পাতার দাগ রোগ",
+    "en": "Bacterial leaf streak",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াল শিথ ব্রাউন রট",
+    "en": "Bacterial sheath brown rot",
+    "category": "disease"
+  },
+  {
+    "bn": "খোলপচা রোগ",
+    "en": "Bacterial sheath brown rot",
+    "category": "disease"
+  },
+  {
+    "bn": "মাজরা পোকা",
+    "en": "Stem borer",
+    "category": "pest"
+  },
+  {
+    "bn": "কুশি",
+    "en": "Tiller",
+    "category": "general"
+  },
+  {
+    "bn": "থোড়",
+    "en": "Booting stage",
+    "category": "general"
+  },
+  {
+    "bn": "নাইট্রোজেন সার",
+    "en": "Nitrogen fertilizer",
+    "category": "general"
+  },
+  {
+    "bn": "রোগ প্রতিরোধী জাত",
+    "en": "Resistant variety",
+    "category": "general"
+  },
+  {
+    "bn": "শিথ ব্রাউন রট",
+    "en": "Sheath brown rot",
+    "category": "disease"
+  },
+  {
+    "bn": "বাদামী দাগ",
+    "en": "Brown spot",
+    "category": "disease"
+  },
+  {
+    "bn": "নেক্রোসিস",
+    "en": "Necrosis",
+    "category": "general"
+  },
+  {
+    "bn": "বীজবাহিত",
+    "en": "Seed-borne",
+    "category": "general"
+  },
+  {
+    "bn": "ছত্রাক",
+    "en": "Fungus",
+    "category": "general"
+  },
+  {
+    "bn": "ব্যাকটেরিয়া",
+    "en": "Bacteria",
+    "category": "general"
+  },
+  {
+    "bn": "চিটা",
+    "en": "Empty grain/Chaffy grain",
+    "category": "general"
+  },
+  {
+    "bn": "পতাকাপাতা",
+    "en": "Flag leaf",
+    "category": "general"
+  },
+  {
+    "bn": "ছড়া",
+    "en": "Panicle",
+    "category": "general"
+  },
+  {
+    "bn": "এপিফাইট",
+    "en": "Epiphyte",
+    "category": "general"
+  },
+  {
+    "bn": "পর্ব ব্লাস্ট",
+    "en": "Node blast",
+    "category": "disease"
+  },
+  {
+    "bn": "নেক ব্লাস্ট",
+    "en": "Neck blast",
+    "category": "disease"
+  },
+  {
+    "bn": "বাদামী দাগ রোগ",
+    "en": "Brown spot disease",
+    "category": "disease"
+  },
+  {
+    "bn": "সাদা ছড়া",
+    "en": "Whiteheads",
+    "category": "disease"
+  },
+  {
+    "bn": "কুলিওপ্টিল",
+    "en": "Coleoptile",
+    "category": "general"
+  },
+  {
+    "bn": "গ্লুম",
+    "en": "Glumes",
+    "category": "general"
+  },
+  {
+    "bn": "স্পাইকলেট",
+    "en": "Spikelets",
+    "category": "general"
+  },
+  {
+    "bn": "পেকি রাইস",
+    "en": "Pecky rice",
+    "category": "general"
+  },
+  {
+    "bn": "চারা ব্লাইট",
+    "en": "Seedling blight",
+    "category": "disease"
+  },
+  {
+    "bn": "ধানের ফস্কা দাগ রোগ",
+    "en": "False smut",
+    "category": "disease"
+  },
+  {
+    "bn": "লিফ স্ক্যাল্ড",
+    "en": "Leaf scald",
+    "category": "disease"
+  },
+  {
+    "bn": "শিকড় পচা",
+    "en": "Root rot",
+    "category": "disease"
+  },
+  {
+    "bn": "হেড ব্লাইট",
+    "en": "Head blight",
+    "category": "disease"
+  },
+  {
+    "bn": "অঙ্কুরোদগম ক্ষমতা",
+    "en": "Germination capacity",
+    "category": "general"
+  },
+  {
+    "bn": "মুড়ি ধান",
+    "en": "Ratoon rice",
+    "category": "general"
+  },
+  {
+    "bn": "পটাশিয়াম",
+    "en": "Potassium",
+    "category": "general"
+  },
+  {
+    "bn": "অল্টারনেট ওয়েটিং অ্যান্ড ড্রাইং",
+    "en": "Alternate Wetting and Drying (AWD)",
+    "category": "general"
+  },
+  {
+    "bn": "রেড স্ট্রাইপ",
+    "en": "Red stripe",
+    "category": "disease"
+  },
+  {
+    "bn": "অরেঞ্জ লিফ ব্লাইট",
+    "en": "Orange leaf blight",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াল লিফ ব্লাইট",
+    "en": "Bacterial leaf blight",
+    "category": "disease"
+  },
+  {
+    "bn": "রাইস ইয়েলো ডোয়ার্ফ",
+    "en": "Rice yellow dwarf",
+    "category": "disease"
+  },
+  {
+    "bn": "রাইস ডোয়ার্ফ",
+    "en": "Rice dwarf",
+    "category": "disease"
+  },
+  {
+    "bn": "বাদামী গাছ ফড়িং",
+    "en": "Brown plant hopper",
+    "category": "pest"
+  },
+  {
+    "bn": "রাইস হোরাল ম্যাগট",
+    "en": "Rice whorl maggot",
+    "category": "pest"
+  },
+  {
+    "bn": "নেমাটোড",
+    "en": "Nematode",
+    "category": "pest"
+  },
+  {
+    "bn": "প্যানিকল",
+    "en": "Panicle",
+    "category": "general"
+  },
+  {
+    "bn": "ফ্ল্যাগ লিফ",
+    "en": "Flag leaf",
+    "category": "general"
+  },
+  {
+    "bn": "বুটিং",
+    "en": "Booting",
+    "category": "general"
+  },
+  {
+    "bn": "হেডিং",
+    "en": "Heading",
+    "category": "general"
+  },
+  {
+    "bn": "গ্যাল",
+    "en": "Gall",
+    "category": "general"
+  },
+  {
+    "bn": "নলিমাছি",
+    "en": "Rice gall midge",
+    "category": "pest"
+  },
+  {
+    "bn": "উড়চুঙ্গা",
+    "en": "Mole cricket",
+    "category": "pest"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াজনিত পাতা পোড়া",
+    "en": "Bacterial leaf spot",
+    "category": "disease"
+  },
+  {
+    "bn": "পার্পল ব্লচ",
+    "en": "Purple Blotch",
+    "category": "disease"
+  },
+  {
+    "bn": "ধূসর রোগ",
+    "en": "Grey Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "গ্রে ব্লাইট",
+    "en": "Grey Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "নলিমাছি",
+    "en": "Gall Midge",
+    "category": "pest"
+  },
+  {
+    "bn": "ক্লাব রুট",
+    "en": "Club Root",
+    "category": "disease"
+  },
+  {
+    "bn": "আর্লি ব্লাইট",
+    "en": "Early Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "বেঞ্চ টেরাস",
+    "en": "Bench Terrace",
+    "category": "general"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াল শিথ ব্রাউন রট",
+    "en": "Bacterial Sheath Brown Rot",
+    "category": "disease"
+  },
+  {
+    "bn": "ফলস স্মাট",
+    "en": "False Smut",
+    "category": "disease"
+  },
+  {
+    "bn": "পাউডারি মিলডিউ",
+    "en": "Powdery Mildew",
+    "category": "disease"
+  },
+  {
+    "bn": "লিফ স্ক্যাল্ড",
+    "en": "Leaf Scald",
+    "category": "disease"
+  },
+  {
+    "bn": "খোলপোড়া",
+    "en": "Sheath Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "স্ট্রাইপ রাস্ট",
+    "en": "Stripe Rust",
+    "category": "disease"
+  },
+  {
+    "bn": "বকানি রোগ",
+    "en": "Bakanae Disease",
+    "category": "disease"
+  },
+  {
+    "bn": "কাণ্ড পচা",
+    "en": "Stem Rot",
+    "category": "disease"
+  },
+  {
+    "bn": "ফিউসারিয়াম উইল্ট",
+    "en": "Fusarium wilt",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াল উইল্ট",
+    "en": "Bacterial wilt",
+    "category": "disease"
+  },
+  {
+    "bn": "পাউডারি মিলডিউ",
+    "en": "Powdery mildew",
+    "category": "disease"
+  },
+  {
+    "bn": "শীষের গোড়া পচা",
+    "en": "Sheath rot",
+    "category": "disease"
+  },
+  {
+    "bn": "নর্দান লিফ ব্লাইট",
+    "en": "Northern leaf blight",
+    "category": "disease"
+  },
+  {
+    "bn": "মরিচা রোগ",
+    "en": "Rust disease",
+    "category": "disease"
+  },
+  {
+    "bn": "কমন রাস্ট",
+    "en": "Common rust",
+    "category": "disease"
+  },
+  {
+    "bn": "সাদা মাছি",
+    "en": "Whitefly",
+    "category": "pest"
+  },
+  {
+    "bn": "ধূসর রোগ",
+    "en": "Grey blight",
+    "category": "disease"
+  },
+  {
+    "bn": "খোলপচা রোগ",
+    "en": "Sheath blight",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্ল্যাক কাটওয়ার্ম",
+    "en": "Black cutworm",
+    "category": "pest"
+  },
+  {
+    "bn": "বকানি রোগ",
+    "en": "Bakanae disease",
+    "category": "disease"
+  },
+  {
+    "bn": "শোষক পোকা",
+    "en": "Sucking pest",
+    "category": "pest"
+  },
+  {
+    "bn": "পাতাপোড়া রোগ",
+    "en": "Bacterial leaf blight",
+    "category": "disease"
+  },
+  {
+    "bn": "হারলেকুইন বাগ",
+    "en": "Harlequin bug",
+    "category": "pest"
+  },
+  {
+    "bn": "সফট রট",
+    "en": "Soft rot",
+    "category": "disease"
+  },
+  {
+    "bn": "ড্যাম্পিং অফ",
+    "en": "Damping off",
+    "category": "disease"
+  },
+  {
+    "bn": "গান্ধী পোকা",
+    "en": "Rice bug",
+    "category": "pest"
+  },
+  {
+    "bn": "লাল মাকড়সা",
+    "en": "Red spider mite",
+    "category": "pest"
+  },
+  {
+    "bn": "পার্পল ব্লচ",
+    "en": "Purple blotch",
+    "category": "disease"
+  },
+  {
+    "bn": "বোল পঁচা",
+    "en": "Boll rot",
+    "category": "disease"
+  },
+  {
+    "bn": "রাইস স্ট্রাইপ ভাইরাস",
+    "en": "Rice stripe virus",
+    "category": "disease"
+  },
+  {
+    "bn": "চুঙ্গি পোকা",
+    "en": "Rice caseworm",
+    "category": "pest"
+  },
+  {
+    "bn": "গলমাছি",
+    "en": "Rice gall midge",
+    "category": "pest"
+  },
+  {
+    "bn": "গান্ধি পোকা",
+    "en": "Rice bug",
+    "category": "pest"
+  },
+  {
+    "bn": "টুংরো ভাইরাস",
+    "en": "Tungro virus",
+    "category": "disease"
+  },
+  {
+    "bn": "সবুজ পাতাফড়িং",
+    "en": "Green leafhopper",
+    "category": "pest"
+  },
+  {
+    "bn": "সাদা ঘাসফড়িং",
+    "en": "White leafhopper",
+    "category": "pest"
+  },
+  {
+    "bn": "জাবপোকা",
+    "en": "Aphid",
+    "category": "pest"
+  },
+  {
+    "bn": "লাল মরিচা রোগ",
+    "en": "Red rust",
+    "category": "disease"
+  },
+  {
+    "bn": "কাণ্ড পচা",
+    "en": "Stem rot",
+    "category": "disease"
+  },
+  {
+    "bn": "খোলপোড়া",
+    "en": "Sheath blight",
+    "category": "disease"
+  },
+  {
+    "bn": "গলা পচা",
+    "en": "Neck rot",
+    "category": "disease"
+  },
+  {
+    "bn": "চারা পচা রোগ",
+    "en": "Damping-off",
+    "category": "disease"
+  },
+  {
+    "bn": "বাদামী দাগ রোগ",
+    "en": "Brown spot",
+    "category": "disease"
+  },
+  {
+    "bn": "ঢলে পড়া রোগ",
+    "en": "Wilt",
+    "category": "disease"
+  },
+  {
+    "bn": "কাণ্ড মরিচা রোগ",
+    "en": "Stem rust",
+    "category": "disease"
+  },
+  {
+    "bn": "উইপোকা",
+    "en": "Termite",
+    "category": "pest"
+  },
+  {
+    "bn": "এফিড",
+    "en": "Aphid",
+    "category": "pest"
+  },
+  {
+    "bn": "খোলপচা রোগ",
+    "en": "Sheath rot",
+    "category": "disease"
+  },
+  {
+    "bn": "গ্রে লিফ স্পট",
+    "en": "Gray leaf spot",
+    "category": "disease"
+  },
+  {
+    "bn": "ফস্কা দাগ রোগ",
+    "en": "False smut",
+    "category": "disease"
+  },
+  {
+    "bn": "টুংরো রোগ",
+    "en": "Tungro",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্লাস্ট রোগ",
+    "en": "Blast",
+    "category": "disease"
+  },
+  {
+    "bn": "নাবি ধসা রোগ",
+    "en": "Late blight",
+    "category": "disease"
+  },
+  {
+    "bn": "ফিউজেরিয়াম উইল্ট",
+    "en": "Fusarium wilt",
+    "category": "disease"
+  },
+  {
+    "bn": "সবুজ মিরিড পোকা",
+    "en": "Green mirid bug",
+    "category": "pest"
+  },
+  {
+    "bn": "জৈব বালাইনাশক",
+    "en": "Bio-pesticide",
+    "category": "general"
+  },
+  {
+    "bn": "কীটনাশক",
+    "en": "Pesticide",
+    "category": "general"
+  },
+  {
+    "bn": "মালচিং",
+    "en": "Mulching",
+    "category": "general"
+  },
+  {
+    "bn": "কালো দাগ রোগ",
+    "en": "Black spot disease",
+    "category": "disease"
+  },
+  {
+    "bn": "মাজরা পোকা",
+    "en": "Yellow stem borer",
+    "category": "pest"
+  },
+  {
+    "bn": "ব্ল্যাক স্পট",
+    "en": "Black spot",
+    "category": "disease"
+  },
+  {
+    "bn": "স্টেম রট",
+    "en": "Stem rot",
+    "category": "disease"
+  },
+  {
+    "bn": "ক্রেসেক",
+    "en": "Bacterial blight",
+    "category": "disease"
+  },
+  {
+    "bn": "রাইস লিফ ফোল্ডার",
+    "en": "Rice leaf folder",
+    "category": "pest"
+  },
+  {
+    "bn": "টুংরো রোগ",
+    "en": "Tungro disease",
+    "category": "disease"
+  },
+  {
+    "bn": "নেপিয়ার ঘাস",
+    "en": "Napier grass",
+    "category": "general"
+  },
+  {
+    "bn": "পাতাপোড়া রোগ",
+    "en": "Bacterial Leaf Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "উড়চুঙ্গা পোকা",
+    "en": "Mole Cricket",
+    "category": "pest"
+  },
+  {
+    "bn": "ন্যারো ব্রাউন স্পট",
+    "en": "Narrow Brown Spot",
+    "category": "disease"
+  },
+  {
+    "bn": "সবুজ পাতাফড়িং",
+    "en": "Green Leafhopper",
+    "category": "pest"
+  },
+  {
+    "bn": "নাবি ধসা",
+    "en": "Late Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "খোলপচা রোগ",
+    "en": "Sheath Rot",
+    "category": "disease"
+  },
+  {
+    "bn": "কাণ্ড পচা রোগ",
+    "en": "Stem Rot",
+    "category": "disease"
+  },
+  {
+    "bn": "মাজরা পোকা",
+    "en": "Stem Borer",
+    "category": "pest"
+  },
+  {
+    "bn": "নেক ব্লাস্ট",
+    "en": "Neck Blast",
+    "category": "disease"
+  },
+  {
+    "bn": "খোলপোড়া রোগ",
+    "en": "Sheath Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "রাইস ইয়েলো মটল ভাইরাস",
+    "en": "Rice Yellow Mottle Virus",
+    "category": "disease"
+  },
+  {
+    "bn": "টুংরো",
+    "en": "Tungro",
+    "category": "disease"
+  },
+  {
+    "bn": "নর্দান লিফ ব্লাইট",
+    "en": "Northern Leaf Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "ফিউজেরিয়াম উইল্ট",
+    "en": "Fusarium Wilt",
+    "category": "disease"
+  },
+  {
+    "bn": "বোল পঁচা রোগ",
+    "en": "Boll Rot",
+    "category": "disease"
+  },
+  {
+    "bn": "ফল আর্মিওয়ার্ম",
+    "en": "Fall Armyworm",
+    "category": "pest"
+  },
+  {
+    "bn": "কাণ্ড মরিচা",
+    "en": "Stem Rust",
+    "category": "disease"
+  },
+  {
+    "bn": "বাদামী গাছফড়িং",
+    "en": "Brown Planthopper",
+    "category": "pest"
+  },
+  {
+    "bn": "পাতাপোড়া রোগ",
+    "en": "Leaf Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "রাইস গ্রাসি স্টান্ট ভাইরাস",
+    "en": "Rice Grassy Stunt Virus",
+    "category": "disease"
+  },
+  {
+    "bn": "ফস্কা দাগ রোগ",
+    "en": "False Smut",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্লাস্ট রোগ",
+    "en": "Blast Disease",
+    "category": "disease"
+  },
+  {
+    "bn": "চুঙ্গি পোকা",
+    "en": "Rice Stem Borer",
+    "category": "pest"
+  },
+  {
+    "bn": "অল্টারনারিয়া স্পট",
+    "en": "Alternaria Spot",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্ল্যাক রট",
+    "en": "Black Rot",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াল লিফ স্ট্রিক",
+    "en": "Bacterial Leaf Streak",
+    "category": "disease"
+  },
+  {
+    "bn": "খোলপচা রোগ",
+    "en": "Sheath Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "হেলোপেলটিস",
+    "en": "Helopeltis",
+    "category": "pest"
+  },
+  {
+    "bn": "আগাম ধসা রোগ",
+    "en": "Early Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "নাবি ধসা রোগ",
+    "en": "Late Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্ল্যাক কাটওয়ার্ম",
+    "en": "Black Cutworm",
+    "category": "pest"
+  },
+  {
+    "bn": "সফট রট",
+    "en": "Soft Rot",
+    "category": "disease"
+  },
+  {
+    "bn": "রাইস র‍্যাগেড স্টান্ট ভাইরাস",
+    "en": "Rice Ragged Stunt Virus",
+    "category": "disease"
+  },
+  {
+    "bn": "আগাম ধসা রোগ",
+    "en": "Early blight",
+    "category": "disease"
+  },
+  {
+    "bn": "হলুদ মাজরা পোকা",
+    "en": "Yellow stem borer",
+    "category": "pest"
+  },
+  {
+    "bn": "গাছফড়িং",
+    "en": "Grasshopper",
+    "category": "pest"
+  },
+  {
+    "bn": "সবুজ পাতা ফড়িং",
+    "en": "Green leafhopper",
+    "category": "pest"
+  },
+  {
+    "bn": "গোলমাসী",
+    "en": "Rice gall midge",
+    "category": "pest"
+  },
+  {
+    "bn": "মিরিড পোকা",
+    "en": "Mirid bug",
+    "category": "pest"
+  },
+  {
+    "bn": "সালোকসংশ্লেষণ",
+    "en": "Photosynthesis",
+    "category": "general"
+  },
+  {
+    "bn": "ভার্মিকম্পোস্ট",
+    "en": "Vermicompost",
+    "category": "general"
+  },
+  {
+    "bn": "ছত্রাক",
+    "en": "Fungus",
+    "category": "disease"
+  },
+  {
+    "bn": "সার",
+    "en": "Fertilizer",
+    "category": "general"
+  },
+  {
+    "bn": "হপার বার্ন",
+    "en": "Hopper burn",
+    "category": "pest"
+  },
+  {
+    "bn": "ফল আর্মিওয়ার্ম",
+    "en": "Fall armyworm",
+    "category": "pest"
+  },
+  {
+    "bn": "আগাম ধসা",
+    "en": "Early blight",
+    "category": "disease"
+  },
+  {
+    "bn": "হোয়াইটফ্লাই",
+    "en": "Whitefly",
+    "category": "pest"
+  },
+  {
+    "bn": "সবুজ পিচ এফিড",
+    "en": "Green peach aphid",
+    "category": "pest"
+  },
+  {
+    "bn": "পাতাপোড়া রোগ",
+    "en": "Leaf blight",
+    "category": "disease"
+  },
+  {
+    "bn": "গলমাছি",
+    "en": "Gall midge",
+    "category": "pest"
+  },
+  {
+    "bn": "ঘাসফড়িং",
+    "en": "Grasshopper",
+    "category": "pest"
+  },
+  {
+    "bn": "উরচুঙ্গা",
+    "en": "Mole cricket",
+    "category": "pest"
+  },
+  {
+    "bn": "চুনগি পোকা",
+    "en": "Rice caseworm",
+    "category": "pest"
+  },
+  {
+    "bn": "আগাছা",
+    "en": "Weed",
+    "category": "general"
+  },
+  {
+    "bn": "নিড়ানি",
+    "en": "Weeding",
+    "category": "general"
+  },
+  {
+    "bn": "ফস্কা দাগ",
+    "en": "False smut",
+    "category": "disease"
+  },
+  {
+    "bn": "ক্রুসিফার ফ্লি বিটল",
+    "en": "Crucifer flea beetle",
+    "category": "pest"
+  },
+  {
+    "bn": "অণুখাদ্য",
+    "en": "Micronutrients",
+    "category": "general"
+  },
+  {
+    "bn": "ফসকা দাগ রোগ",
+    "en": "False smut",
+    "category": "disease"
+  },
+  {
+    "bn": "গোড়া পচা রোগ",
+    "en": "Root rot",
+    "category": "disease"
+  },
+  {
+    "bn": "লিফ স-ফ্লাই",
+    "en": "Leaf sawfly",
+    "category": "pest"
+  },
+  {
+    "bn": "সারকোস্পোরা",
+    "en": "Cercospora",
+    "category": "disease"
+  },
+  {
+    "bn": "মরিচা রোগ",
+    "en": "Rust",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াল পাতা পোড়া রোগ",
+    "en": "Bacterial leaf spot",
+    "category": "disease"
+  },
+  {
+    "bn": "মিলি এফিড",
+    "en": "Mealy aphid",
+    "category": "pest"
+  },
+  {
+    "bn": "বেঞ্চ টেরাস",
+    "en": "Bench terrace",
+    "category": "general"
+  },
+  {
+    "bn": "জুট-জিও টেক্সটাইল",
+    "en": "Jute-geo textile",
+    "category": "general"
+  },
+  {
+    "bn": "ফসল তোলার পূর্বের বিরতিকাল",
+    "en": "Pre-harvest interval (PHI)",
+    "category": "general"
+  },
+  {
+    "bn": "মাইট",
+    "en": "Mite",
+    "category": "pest"
+  },
+  {
+    "bn": "অরোবাংকি",
+    "en": "Orobanche",
+    "category": "pest"
+  },
+  {
+    "bn": "অলটারনেরিয়া",
+    "en": "Alternaria",
+    "category": "disease"
+  },
+  {
+    "bn": "ধূসর পাতা দাগ রোগ",
+    "en": "Gray leaf spot",
+    "category": "disease"
+  },
+  {
+    "bn": "অল্টারনারিয়া",
+    "en": "Alternaria",
+    "category": "disease"
+  },
+  {
+    "bn": "খোল পোড়া রোগ",
+    "en": "Sheath blight",
+    "category": "disease"
+  },
+  {
+    "bn": "ফলস স্মাট",
+    "en": "False smut",
+    "category": "disease"
+  },
+  {
+    "bn": "শিথ রট",
+    "en": "Sheath rot",
+    "category": "disease"
+  },
+  {
+    "bn": "কাণ্ড পচা রোগ",
+    "en": "Stem rot",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াল লিফ স্পট",
+    "en": "Bacterial leaf spot",
+    "category": "disease"
+  },
+  {
+    "bn": "সাদা গাছফড়িং",
+    "en": "White leafhopper",
+    "category": "pest"
+  },
+  {
+    "bn": "বাদামী ঝলসা রোগ",
+    "en": "Brown blight",
+    "category": "disease"
+  },
+  {
+    "bn": "বাদামী গাছ ফড়িং",
+    "en": "Brown planthopper",
+    "category": "pest"
+  },
+  {
+    "bn": "পাতা মোড়ানো পোকা",
+    "en": "Leaf folder",
+    "category": "pest"
+  },
+  {
+    "bn": "বর্ডার ক্রপ",
+    "en": "Border crop",
+    "category": "general"
+  },
+  {
+    "bn": "শুঁয়োপোকা",
+    "en": "Caterpillar",
+    "category": "pest"
+  },
+  {
+    "bn": "পেব্রিন",
+    "en": "Pebrine",
+    "category": "disease"
+  },
+  {
+    "bn": "পাতামোড়ানো পোকা",
+    "en": "Leaf folder",
+    "category": "pest"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াল ওজ",
+    "en": "Bacterial ooze",
+    "category": "disease"
+  },
+  {
+    "bn": "রাইস ইয়েলো মটল ভাইরাস",
+    "en": "Rice yellow mottle virus",
+    "category": "disease"
+  },
+  {
+    "bn": "গ্রে ব্লাইট",
+    "en": "Gray blight",
+    "category": "disease"
+  },
+  {
+    "bn": "হেলোপেলটিস পোকা",
+    "en": "Helopeltis bug",
+    "category": "pest"
+  },
+  {
+    "bn": "কফি লিফ রাস্ট",
+    "en": "Coffee leaf rust",
+    "category": "disease"
+  },
+  {
+    "bn": "শিকড় পঁচা রোগ",
+    "en": "Root rot",
+    "category": "disease"
+  },
+  {
+    "bn": "গ্রে ব্লাইট",
+    "en": "Grey blight",
+    "category": "disease"
+  },
+  {
+    "bn": "গোড়া পচা রোগ",
+    "en": "Foot rot",
+    "category": "disease"
+  },
+  {
+    "bn": "অল্টারনারিয়া রোগ",
+    "en": "Alternaria leaf spot",
+    "category": "disease"
+  },
+  {
+    "bn": "ন্যারো ব্রাউন স্পট",
+    "en": "Narrow brown leaf spot",
+    "category": "disease"
+  },
+  {
+    "bn": "ইরোসিক এসিড",
+    "en": "Erucic acid",
+    "category": "general"
+  },
+  {
+    "bn": "গ্লুকোসিনোলেট",
+    "en": "Glucosinolate",
+    "category": "general"
+  },
+  {
+    "bn": "ইঁদুর",
+    "en": "Rat",
+    "category": "pest"
+  },
+  {
+    "bn": "ধানের খোল পোড়া রোগ",
+    "en": "Sheath blight",
+    "category": "disease"
+  },
+  {
+    "bn": "লিফ রাস্ট",
+    "en": "Leaf rust",
+    "category": "disease"
+  },
+  {
+    "bn": "শিকড় পচা",
+    "en": "Root rot",
+    "category": "disease"
+  },
+  {
+    "bn": "গ্রাসি স্টান্ট ভাইরাস",
+    "en": "Grassy stunt virus",
+    "category": "disease"
+  },
+  {
+    "bn": "শস্যবিন্যাস",
+    "en": "Crop rotation",
+    "category": "general"
+  },
+  {
+    "bn": "কলস সেচ",
+    "en": "Pitcher irrigation",
+    "category": "general"
+  },
+  {
+    "bn": "নলিমাছি",
+    "en": "Nolimasi",
+    "category": "pest"
+  },
+  {
+    "bn": "চারা পচা",
+    "en": "Damping-off",
+    "category": "disease"
+  },
+  {
+    "bn": "পাতা ঝলসানো রোগ",
+    "en": "Leaf blight",
+    "category": "disease"
+  },
+  {
+    "bn": "বাদামি দাগ রোগ",
+    "en": "Brown spot",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াল স্পট",
+    "en": "Bacterial spot",
+    "category": "disease"
+  },
+  {
+    "bn": "খোল পোড়া রোগ",
+    "en": "Sheath rot",
+    "category": "disease"
+  },
+  {
+    "bn": "বাকানি রোগ",
+    "en": "Bakanae",
+    "category": "disease"
+  },
+  {
+    "bn": "চারা পচা রোগ",
+    "en": "Damping off",
+    "category": "disease"
+  },
+  {
+    "bn": "ফসকা দাগ রোগ",
+    "en": "Rice sheath blight",
+    "category": "disease"
+  },
+  {
+    "bn": "শৈবাল পাতার দাগ রোগ",
+    "en": "Algal leaf spot",
+    "category": "disease"
+  },
+  {
+    "bn": "গোলমাছি",
+    "en": "Gall midge",
+    "category": "pest"
+  },
+  {
+    "bn": "উইলো পাতা মরিচা",
+    "en": "Willow rust",
+    "category": "disease"
+  },
+  {
+    "bn": "মাকড়সা",
+    "en": "Mite",
+    "category": "pest"
+  },
+  {
+    "bn": "লাল মাকড়সা",
+    "en": "Red Spider Mite",
+    "category": "pest"
+  },
+  {
+    "bn": "টুংরো ভাইরাস",
+    "en": "Tungro Virus",
+    "category": "disease"
+  },
+  {
+    "bn": "পাতা ঝলসানো রোগ",
+    "en": "Leaf Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "বাদামী দাগ রোগ",
+    "en": "Brown Spot",
+    "category": "disease"
+  },
+  {
+    "bn": "ধানের খোসকা দাগ রোগ",
+    "en": "Sheath Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "গ্রে লিফ স্পট",
+    "en": "Gray Leaf Spot",
+    "category": "disease"
+  },
+  {
+    "bn": "মরিচা রোগ",
+    "en": "Rust Disease",
+    "category": "disease"
+  },
+  {
+    "bn": "রাইস লিফ ফোল্ডার",
+    "en": "Rice Leaf Folder",
+    "category": "pest"
+  },
+  {
+    "bn": "ডাউনি মিলডিউ",
+    "en": "Downy Mildew",
+    "category": "disease"
+  },
+  {
+    "bn": "শস্য আবর্তন",
+    "en": "Crop Rotation",
+    "category": "general"
+  },
+  {
+    "bn": "বীজ শোধন",
+    "en": "Seed Treatment",
+    "category": "general"
+  },
+  {
+    "bn": "মাটির পিএইচ",
+    "en": "Soil pH",
+    "category": "general"
+  },
+  {
+    "bn": "শস্যবিন্যাস",
+    "en": "Cropping pattern",
+    "category": "general"
+  },
+  {
+    "bn": "গান্ধী পোকা",
+    "en": "Gandi bug",
+    "category": "pest"
+  },
+  {
+    "bn": "ধূসর রোগ",
+    "en": "Gray blight",
+    "category": "disease"
+  },
+  {
+    "bn": "এ্যানথ্রাকনোজ",
+    "en": "Anthracnose",
+    "category": "disease"
+  },
+  {
+    "bn": "চা শুঁয়োপোকা",
+    "en": "Tea caterpillar",
+    "category": "pest"
+  },
+  {
+    "bn": "খোলপচা",
+    "en": "Sheath blight",
+    "category": "disease"
+  },
+  {
+    "bn": "বাকানি",
+    "en": "Bakanae",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াজনিত দাগ রোগ",
+    "en": "Bacterial leaf spot",
+    "category": "disease"
+  },
+  {
+    "bn": "ছত্রা পোকা",
+    "en": "Chatra insect",
+    "category": "pest"
+  },
+  {
+    "bn": "খোলপচা",
+    "en": "Stem rot",
+    "category": "disease"
+  },
+  {
+    "bn": "অল্টারনারিয়া স্পট",
+    "en": "Alternaria spot",
+    "category": "disease"
+  },
+  {
+    "bn": "হেলোপেলটিস পোকা",
+    "en": "Helopeltis",
+    "category": "pest"
+  },
+  {
+    "bn": "থ্রিপস পোকা",
+    "en": "Thrips",
+    "category": "pest"
+  },
+  {
+    "bn": "উত্তরীয় পাতা পোড়া রোগ",
+    "en": "Northern leaf blight",
+    "category": "disease"
+  },
+  {
+    "bn": "শট হোল বোরা",
+    "en": "Shot hole borer",
+    "category": "pest"
+  },
+  {
+    "bn": "লাল মাকড়সা",
+    "en": "Red spider mite",
+    "category": "pest"
+  },
+  {
+    "bn": "বর্ডার ক্রপিং",
+    "en": "Border cropping",
+    "category": "general"
+  },
+  {
+    "bn": "বেঞ্চ টেরাস",
+    "en": "Bench terracing",
+    "category": "general"
+  },
+  {
+    "bn": "বীজবাহিত",
+    "en": "Seed-borne",
+    "category": "disease"
+  },
+  {
+    "bn": "অম্লীয় মাটি",
+    "en": "Acidic soil",
+    "category": "general"
+  },
+  {
+    "bn": "কীটনাশক",
+    "en": "Insecticide",
+    "category": "general"
+  },
+  {
+    "bn": "পিউপা",
+    "en": "Pupa",
+    "category": "pest"
+  },
+  {
+    "bn": "ম্যাগনেসিয়ামের অভাব",
+    "en": "Magnesium deficiency",
+    "category": "general"
+  },
+  {
+    "bn": "আইপিএম",
+    "en": "IPM (Integrated Pest Management)",
+    "category": "general"
+  },
+  {
+    "bn": "ছাতরা পোকা",
+    "en": "Mealybug",
+    "category": "pest"
+  },
+  {
+    "bn": "হোয়াইটফ্লাই",
+    "en": "Whitefly",
+    "category": "pest"
+  },
+  {
+    "bn": "উরচুঙ্গা",
+    "en": "Mole Cricket",
+    "category": "pest"
+  },
+  {
+    "bn": "পতাকাপাতা",
+    "en": "Flag Leaf",
+    "category": "general"
+  },
+  {
+    "bn": "শট হোল বোরার",
+    "en": "Shot Hole Borer",
+    "category": "pest"
+  },
+  {
+    "bn": "আইপিএম",
+    "en": "Integrated Pest Management (IPM)",
+    "category": "general"
+  },
+  {
+    "bn": "টুংরো রোগ",
+    "en": "Tungro Disease",
+    "category": "disease"
+  },
+  {
+    "bn": "সবুজ পাতা ফড়িং",
+    "en": "Green Leafhopper",
+    "category": "pest"
+  },
+  {
+    "bn": "গোলমাসী",
+    "en": "Gall Midge",
+    "category": "pest"
+  },
+  {
+    "bn": "গান্ধি পোকা",
+    "en": "Rice Bug",
+    "category": "pest"
+  },
+  {
+    "bn": "লিফ স-ফ্লাই",
+    "en": "Leaf Sawfly",
+    "category": "pest"
+  },
+  {
+    "bn": "রাইস গ্রাসি স্টান্ট ভাইরাস",
+    "en": "Rice grassy stunt virus",
+    "category": "disease"
+  },
+  {
+    "bn": "সমন্বিত দমন ব্যবস্থাপনা",
+    "en": "Integrated Pest Management (IPM)",
+    "category": "general"
+  },
+  {
+    "bn": "সবুজ মিরিড পোকা",
+    "en": "Green Mirid Bug",
+    "category": "pest"
+  },
+  {
+    "bn": "ফ্লি বিটল",
+    "en": "Flea Beetle",
+    "category": "pest"
+  },
+  {
+    "bn": "অল্টারনারিয়া পোরি",
+    "en": "Alternaria porri",
+    "category": "disease"
+  },
+  {
+    "bn": "হলুদ মাজরা পোকা",
+    "en": "Yellow Stem Borer",
+    "category": "pest"
+  },
+  {
+    "bn": "ধূসর দাগ রোগ",
+    "en": "Gray Leaf Spot",
+    "category": "disease"
+  },
+  {
+    "bn": "পাতা মোড়ানো পোকা",
+    "en": "Leaf Folder",
+    "category": "pest"
+  },
+  {
+    "bn": "ঢলে পড়া রোগ",
+    "en": "Wilt Disease",
+    "category": "disease"
+  },
+  {
+    "bn": "লাল মরিচা রোগ",
+    "en": "Red Rust",
+    "category": "disease"
+  },
+  {
+    "bn": "বাকানি রোগ",
+    "en": "Bakanae Disease",
+    "category": "disease"
+  },
+  {
+    "bn": "শিকড় পঁচা রোগ",
+    "en": "Root Rot",
+    "category": "disease"
+  },
+  {
+    "bn": "শস্য পর্যায়",
+    "en": "Crop Rotation",
+    "category": "general"
+  },
+  {
+    "bn": "বর্ডার ক্রপিং",
+    "en": "Border Cropping",
+    "category": "general"
+  },
+  {
+    "bn": "কারেন্ট পোকা",
+    "en": "Brown planthopper",
+    "category": "pest"
+  },
+  {
+    "bn": "নলীমাসী/গোলমাসী",
+    "en": "Rice gall midge",
+    "category": "pest"
+  },
+  {
+    "bn": "ছাতরা পোকা",
+    "en": "Rice bug",
+    "category": "pest"
+  },
+  {
+    "bn": "কিউরিং",
+    "en": "Curing",
+    "category": "general"
+  },
+  {
+    "bn": "লেডিবার্ড বিটল",
+    "en": "Ladybird beetle",
+    "category": "pest"
+  },
+  {
+    "bn": "মাকড়সা",
+    "en": "Spider/Mite",
+    "category": "pest"
+  },
+  {
+    "bn": "পলু",
+    "en": "Silkworm",
+    "category": "pest"
+  },
+  {
+    "bn": "জৈব সার",
+    "en": "Organic fertilizer",
+    "category": "general"
+  },
+  {
+    "bn": "পিএইচ",
+    "en": "pH",
+    "category": "general"
+  },
+  {
+    "bn": "চুঙ্গি পোকা",
+    "en": "Chungi insect",
+    "category": "pest"
+  },
+  {
+    "bn": "পাতা পচা রোগ",
+    "en": "Leaf blight",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াল স্পট",
+    "en": "Bacterial leaf spot",
+    "category": "disease"
+  },
+  {
+    "bn": "ধানের ফস্কা দাগ রোগ",
+    "en": "Rice brown spot disease",
+    "category": "disease"
+  },
+  {
+    "bn": "পুক্কানি রোগ",
+    "en": "Potato blight",
+    "category": "disease"
+  },
+  {
+    "bn": "ক্যাবেজ ওয়েবওয়ার্ম",
+    "en": "Cabbage webworm",
+    "category": "pest"
+  },
+  {
+    "bn": "যান্ত্রিকীকরণ",
+    "en": "Mechanization",
+    "category": "general"
+  },
+  {
+    "bn": "ড্রিপ ইরিগেশন",
+    "en": "Drip irrigation",
+    "category": "general"
+  },
+  {
+    "bn": "শস্য পর্যায়",
+    "en": "Crop rotation",
+    "category": "general"
+  },
+  {
+    "bn": "বকানি রোগ",
+    "en": "Bakani disease",
+    "category": "disease"
+  },
+  {
+    "bn": "শিকড় পঁচা",
+    "en": "Root rot",
+    "category": "disease"
+  },
+  {
+    "bn": "জিঙ্কের অভাব",
+    "en": "Zinc deficiency",
+    "category": "general"
+  },
+  {
+    "bn": "গন্দি পোকা",
+    "en": "Gundi bug",
+    "category": "pest"
+  },
+  {
+    "bn": "বোল পঁচা রোগ",
+    "en": "Boll rot",
+    "category": "disease"
+  },
+  {
+    "bn": "ছত্রা পোকা",
+    "en": "Rice caseworm",
+    "category": "pest"
+  },
+  {
+    "bn": "গোলমাসী রোগ",
+    "en": "Bacterial blight",
+    "category": "disease"
+  },
+  {
+    "bn": "পাতা ঝলসানো রোগ",
+    "en": "Alternaria blight",
+    "category": "disease"
+  },
+  {
+    "bn": "খোল পোড়া",
+    "en": "Sheath blight",
+    "category": "disease"
+  },
+  {
+    "bn": "হলুদ আঠালো ফাঁদ",
+    "en": "Yellow sticky trap",
+    "category": "general"
+  },
+  {
+    "bn": "জৈব বালাইনাশক",
+    "en": "Biopesticide",
+    "category": "general"
+  },
+  {
+    "bn": "ইজিপশিয়ান কটনওয়ার্ম",
+    "en": "Egyptian Cottonworm",
+    "category": "pest"
+  },
+  {
+    "bn": "হলুদ আঠালো ফাঁদ",
+    "en": "Yellow Sticky Trap",
+    "category": "general"
+  },
+  {
+    "bn": "বাদামী দাগ রোগ",
+    "en": "Brown Spot Disease",
+    "category": "disease"
+  },
+  {
+    "bn": "মেল্যাম্পসোরা",
+    "en": "Melampsora",
+    "category": "disease"
+  },
+  {
+    "bn": "উইলো উইট ব্লাইট",
+    "en": "Willow Wilt Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "বোরনের অভাব",
+    "en": "Boron Deficiency",
+    "category": "general"
+  },
+  {
+    "bn": "জিঙ্কের অভাব",
+    "en": "Zinc Deficiency",
+    "category": "general"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াল ব্লাইট",
+    "en": "Bacterial Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "সাদা গাছফড়িং",
+    "en": "White-backed Planthopper",
+    "category": "pest"
+  },
+  {
+    "bn": "গলমাছি",
+    "en": "Gall Midge",
+    "category": "pest"
+  },
+  {
+    "bn": "লিফ মাইনার",
+    "en": "Leaf Miner",
+    "category": "pest"
+  },
+  {
+    "bn": "কফি লিফ রাস্ট",
+    "en": "Coffee Leaf Rust",
+    "category": "disease"
+  },
+  {
+    "bn": "গ্রিন লিফ হপার",
+    "en": "Green leafhopper",
+    "category": "pest"
+  },
+  {
+    "bn": "বাদামী ঘাসফড়িং",
+    "en": "Brown planthopper",
+    "category": "pest"
+  },
+  {
+    "bn": "লিফ মিনার",
+    "en": "Leaf miner",
+    "category": "pest"
+  },
+  {
+    "bn": "ঘাড় ব্লাস্ট",
+    "en": "Neck blast",
+    "category": "disease"
+  },
+  {
+    "bn": "রৈখিক ক্ষত",
+    "en": "Linear lesion",
+    "category": "disease"
+  },
+  {
+    "bn": "হলুদ মরিচা",
+    "en": "Yellow rust",
+    "category": "disease"
+  },
+  {
+    "bn": "চুঙ্গি পোকা",
+    "en": "Stem borer",
+    "category": "pest"
+  },
+  {
+    "bn": "গোলমাসী",
+    "en": "Gall midge",
+    "category": "pest"
+  },
+  {
+    "bn": "নলীমাসী",
+    "en": "Gall midge",
+    "category": "pest"
+  },
+  {
+    "bn": "চুঙ্গি পোকা",
+    "en": "Rice stem borer",
+    "category": "pest"
+  },
+  {
+    "bn": "সবুজ সার",
+    "en": "Green manure",
+    "category": "general"
+  },
+  {
+    "bn": "শিকড় শোধন",
+    "en": "Root treatment",
+    "category": "general"
+  },
+  {
+    "bn": "ম্যাগনাপোর্থে অরাইজি",
+    "en": "Magnaporthe oryzae",
+    "category": "disease"
+  },
+  {
+    "bn": "পাতা পোড়া রোগ",
+    "en": "Bacterial leaf spot",
+    "category": "disease"
+  },
+  {
+    "bn": "কন্টুর গ্রাসড ওয়াটারওয়ে",
+    "en": "Contour grassed waterway",
+    "category": "general"
+  },
+  {
+    "bn": "উইলোর ব্লাইট",
+    "en": "Willow blight",
+    "category": "disease"
+  },
+  {
+    "bn": "সাদা গাছফড়িং",
+    "en": "Whitebacked planthopper",
+    "category": "pest"
+  },
+  {
+    "bn": "বোরো মৌসুম",
+    "en": "Boro season",
+    "category": "general"
+  },
+  {
+    "bn": "ফ্লাচারী রোগ",
+    "en": "Flacherie disease",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্ল্যাক কাটওয়ার্ম",
+    "en": "Black Cutworm",
+    "category": "pest"
+  },
+  {
+    "bn": "ব্রাউন প্ল্যান্ট হপার",
+    "en": "Brown Planthopper",
+    "category": "pest"
+  },
+  {
+    "bn": "হপার বার্ন",
+    "en": "Hopper Burn",
+    "category": "disease"
+  },
+  {
+    "bn": "উত্তরীয় পাতা পোড়া রোগ",
+    "en": "Northern Leaf Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "ফসকা দাগ রোগ",
+    "en": "False Smut",
+    "category": "disease"
+  },
+  {
+    "bn": "শৈবাল পাতার দাগ",
+    "en": "Algal Leaf Spot",
+    "category": "disease"
+  },
+  {
+    "bn": "পুষ্টির ঘাটতি",
+    "en": "Nutrient deficiency",
+    "category": "general"
+  },
+  {
+    "bn": "লেট ব্লাইট",
+    "en": "Late blight",
+    "category": "disease"
+  },
+  {
+    "bn": "স্টেম রাস্ট",
+    "en": "Stem rust",
+    "category": "disease"
+  },
+  {
+    "bn": "অঙ্কুরোদগম",
+    "en": "Germination",
+    "category": "general"
+  },
+  {
+    "bn": "লিফ হপার",
+    "en": "Leaf hopper",
+    "category": "pest"
+  },
+  {
+    "bn": "অলটারনেরিয়া রোগ",
+    "en": "Alternaria disease",
+    "category": "disease"
+  },
+  {
+    "bn": "চারা পচা",
+    "en": "Damping off",
+    "category": "disease"
+  },
+  {
+    "bn": "গোলমাসী বা নলীমাসী",
+    "en": "Gall midge",
+    "category": "pest"
+  },
+  {
+    "bn": "আইল ফসল",
+    "en": "Border crop",
+    "category": "general"
+  },
+  {
+    "bn": "অল্টারনারিয়া রোগ",
+    "en": "Alternaria disease",
+    "category": "disease"
+  },
+  {
+    "bn": "স্টেম বোরার",
+    "en": "Stem borer",
+    "category": "pest"
+  },
+  {
+    "bn": "কারেন্ট পোকা",
+    "en": "Brown Planthopper",
+    "category": "pest"
+  },
+  {
+    "bn": "রিং স্পট",
+    "en": "Ring Spot",
+    "category": "disease"
+  },
+  {
+    "bn": "ক্রুসিফার ফ্লি বিটল",
+    "en": "Crucifer Flea Beetle",
+    "category": "pest"
+  },
+  {
+    "bn": "ধানের ফস্কা দাগ রোগ",
+    "en": "False Smut",
+    "category": "disease"
+  },
+  {
+    "bn": "ক্যাবেজ লুফার",
+    "en": "Cabbage Looper",
+    "category": "pest"
+  },
+  {
+    "bn": "হারলেকুইন বাগ",
+    "en": "Harlequin Bug",
+    "category": "pest"
+  },
+  {
+    "bn": "বাদামী ঝলসা রোগ",
+    "en": "Brown Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "রাইস স্ট্রাইপ ভাইরাস",
+    "en": "Rice Stripe Virus",
+    "category": "disease"
+  },
+  {
+    "bn": "হপার বার্ন",
+    "en": "Hopper burn",
+    "category": "disease"
+  },
+  {
+    "bn": "খোলপোড়া",
+    "en": "Sheath rot",
+    "category": "disease"
+  },
+  {
+    "bn": "ধানের খোসা দাগ রোগ",
+    "en": "Rice sheath spot disease",
+    "category": "disease"
+  },
+  {
+    "bn": "অল্টারনারিয়া ব্লাইট",
+    "en": "Alternaria blight",
+    "category": "disease"
+  },
+  {
+    "bn": "মরিচা রোগ",
+    "en": "Common rust",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্যাকুলোভাইরাস",
+    "en": "Baculovirus",
+    "category": "pest"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াল উজ",
+    "en": "Bacterial ooze",
+    "category": "disease"
+  },
+  {
+    "bn": "লেইট ব্লাইট",
+    "en": "Late blight",
+    "category": "disease"
+  },
+  {
+    "bn": "সমন্বিত কীটপতঙ্গ দমন ব্যবস্থাপনা",
+    "en": "Integrated Pest Management (IPM)",
+    "category": "general"
+  },
+  {
+    "bn": "গোলমাসী পোকা",
+    "en": "Gall midge",
+    "category": "pest"
+  },
+  {
+    "bn": "লাল মরিচা",
+    "en": "Red Rust",
+    "category": "disease"
+  },
+  {
+    "bn": "রাইস গ্রাসি স্টান্ট",
+    "en": "Rice Grassy Stunt",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্রাউন প্ল্যান্ট হপার",
+    "en": "Brown Plant Hopper",
+    "category": "pest"
+  },
+  {
+    "bn": "সবুজ পিচ এফিড",
+    "en": "Green Peach Aphid",
+    "category": "pest"
+  },
+  {
+    "bn": "চুঙ্গি পোকা",
+    "en": "Chungi Poka (Rice Stem Borer)",
+    "category": "pest"
+  },
+  {
+    "bn": "রাইজোকটোনিয়া",
+    "en": "Rhizoctonia",
+    "category": "disease"
+  },
+  {
+    "bn": "উইলো পাতা মরিচা",
+    "en": "Willow Leaf Rust",
+    "category": "disease"
+  },
+  {
+    "bn": "রেড স্ট্রাইপ",
+    "en": "Red Stripe",
+    "category": "disease"
+  },
+  {
+    "bn": "বাদামি গাছফড়িং",
+    "en": "Brown planthopper",
+    "category": "pest"
+  },
+  {
+    "bn": "পাতার খোলপোড়া রোগ",
+    "en": "Sheath blight",
+    "category": "disease"
+  },
+  {
+    "bn": "পাতা মাইনর",
+    "en": "Leaf miner",
+    "category": "pest"
+  },
+  {
+    "bn": "পেব্রিন রোগ",
+    "en": "Pebrine disease",
+    "category": "disease"
+  },
+  {
+    "bn": "পচন রোগ",
+    "en": "Soft rot",
+    "category": "disease"
+  },
+  {
+    "bn": "ন্যাপস্যাক স্প্রেয়ার",
+    "en": "Knapsack sprayer",
+    "category": "general"
+  },
+  {
+    "bn": "জৈবসার",
+    "en": "Organic fertilizer",
+    "category": "general"
+  },
+  {
+    "bn": "চা শৈবাল পাতার দাগ",
+    "en": "Algal leaf spot",
+    "category": "disease"
+  },
+  {
+    "bn": "সারকোস্পোরা রোগ",
+    "en": "Cercospora leaf spot",
+    "category": "disease"
+  },
+  {
+    "bn": "সমোচ্চতা রেখা",
+    "en": "Contour Line",
+    "category": "general"
+  },
+  {
+    "bn": "সাথী ফসল",
+    "en": "Companion Crop",
+    "category": "general"
+  },
+  {
+    "bn": "শিকড় পঁচা",
+    "en": "Root Rot",
+    "category": "disease"
+  },
+  {
+    "bn": "চুঙ্গি পোকা",
+    "en": "Rice Caseworm",
+    "category": "pest"
+  },
+  {
+    "bn": "আগাম ধসা",
+    "en": "Early Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "খোলপচা",
+    "en": "Sheath Rot",
+    "category": "disease"
+  },
+  {
+    "bn": "ক্যাবেজ ওয়েবওয়ার্ম",
+    "en": "Cabbage Webworm",
+    "category": "pest"
+  },
+  {
+    "bn": "মিলি এফিড",
+    "en": "Mealy Aphid",
+    "category": "pest"
+  },
+  {
+    "bn": "পাতা পোড়া রোগ",
+    "en": "Bacterial Leaf Spot",
+    "category": "disease"
+  },
+  {
+    "bn": "ক্যাবেজ ওয়েওয়ার্ম",
+    "en": "Cabbage Webworm",
+    "category": "pest"
+  },
+  {
+    "bn": "বকানি রোগ",
+    "en": "Bakanae",
+    "category": "disease"
+  },
+  {
+    "bn": "ফসকা দাগ রোগ",
+    "en": "Sheath blight",
+    "category": "disease"
+  },
+  {
+    "bn": "চুঙ্গি পোকা",
+    "en": "Rice leaf folder",
+    "category": "pest"
+  },
+  {
+    "bn": "পাতা পোড়া রোগ",
+    "en": "Leaf blight",
+    "category": "disease"
+  },
+  {
+    "bn": "কালো দাগ রোগ",
+    "en": "Black spot",
+    "category": "disease"
+  },
+  {
+    "bn": "এফিড পোকা",
+    "en": "Aphid",
+    "category": "pest"
+  },
+  {
+    "bn": "পাতা ঝলসা",
+    "en": "Leaf Scald",
+    "category": "disease"
+  },
+  {
+    "bn": "জলাবদ্ধতা",
+    "en": "Waterlogging",
+    "category": "general"
+  },
+  {
+    "bn": "লবণাক্ততা",
+    "en": "Salinity",
+    "category": "general"
+  },
+  {
+    "bn": "পাতামোড়ানো পোকা",
+    "en": "Rice leaf folder",
+    "category": "pest"
+  },
+  {
+    "bn": "পাতাপোড়া রোগ",
+    "en": "Bacterial leaf blight",
+    "category": "disease"
+  },
+  {
+    "bn": "অণু-খাদ্য",
+    "en": "Micronutrient",
+    "category": "general"
+  },
+  {
+    "bn": "লেইট ব্লাইট",
+    "en": "Late Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "কমন রাস্ট",
+    "en": "Common Rust",
+    "category": "disease"
+  },
+  {
+    "bn": "বাদামী ঝলসা",
+    "en": "Brown Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "লাল মাকড়সা",
+    "en": "Red Spider Mite",
+    "category": "pest"
+  },
+  {
+    "bn": "উড়চুঙ্গা",
+    "en": "Mole Cricket",
+    "category": "pest"
+  },
+  {
+    "bn": "ছত্রা পোকা",
+    "en": "Rice Bug",
+    "category": "pest"
+  },
+  {
+    "bn": "ইনোকুলাম",
+    "en": "Inoculum",
+    "category": "disease"
+  },
+  {
+    "bn": "পাতা ছিদ্রকারী পোকা",
+    "en": "Leaf miner",
+    "category": "pest"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াল পাতা পোড়া রোগ",
+    "en": "Bacterial leaf blight",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্ল্যাক কাটওয়ার্ম",
+    "en": "Black cutworm",
+    "category": "pest"
+  },
+  {
+    "bn": "বাদামী গাছ ফড়িং",
+    "en": "Brown Planthopper",
+    "category": "pest"
+  },
+  {
+    "bn": "লেডিবার্ড বিটল",
+    "en": "Ladybird Beetle",
+    "category": "pest"
+  },
+  {
+    "bn": "মাকড়সা",
+    "en": "Spider",
+    "category": "pest"
+  },
+  {
+    "bn": "বোল পঁচা",
+    "en": "Boll Rot",
+    "category": "disease"
+  },
+  {
+    "bn": "হলুদ মরিচা",
+    "en": "Stripe rust",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্রাউন প্ল্যান্ট হপার",
+    "en": "Brown plant hopper",
+    "category": "pest"
+  },
+  {
+    "bn": "উরচুঙ্গা",
+    "en": "Urchunga",
+    "category": "disease"
+  },
+  {
+    "bn": "বাদামী ঝলসা",
+    "en": "Brown blight",
+    "category": "disease"
+  },
+  {
+    "bn": "উইট ব্লাইট",
+    "en": "Wheat blight",
+    "category": "disease"
+  },
+  {
+    "bn": "উরচুঙ্গা পোকা",
+    "en": "Mole cricket",
+    "category": "pest"
+  },
+  {
+    "bn": "শৈবাল",
+    "en": "Algae",
+    "category": "disease"
+  },
+  {
+    "bn": "বাদামী ঘাসফড়িং",
+    "en": "Brown Planthopper",
+    "category": "pest"
+  },
+  {
+    "bn": "শস্য পর্যায়ক্রম",
+    "en": "Crop Rotation",
+    "category": "general"
+  },
+  {
+    "bn": "আলোক ফাঁদ",
+    "en": "Light Trap",
+    "category": "general"
+  },
+  {
+    "bn": "ফেরোমন ফাঁদ",
+    "en": "Pheromone Trap",
+    "category": "general"
+  },
+  {
+    "bn": "জৈব-কীটনাশক",
+    "en": "Bio-pesticide",
+    "category": "general"
+  },
+  {
+    "bn": "স্ক্লেরোটিনিয়া",
+    "en": "Sclerotinia",
+    "category": "disease"
+  },
+  {
+    "bn": "মাইসেলিয়াম",
+    "en": "Mycelium",
+    "category": "general"
+  },
+  {
+    "bn": "পাতাপোড়া",
+    "en": "Bacterial leaf blight",
+    "category": "disease"
+  },
+  {
+    "bn": "গোড়া পচা",
+    "en": "Foot rot",
+    "category": "disease"
+  },
+  {
+    "bn": "ঢলে পড়া",
+    "en": "Wilt",
+    "category": "disease"
+  },
+  {
+    "bn": "ওয়েবওয়ার্ম",
+    "en": "Webworm",
+    "category": "pest"
+  },
+  {
+    "bn": "খোসা দাগ রোগ",
+    "en": "Sheath blight",
+    "category": "disease"
+  },
+  {
+    "bn": "পাতা মরিচা",
+    "en": "Rust",
+    "category": "disease"
+  },
+  {
+    "bn": "সাদা গাছফড়িং",
+    "en": "White planthopper",
+    "category": "pest"
+  },
+  {
+    "bn": "কালো ছত্রাক",
+    "en": "Aspergillus niger",
+    "category": "disease"
+  },
+  {
+    "bn": "পাতা সুড়ঙ্গকারী পোকা",
+    "en": "Leaf miner",
+    "category": "pest"
+  },
+  {
+    "bn": "উত্তরীয় পাতা পোড়া",
+    "en": "Northern leaf blight",
+    "category": "disease"
+  },
+  {
+    "bn": "বীজ আলু",
+    "en": "Seed potato",
+    "category": "general"
+  },
+  {
+    "bn": "হিমাগার",
+    "en": "Cold storage",
+    "category": "general"
+  },
+  {
+    "bn": "চুনগি পোকা",
+    "en": "Rice Case Worm",
+    "category": "pest"
+  },
+  {
+    "bn": "উরচুঙ্গা পোকা",
+    "en": "Mole Cricket",
+    "category": "pest"
+  },
+  {
+    "bn": "শীথ রট",
+    "en": "Sheath Rot",
+    "category": "disease"
+  },
+  {
+    "bn": "সুষম সার",
+    "en": "Balanced Fertilizer",
+    "category": "general"
+  },
+  {
+    "bn": "সাদা গ্যাসফড়িং",
+    "en": "White leafhopper",
+    "category": "pest"
+  },
+  {
+    "bn": "ফ্লাচারী",
+    "en": "Flacherie",
+    "category": "disease"
+  },
+  {
+    "bn": "শিকড় পচন",
+    "en": "Root rot",
+    "category": "disease"
+  },
+  {
+    "bn": "নলিমাছি/গোলমাছি",
+    "en": "Gall midge",
+    "category": "pest"
+  },
+  {
+    "bn": "বিষটোপ",
+    "en": "Poison bait",
+    "category": "general"
+  },
+  {
+    "bn": "ক্যাবেজ লুফার পোকা",
+    "en": "Cabbage looper",
+    "category": "pest"
+  },
+  {
+    "bn": "নলীমাছি",
+    "en": "Rice gall midge",
+    "category": "pest"
+  },
+  {
+    "bn": "কালো দাগ",
+    "en": "Black rot",
+    "category": "disease"
+  },
+  {
+    "bn": "রাইস মটল ভাইরাস",
+    "en": "Rice yellow mottle virus",
+    "category": "disease"
+  },
+  {
+    "bn": "লাল মরিচা",
+    "en": "Red rust",
+    "category": "disease"
+  },
+  {
+    "bn": "চা শৈবাল পাতার দাগ",
+    "en": "Tea Algal Leaf Spot",
+    "category": "disease"
+  },
+  {
+    "bn": "অল্টারনারিয়া স্পট",
+    "en": "Alternaria Spot",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াল লিফ স্পট",
+    "en": "Bacterial Leaf Spot",
+    "category": "disease"
+  },
+  {
+    "bn": "শোষক পোকা",
+    "en": "Sucking Pest",
+    "category": "pest"
+  },
+  {
+    "bn": "ন্যারো ব্রাউন স্পট",
+    "en": "Narrow Brown Leaf Spot",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্যাকুলোভাইরাস",
+    "en": "Baculovirus",
+    "category": "disease"
+  },
+  {
+    "bn": "চুনগি পোকা",
+    "en": "Chungi insect",
+    "category": "pest"
+  },
+  {
+    "bn": "ফসকা দাগ",
+    "en": "Brown spot",
+    "category": "disease"
+  },
+  {
+    "bn": "অল্টারনারিয়া রোগ",
+    "en": "Alternaria blight",
+    "category": "disease"
+  },
+  {
+    "bn": "রেড স্ট্রাইপ রোগ",
+    "en": "Red stripe disease",
+    "category": "disease"
+  },
+  {
+    "bn": "অরোবাংকি",
+    "en": "Orobanche (Broomrape)",
+    "category": "pest"
+  },
+  {
+    "bn": "কাটওয়ার্ম",
+    "en": "Cutworm",
+    "category": "pest"
+  },
+  {
+    "bn": "জুম চাষ",
+    "en": "Shifting cultivation",
+    "category": "general"
+  },
+  {
+    "bn": "সাথী ফসল",
+    "en": "Companion crop",
+    "category": "general"
+  },
+  {
+    "bn": "বোরো ধান",
+    "en": "Boro rice",
+    "category": "general"
+  },
+  {
+    "bn": "স্ক্লেরোশিয়া",
+    "en": "Sclerotia",
+    "category": "disease"
+  },
+  {
+    "bn": "লিফহপার",
+    "en": "Leafhopper",
+    "category": "pest"
+  },
+  {
+    "bn": "খোল পচা",
+    "en": "Sheath rot",
+    "category": "disease"
+  },
+  {
+    "bn": "কান্ড পচা",
+    "en": "Stem rot",
+    "category": "disease"
+  },
+  {
+    "bn": "চুঙ্গি পোকা",
+    "en": "Chungi Poka (Rice stem borer)",
+    "category": "pest"
+  },
+  {
+    "bn": "খোলপোড়া রোগ",
+    "en": "Sheath rot",
+    "category": "disease"
+  },
+  {
+    "bn": "আউশ ধান",
+    "en": "Aus rice",
+    "category": "general"
+  },
+  {
+    "bn": "ট্রাইকোডার্মা",
+    "en": "Trichoderma",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াল লিফ স্পট",
+    "en": "Bacterial leaf spot",
+    "category": "disease"
+  },
+  {
+    "bn": "বাদামি দাগ রোগ",
+    "en": "Brown spot disease",
+    "category": "disease"
+  },
+  {
+    "bn": "অল্টারনারিয়া পাতার দাগ",
+    "en": "Alternaria leaf spot",
+    "category": "disease"
+  },
+  {
+    "bn": "সাদা গাছফড়িং",
+    "en": "White Leafhopper",
+    "category": "pest"
+  },
+  {
+    "bn": "শিকড় পঁচা",
+    "en": "Stem rot / Root rot",
+    "category": "disease"
+  },
+  {
+    "bn": "নলিমাছি / গোলমাসি",
+    "en": "Gall midge",
+    "category": "pest"
+  },
+  {
+    "bn": "ইউরিয়া",
+    "en": "Urea",
+    "category": "general"
+  },
+  {
+    "bn": "জিপসাম",
+    "en": "Gypsum",
+    "category": "general"
+  },
+  {
+    "bn": "বোরন",
+    "en": "Boron",
+    "category": "general"
+  },
+  {
+    "bn": "পটাশ",
+    "en": "Potash",
+    "category": "general"
+  },
+  {
+    "bn": "গান্ধী পোকা",
+    "en": "Rice Bug",
+    "category": "pest"
+  },
+  {
+    "bn": "চা শুঁয়োপোকা",
+    "en": "Tea Looper",
+    "category": "pest"
+  },
+  {
+    "bn": "পুসচুল বা মরিচা রোগ",
+    "en": "Common rust",
+    "category": "disease"
+  },
+  {
+    "bn": "পাতা কুঁকড়ানো রোগ",
+    "en": "Leaf curl disease",
+    "category": "disease"
+  },
+  {
+    "bn": "সাদা গাসফড়িং",
+    "en": "White leafhopper",
+    "category": "pest"
+  },
+  {
+    "bn": "শীষ পচা রোগ",
+    "en": "Panicle blight",
+    "category": "disease"
+  },
+  {
+    "bn": "উত্তম কৃষি চর্চা",
+    "en": "Good Agricultural Practices (GAP)",
+    "category": "general"
+  },
+  {
+    "bn": "লেডিবাগ",
+    "en": "Ladybug",
+    "category": "pest"
+  },
+  {
+    "bn": "কাণ্ড ছিদ্রকারী পোকা",
+    "en": "Stem borer",
+    "category": "pest"
+  },
+  {
+    "bn": "গলমাছি/নলিমাছি",
+    "en": "Gall midge",
+    "category": "pest"
+  },
+  {
+    "bn": "উরচুঙ্গা",
+    "en": "Rice stem borer/Urchunga",
+    "category": "pest"
+  },
+  {
+    "bn": "ছত্রাকজনিত রোগ",
+    "en": "Fungal disease",
+    "category": "disease"
+  },
+  {
+    "bn": "খোসা দাগ রোগ",
+    "en": "False smut",
+    "category": "disease"
+  },
+  {
+    "bn": "ড্যাম্পিং-অফ",
+    "en": "Damping-off",
+    "category": "disease"
+  },
+  {
+    "bn": "নলীমাসী",
+    "en": "Ragged stunt",
+    "category": "disease"
+  },
+  {
+    "bn": "গোলমাসী",
+    "en": "Grassy stunt",
+    "category": "disease"
+  },
+  {
+    "bn": "সাদা পাতা দাগ",
+    "en": "White leaf streak",
+    "category": "disease"
+  },
+  {
+    "bn": "চা শৈবাল পাতার দাগ",
+    "en": "Algal leaf spot of tea",
+    "category": "disease"
+  },
+  {
+    "bn": "সুষম সার",
+    "en": "Balanced fertilizer",
+    "category": "general"
+  },
+  {
+    "bn": "ধূসর দাগ",
+    "en": "Gray leaf spot",
+    "category": "disease"
+  },
+  {
+    "bn": "শীষ পচা",
+    "en": "Sheath rot",
+    "category": "disease"
+  },
+  {
+    "bn": "বোকানি রোগ",
+    "en": "Bakanae disease",
+    "category": "disease"
+  },
+  {
+    "bn": "ডলোচুন",
+    "en": "Dolomite lime",
+    "category": "general"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াল পাতা পোড়া রোগ",
+    "en": "Bacterial leaf streak",
+    "category": "disease"
+  },
+  {
+    "bn": "চুঙ্গি পোকা",
+    "en": "Rice whorl maggot",
+    "category": "pest"
+  },
+  {
+    "bn": "ফ্লাচারী বা কালশিরা রোগ",
+    "en": "Flacherie disease",
+    "category": "disease"
+  },
+  {
+    "bn": "নাবি ধসা",
+    "en": "Early blight",
+    "category": "disease"
+  },
+  {
+    "bn": "ঢলে পড়া রোগ",
+    "en": "Wilt / Lick rot",
+    "category": "disease"
+  },
+  {
+    "bn": "নলিমাছি",
+    "en": "Thrips",
+    "category": "pest"
+  },
+  {
+    "bn": "ছত্রা পোকা",
+    "en": "Rice leaf folder",
+    "category": "pest"
+  },
+  {
+    "bn": "পাতা ঝলসানো রোগ",
+    "en": "Leaf blight / Alternaria blight",
+    "category": "disease"
+  },
+  {
+    "bn": "পাতাপোড়া রোগ",
+    "en": "Leaf scald",
+    "category": "disease"
+  },
+  {
+    "bn": "গোলমাসী রোগ",
+    "en": "Bacterial leaf streak",
+    "category": "disease"
+  },
+  {
+    "bn": "লেড ব্লাইট",
+    "en": "Late blight",
+    "category": "disease"
+  },
+  {
+    "bn": "নলীমাসী/গোলমাসী",
+    "en": "Rice Gall Midge",
+    "category": "pest"
+  },
+  {
+    "bn": "শিকড় পচা",
+    "en": "Root Rot",
+    "category": "disease"
+  },
+  {
+    "bn": "বাদামী দাগ",
+    "en": "Brown Spot",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াল লিফ ব্লাইট",
+    "en": "Bacterial leaf blight",
+    "category": "disease"
+  },
+  {
+    "bn": "হলুদ ডোরা দাগ",
+    "en": "Rice Yellow Mottle Virus",
+    "category": "disease"
+  },
+  {
+    "bn": "পাতামোড়ানো পোকা",
+    "en": "Leaf Folder",
+    "category": "pest"
+  },
+  {
+    "bn": "গোলমাছি",
+    "en": "Gall Midge",
+    "category": "pest"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াল লিফ স্পট",
+    "en": "Bacterial Leaf Spot",
+    "category": "disease"
+  },
+  {
+    "bn": "সাদা গাছফড়িং",
+    "en": "White backed planthopper",
+    "category": "pest"
+  },
+  {
+    "bn": "রোগবালাই",
+    "en": "Pests and diseases",
+    "category": "general"
+  },
+  {
+    "bn": "গোলমাসী/নলীমাসী",
+    "en": "Gall midge",
+    "category": "pest"
+  },
+  {
+    "bn": "সুষম সার ব্যবস্থাপনা",
+    "en": "Balanced fertilizer management",
+    "category": "general"
+  },
+  {
+    "bn": "ছত্রা পোকা",
+    "en": "Chatra Poka",
+    "category": "pest"
+  },
+  {
+    "bn": "ফিউসারিয়াম",
+    "en": "Fusarium",
+    "category": "disease"
+  },
+  {
+    "bn": "স্ক্লেরোশিয়াম",
+    "en": "Sclerotium",
+    "category": "disease"
+  },
+  {
+    "bn": "ফসকা দাগ",
+    "en": "Blast",
+    "category": "disease"
+  },
+  {
+    "bn": "স্টিঙ্কবাগ",
+    "en": "Stink bug",
+    "category": "pest"
+  },
+  {
+    "bn": "অরোবাংকি",
+    "en": "Orobanche (Broomrape)",
+    "category": "disease"
+  },
+  {
+    "bn": "আল্টারনারিয়া সোলানি",
+    "en": "Alternaria solani",
+    "category": "disease"
+  },
+  {
+    "bn": "মরিচা",
+    "en": "Rust",
+    "category": "disease"
+  },
+  {
+    "bn": "শিথ ব্লাইট",
+    "en": "Sheath blight",
+    "category": "disease"
+  },
+  {
+    "bn": "খোসা দাগ রোগ",
+    "en": "Sheath blight/Leaf spot",
+    "category": "disease"
+  },
+  {
+    "bn": "অল্টারনারিয়া ছত্রাক",
+    "en": "Alternaria fungus",
+    "category": "disease"
+  },
+  {
+    "bn": "কাণ্ড মরিচা",
+    "en": "Stem rot",
+    "category": "disease"
+  },
+  {
+    "bn": "উইলো রাস্ট",
+    "en": "Willow rust",
+    "category": "disease"
+  },
+  {
+    "bn": "ক্লাব রুট",
+    "en": "Clubroot",
+    "category": "disease"
+  },
+  {
+    "bn": "চুঙ্গি পোকা",
+    "en": "Chilonoma",
+    "category": "pest"
+  },
+  {
+    "bn": "ছাতরা পোকা",
+    "en": "Aphid",
+    "category": "pest"
+  },
+  {
+    "bn": "পাতা পোড়া রোগ",
+    "en": "Bacterial Leaf Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "টার্নিপ মথ",
+    "en": "Turnip Moth",
+    "category": "pest"
+  },
+  {
+    "bn": "ফসকা দাগ রোগ",
+    "en": "Brown spot",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্যাকটেরিয়া",
+    "en": "Bacteria",
+    "category": "disease"
+  },
+  {
+    "bn": "শিকড় পচা রোগ",
+    "en": "Root rot",
+    "category": "disease"
+  },
+  {
+    "bn": "ভূমি ক্ষয়",
+    "en": "Soil Erosion",
+    "category": "general"
+  },
+  {
+    "bn": "রং মরিচা",
+    "en": "Rust",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্লাইট",
+    "en": "Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "মোড়ানো পোকা",
+    "en": "Leaf folder",
+    "category": "pest"
+  },
+  {
+    "bn": "রাইজোমাকার",
+    "en": "Rice yellow mottle virus",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্লাস্ট রোগ",
+    "en": "Rice blast",
+    "category": "disease"
+  },
+  {
+    "bn": "চুঙ্গি পোকা",
+    "en": "Rice Stem Borer/Chungi Poka",
+    "category": "pest"
+  },
+  {
+    "bn": "হলুদ মরিচা",
+    "en": "Yellow Rust",
+    "category": "disease"
+  },
+  {
+    "bn": "নলিমাছি/গোলমাছি",
+    "en": "Rice gall midge",
+    "category": "pest"
+  },
+  {
+    "bn": "মোল্ডিং",
+    "en": "Molding/Earthing up",
+    "category": "general"
+  },
+  {
+    "bn": "আগা ধসা রোগ",
+    "en": "Early blight",
+    "category": "disease"
+  },
+  {
+    "bn": "কন্দ পচা রোগ",
+    "en": "Tuber rot",
+    "category": "disease"
+  },
+  {
+    "bn": "শস্য পর্যায়ক্রম",
+    "en": "Crop rotation",
+    "category": "general"
+  },
+  {
+    "bn": "সাদা গ্যাসফড়িং",
+    "en": "Whitefly",
+    "category": "pest"
+  },
+  {
+    "bn": "পাতা মরিচা",
+    "en": "Leaf rust",
+    "category": "disease"
+  },
+  {
+    "bn": "উইলোর পাতা মরিচা রোগ",
+    "en": "Willow rust disease",
+    "category": "disease"
+  },
+  {
+    "bn": "উরচুংগা",
+    "en": "Mole cricket",
+    "category": "pest"
+  },
+  {
+    "bn": "স্ক্লেরোশিয়া",
+    "en": "Sclerotinia",
+    "category": "disease"
+  },
+  {
+    "bn": "উত্তরীয় পাতা পোড়া রোগ",
+    "en": "Northern corn leaf blight",
+    "category": "disease"
+  },
+  {
+    "bn": "সাদা ফড়িং",
+    "en": "White leafhopper",
+    "category": "pest"
+  },
+  {
+    "bn": "চুনগি পোকা",
+    "en": "Rice stem borer",
+    "category": "pest"
+  },
+  {
+    "bn": "বাদামী গাছফড়িং",
+    "en": "Brown planthopper",
+    "category": "pest"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াজনিত রোগ",
+    "en": "Bacterial leaf spot",
+    "category": "disease"
+  },
+  {
+    "bn": "পাতা পোড়া রোগ",
+    "en": "Leaf rust",
+    "category": "disease"
+  },
+  {
+    "bn": "শৈবাল পাতার দাগ",
+    "en": "Algae leaf scald",
+    "category": "disease"
+  },
+  {
+    "bn": "জো",
+    "en": "Soil moisture/Tilth",
+    "category": "general"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াজনিত পচন",
+    "en": "Bacterial rot",
+    "category": "disease"
+  },
+  {
+    "bn": "ধণচাম",
+    "en": "Downy mildew",
+    "category": "disease"
+  },
+  {
+    "bn": "ক্লোরোসিস",
+    "en": "Chlorosis",
+    "category": "general"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াজনিত পাতা পোড়া রোগ",
+    "en": "Bacterial Leaf Spot",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্ল্যাক স্পট রোগ",
+    "en": "Black Spot Disease",
+    "category": "disease"
+  },
+  {
+    "bn": "ক্যাবেজ ওয়েবওয়ার্ম",
+    "en": "Cabbage Webworm",
+    "category": "pest"
+  },
+  {
+    "bn": "সাদা ছোপ রোগ",
+    "en": "Powdery Mildew",
+    "category": "disease"
+  },
+  {
+    "bn": "খোলপচা",
+    "en": "Sheath Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "নলিমাছি",
+    "en": "Rice Gall Midge",
+    "category": "pest"
+  },
+  {
+    "bn": "নেক্রোসিস",
+    "en": "Necrosis",
+    "category": "disease"
+  },
+  {
+    "bn": "কালো দাগ",
+    "en": "Black spot",
+    "category": "disease"
+  },
+  {
+    "bn": "সিস্টেমিক ছত্রাকনাশক",
+    "en": "Systemic fungicide",
+    "category": "general"
+  },
+  {
+    "bn": "কনট্যাক্ট ছত্রাকনাশক",
+    "en": "Contact fungicide",
+    "category": "general"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াজনিত রোগ",
+    "en": "Bacterial diseases",
+    "category": "disease"
+  },
+  {
+    "bn": "ছত্রাকজনিত রোগ",
+    "en": "Fungal diseases",
+    "category": "disease"
+  },
+  {
+    "bn": "পুষ্টির অভাব",
+    "en": "Nutrient deficiencies",
+    "category": "general"
+  },
+  {
+    "bn": "কালো দাগ",
+    "en": "Black Spot",
+    "category": "disease"
+  },
+  {
+    "bn": "পাতা পচা রোগ",
+    "en": "Leaf Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "শীষের গোড়া পচা",
+    "en": "Sheath Rot",
+    "category": "disease"
+  },
+  {
+    "bn": "ধূসর রোগ",
+    "en": "Grey mould",
+    "category": "disease"
+  },
+  {
+    "bn": "শুটশিট রোগ",
+    "en": "Shoot rot",
+    "category": "disease"
+  },
+  {
+    "bn": "রস্ট",
+    "en": "Rust",
+    "category": "disease"
+  },
+  {
+    "bn": "ক্লোরোসিস",
+    "en": "Chlorosis",
+    "category": "disease"
+  },
+  {
+    "bn": "বোরো",
+    "en": "Boron",
+    "category": "general"
+  },
+  {
+    "bn": "জিঙ্ক সালফেট",
+    "en": "Zinc Sulfate",
+    "category": "general"
+  },
+  {
+    "bn": "ক্লোরোফিল",
+    "en": "Chlorophyll",
+    "category": "general"
+  },
+  {
+    "bn": "গ্রিন লিফ হপার",
+    "en": "Green Leafhopper",
+    "category": "pest"
+  },
+  {
+    "bn": "কালো মরিচা রোগ",
+    "en": "Black spot disease",
+    "category": "disease"
+  },
+  {
+    "bn": "পাতার দাগ রোগ",
+    "en": "Leaf spot disease",
+    "category": "disease"
+  },
+  {
+    "bn": "বোরনের অভাব",
+    "en": "Boron deficiency",
+    "category": "general"
+  },
+  {
+    "bn": "ধানের মিলিবাগ",
+    "en": "Rice mealybug",
+    "category": "pest"
+  },
+  {
+    "bn": "মিরিড পোকা",
+    "en": "Mirid Bug",
+    "category": "pest"
+  },
+  {
+    "bn": "ধানের পাতা খাওয়া পোকা",
+    "en": "Leaf-eating pests",
+    "category": "pest"
+  },
+  {
+    "bn": "শস্য ছিদ্রকারী পোকা",
+    "en": "Seed/Stalk borers",
+    "category": "pest"
+  },
+  {
+    "bn": "এফিড",
+    "en": "Aphids",
+    "category": "pest"
+  },
+  {
+    "bn": "জাব পোকা",
+    "en": "Aphids",
+    "category": "pest"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াজনিত রোগ",
+    "en": "Bacterial disease",
+    "category": "disease"
+  },
+  {
+    "bn": "আগাছা",
+    "en": "Weeds",
+    "category": "general"
+  },
+  {
+    "bn": "সমন্বিত কীট ব্যবস্থাপনা",
+    "en": "Integrated Pest Management (IPM)",
+    "category": "general"
+  },
+  {
+    "bn": "আঁশ",
+    "en": "Fiber",
+    "category": "general"
+  },
+  {
+    "bn": "ফসল আবর্তন",
+    "en": "Crop Rotation",
+    "category": "general"
+  },
+  {
+    "bn": "ধানের ব্লাইট",
+    "en": "Rice Blast",
+    "category": "disease"
+  },
+  {
+    "bn": "খয়েরি রোগ",
+    "en": "Brown Spot",
+    "category": "disease"
+  },
+  {
+    "bn": "পাতার দাগ রোগ",
+    "en": "Leaf Spot",
+    "category": "disease"
+  },
+  {
+    "bn": "ধানের শুঁটি পোকা",
+    "en": "Rice Stem Borer",
+    "category": "pest"
+  },
+  {
+    "bn": "চুনগি পোকা",
+    "en": "Chungi pest",
+    "category": "pest"
+  },
+  {
+    "bn": "পাতা মরিচা",
+    "en": "Rust Disease",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্যক্তিগত সুরক্ষা সরঞ্জাম",
+    "en": "Personal Protective Equipment (PPE)",
+    "category": "general"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াজনিত রোগ",
+    "en": "Bacterial diseases",
+    "category": "disease"
+  },
+  {
+    "bn": "পুষ্টির অভাব",
+    "en": "Nutritional deficiencies",
+    "category": "general"
+  },
+  {
+    "bn": "মাইজাস পার্সিকি",
+    "en": "Myzus persicae",
+    "category": "pest"
+  },
+  {
+    "bn": "লেডগাস",
+    "en": "Ladybugs",
+    "category": "pest"
+  },
+  {
+    "bn": "পাতাপোড়া রোগ",
+    "en": "Leaf Spot Disease",
+    "category": "disease"
+  },
+  {
+    "bn": "গ্যাল",
+    "en": "Gall",
+    "category": "disease"
+  },
+  {
+    "bn": "ফসকা দাগ রোগ",
+    "en": "Leaf blight",
+    "category": "disease"
+  },
+  {
+    "bn": "গোড়া পচা",
+    "en": "Root rot",
+    "category": "disease"
+  },
+  {
+    "bn": "দাগ পড়া রোগ",
+    "en": "Leaf Spot Disease",
+    "category": "disease"
+  },
+  {
+    "bn": "পাতা মোড়ানো পোকা",
+    "en": "Leaf-eating insects",
+    "category": "pest"
+  },
+  {
+    "bn": "মাইট",
+    "en": "Mites",
+    "category": "pest"
+  },
+  {
+    "bn": "মঞ্জি",
+    "en": "Downy Mildew",
+    "category": "disease"
+  },
+  {
+    "bn": "আচ্ছাদন ফসল",
+    "en": "Cover crops",
+    "category": "general"
+  },
+  {
+    "bn": "সবুজ সার",
+    "en": "Green manuring",
+    "category": "general"
+  },
+  {
+    "bn": "ধানের শীষের রোগ",
+    "en": "Rice Blast",
+    "category": "disease"
+  },
+  {
+    "bn": "খোল পচা রোগ",
+    "en": "Sheath Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "লাল মরিচা রোগ",
+    "en": "Red Rust of Tea",
+    "category": "disease"
+  },
+  {
+    "bn": "জল নিষ্কাশন",
+    "en": "Drainage",
+    "category": "general"
+  },
+  {
+    "bn": "রঞ্জি স্পোর",
+    "en": "Rust Spore",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াজনিত রোগ",
+    "en": "Bacterial Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "গ্রে লিফ স্পট",
+    "en": "Grey Leaf Spot",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াল শিথ ব্রাউন রট",
+    "en": "Bacterial Sheath Brown Rot",
+    "category": "disease"
+  },
+  {
+    "bn": "শিকড় শোধন",
+    "en": "Root Seed Treatment",
+    "category": "general"
+  },
+  {
+    "bn": "লাল মাকড়সা",
+    "en": "Red Mite",
+    "category": "pest"
+  },
+  {
+    "bn": "হলুদ মরিচা রোগ",
+    "en": "Yellow Rust",
+    "category": "disease"
+  },
+  {
+    "bn": "পাতার দাগ রোগ",
+    "en": "Leaf Spot Disease",
+    "category": "disease"
+  },
+  {
+    "bn": "গ্রাসি স্টান্ট",
+    "en": "Grassy Stunt",
+    "category": "disease"
+  },
+  {
+    "bn": "অল্টারনারিয়া রোগ",
+    "en": "Alternaria",
+    "category": "disease"
+  },
+  {
+    "bn": "খোল পোড়া রোগ",
+    "en": "Sheath Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "ফসফরাস",
+    "en": "Phosphorus",
+    "category": "general"
+  },
+  {
+    "bn": "বোরিক এসিড",
+    "en": "Boric acid",
+    "category": "general"
+  },
+  {
+    "bn": "পাতা খাওয়া পোকা",
+    "en": "Leaf-eating insect",
+    "category": "pest"
+  },
+  {
+    "bn": "চুঙ্গি পোকা",
+    "en": "Planthopper",
+    "category": "pest"
+  },
+  {
+    "bn": "বেঞ্চ টেরাস",
+    "en": "Bench Terracing",
+    "category": "general"
+  },
+  {
+    "bn": "মাটিবাহিত ছত্রাক",
+    "en": "Soil-borne fungus",
+    "category": "disease"
+  },
+  {
+    "bn": "সাথী ফসল",
+    "en": "Companion cropping",
+    "category": "general"
+  },
+  {
+    "bn": "জাবপোকা",
+    "en": "Aphids",
+    "category": "pest"
+  },
+  {
+    "bn": "সাদা গাছফড়িং",
+    "en": "Whitefly",
+    "category": "pest"
+  },
+  {
+    "bn": "পচন রোগ",
+    "en": "Rot",
+    "category": "disease"
+  },
+  {
+    "bn": "সবুজ মিরিড পোকা",
+    "en": "Green Midge",
+    "category": "pest"
+  },
+  {
+    "bn": "কান্ড পচা রোগ",
+    "en": "Stem rot",
+    "category": "disease"
+  },
+  {
+    "bn": "নলীমাসী পোকা",
+    "en": "Leaf folder/Leaf miner",
+    "category": "pest"
+  },
+  {
+    "bn": "আলুর নাবি ধসা",
+    "en": "Late Blight of Potato",
+    "category": "disease"
+  },
+  {
+    "bn": "মাকড়সা",
+    "en": "Spider Mite",
+    "category": "pest"
+  },
+  {
+    "bn": "হিমাগার",
+    "en": "Cold Storage",
+    "category": "general"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াল স্পট",
+    "en": "Bacterial Spot",
+    "category": "disease"
+  },
+  {
+    "bn": "মিলিবাগ",
+    "en": "Mealybug",
+    "category": "pest"
+  },
+  {
+    "bn": "নাইট্রোজেন",
+    "en": "Nitrogen",
+    "category": "general"
+  },
+  {
+    "bn": "ম্যাগনেসিয়াম",
+    "en": "Magnesium",
+    "category": "general"
+  },
+  {
+    "bn": "জিঙ্ক",
+    "en": "Zinc",
+    "category": "general"
+  },
+  {
+    "bn": "নিদ্রাভল",
+    "en": "Ladybugs",
+    "category": "pest"
+  },
+  {
+    "bn": "কাকড়ুড়িয়া",
+    "en": "Lacewings",
+    "category": "pest"
+  },
+  {
+    "bn": "ধূসর রোগ",
+    "en": "Grey Mould",
+    "category": "disease"
+  },
+  {
+    "bn": "শ্বেত মাকড়",
+    "en": "White Spider Mite",
+    "category": "pest"
+  },
+  {
+    "bn": "মিলিবাগ",
+    "en": "Aphids",
+    "category": "pest"
+  },
+  {
+    "bn": "সাদা মাছি",
+    "en": "Whiteflies",
+    "category": "pest"
+  },
+  {
+    "bn": "রসেস",
+    "en": "Rust",
+    "category": "disease"
+  },
+  {
+    "bn": "পাতা ঝরে যাওয়া",
+    "en": "Leaf drop",
+    "category": "general"
+  },
+  {
+    "bn": "স্পাইডার মাইটস",
+    "en": "Spider mites",
+    "category": "pest"
+  },
+  {
+    "bn": "সাদা ছাই",
+    "en": "White rust",
+    "category": "disease"
+  },
+  {
+    "bn": "চুঙ্গি পোকা",
+    "en": "Planococcus spp.",
+    "category": "pest"
+  },
+  {
+    "bn": "নলিমাছি",
+    "en": "Leaf Miner",
+    "category": "pest"
+  },
+  {
+    "bn": "চুঙ্গি পোকা",
+    "en": "Case worm",
+    "category": "pest"
+  },
+  {
+    "bn": "ঝলসানো রোগ",
+    "en": "Leaf scorch disease",
+    "category": "disease"
+  },
+  {
+    "bn": "ড্রিপ ইরিগেশন",
+    "en": "Drip Irrigation",
+    "category": "general"
+  },
+  {
+    "bn": "পাতায় দাগ পড়া রোগ",
+    "en": "Leaf Spot Disease",
+    "category": "disease"
+  },
+  {
+    "bn": "পাতা ছিদ্রকারী পোকা",
+    "en": "Leaf-eating pests",
+    "category": "pest"
+  },
+  {
+    "bn": "আঁশ পোকা",
+    "en": "Mites",
+    "category": "pest"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াজনিত রোগ",
+    "en": "Bacterial Diseases",
+    "category": "disease"
+  },
+  {
+    "bn": "রসেস",
+    "en": "Rusts",
+    "category": "disease"
+  },
+  {
+    "bn": "হোয়াইট স্পট রোগ",
+    "en": "White spot disease",
+    "category": "disease"
+  },
+  {
+    "bn": "বাদামি দাগ রোগ",
+    "en": "Brown Spot",
+    "category": "disease"
+  },
+  {
+    "bn": "গন্দি পোকা",
+    "en": "Gundhi Bug",
+    "category": "pest"
+  },
+  {
+    "bn": "জৈব সার",
+    "en": "Organic Fertilizer",
+    "category": "general"
+  },
+  {
+    "bn": "ব্যাকটেরিয়া",
+    "en": "Bacteria",
+    "category": "general"
+  },
+  {
+    "bn": "ক্রুসিফেরাস",
+    "en": "Cruciferous",
+    "category": "general"
+  },
+  {
+    "bn": "ভাইরাস",
+    "en": "Virus",
+    "category": "general"
+  },
+  {
+    "bn": "ফড়িং",
+    "en": "Leafhopper",
+    "category": "pest"
+  },
+  {
+    "bn": "বোরো ধান",
+    "en": "Boro Rice",
+    "category": "general"
+  },
+  {
+    "bn": "অংশগ্রহণমূলক প্রযুক্তি বিকাশন",
+    "en": "Participatory Technology Development (PTD)",
+    "category": "general"
+  },
+  {
+    "bn": "লাল মাকড়সা",
+    "en": "Spider mite",
+    "category": "pest"
+  },
+  {
+    "bn": "ধানের ব্লাস্ট রোগ",
+    "en": "Rice blast disease",
+    "category": "disease"
+  },
+  {
+    "bn": "শস্যদাহ",
+    "en": "Head blight",
+    "category": "disease"
+  },
+  {
+    "bn": "পাতা পচন রোগ",
+    "en": "Leaf spot disease",
+    "category": "disease"
+  },
+  {
+    "bn": "সবুজ পাতাফড়িং",
+    "en": "Green leafhopper",
+    "category": "pest"
+  },
+  {
+    "bn": "গোলমাসি",
+    "en": "Gall midge",
+    "category": "pest"
+  },
+  {
+    "bn": "ছত্রাকজনিত রোগ",
+    "en": "Fungal Diseases",
+    "category": "disease"
+  },
+  {
+    "bn": "পচনজনিত রোগ",
+    "en": "Rot",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্লাইট",
+    "en": "Blast",
+    "category": "disease"
+  },
+  {
+    "bn": "মিলি এফিড",
+    "en": "Cabbage aphid",
+    "category": "pest"
+  },
+  {
+    "bn": "প্রাক-সংগ্রহ ব্যবধান",
+    "en": "Pre-Harvest Interval (PHI)",
+    "category": "general"
+  },
+  {
+    "bn": "টমেটো মকস",
+    "en": "Tomato Mosaic Virus",
+    "category": "disease"
+  },
+  {
+    "bn": "টমেটো ব্লট",
+    "en": "Tomato Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "সবুজ মিরিড",
+    "en": "Green Midge",
+    "category": "pest"
+  },
+  {
+    "bn": "শীষ পচা",
+    "en": "Panicle Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "শস্যবিন্যাস",
+    "en": "Crop Rotation",
+    "category": "general"
+  },
+  {
+    "bn": "ছত্রাক পোকা",
+    "en": "Rice Stem Borer",
+    "category": "pest"
+  },
+  {
+    "bn": "শস্যের ক্ষয়কারী পোকা",
+    "en": "Grain Borers",
+    "category": "pest"
+  },
+  {
+    "bn": "মাকড়সা",
+    "en": "Spider/Mite",
+    "category": "pest"
+  },
+  {
+    "bn": "শুঁটি পোকা",
+    "en": "Pod borer",
+    "category": "pest"
+  },
+  {
+    "bn": "জিংকের ঘাটতি",
+    "en": "Zinc deficiency",
+    "category": "general"
+  },
+  {
+    "bn": "চুঙ্গি পোকা",
+    "en": "Chungi pest",
+    "category": "pest"
+  },
+  {
+    "bn": "কফি পাতার রোগ",
+    "en": "Coffee Leaf Spot",
+    "category": "disease"
+  },
+  {
+    "bn": "খয়েরি ছোপ রোগ",
+    "en": "Brown Spot Disease",
+    "category": "disease"
+  },
+  {
+    "bn": "কালো দাগ রোগ",
+    "en": "Black Spot Disease",
+    "category": "disease"
+  },
+  {
+    "bn": "নলিমাছি",
+    "en": "Notch Minnow/Rice Stem Borer",
+    "category": "pest"
+  },
+  {
+    "bn": "গোলমসি",
+    "en": "Rice Stem Borer",
+    "category": "pest"
+  },
+  {
+    "bn": "খোসা দাগ রোগ",
+    "en": "Shelling Disease",
+    "category": "disease"
+  },
+  {
+    "bn": "কলস সেচ",
+    "en": "Drip Irrigation",
+    "category": "general"
+  },
+  {
+    "bn": "সাদা পোকা",
+    "en": "Whiteflies",
+    "category": "pest"
+  },
+  {
+    "bn": "লিফ স-ফ্লাই",
+    "en": "Leaf-eating S-fly",
+    "category": "pest"
+  },
+  {
+    "bn": "খয়েরি রোগ",
+    "en": "Sheath blight",
+    "category": "disease"
+  },
+  {
+    "bn": "ধানের শুঁটি পোকা",
+    "en": "Stem borers",
+    "category": "pest"
+  },
+  {
+    "bn": "জৈব সার",
+    "en": "Biofertilizer",
+    "category": "general"
+  },
+  {
+    "bn": "ধানের বাদামী দাগ রোগ",
+    "en": "Brown spot disease",
+    "category": "disease"
+  },
+  {
+    "bn": "পাতা ঝলসে যাওয়া",
+    "en": "Leaf blight",
+    "category": "disease"
+  },
+  {
+    "bn": "লাল মাকড়সা",
+    "en": "Red mite",
+    "category": "pest"
+  },
+  {
+    "bn": "গমের মরিচা রোগ",
+    "en": "Wheat rust",
+    "category": "disease"
+  },
+  {
+    "bn": "উত্তরীয় পাতা পোড়া",
+    "en": "Leaf spot",
+    "category": "disease"
+  },
+  {
+    "bn": "শিকড় শোধন",
+    "en": "Root Treatment",
+    "category": "general"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াকনাশক",
+    "en": "Bactericide",
+    "category": "general"
+  },
+  {
+    "bn": "ছাতরা পোকা",
+    "en": "Leafhopper",
+    "category": "pest"
+  },
+  {
+    "bn": "গোলমাসী বা নলীমাসী পোকা",
+    "en": "Gall midge",
+    "category": "pest"
+  },
+  {
+    "bn": "গোলমাসী/নলীমাসী",
+    "en": "Gall Midge",
+    "category": "pest"
+  },
+  {
+    "bn": "আগা ধসা রোগ",
+    "en": "Early Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "পাতা ছিদ্রকারী পোকা",
+    "en": "Leaf Miner",
+    "category": "pest"
+  },
+  {
+    "bn": "ছিদ্রকারী পোকা",
+    "en": "Borer",
+    "category": "pest"
+  },
+  {
+    "bn": "গোলমাসী",
+    "en": "Rice Gall Midge",
+    "category": "pest"
+  },
+  {
+    "bn": "আর্দ্রতা",
+    "en": "Humidity",
+    "category": "general"
+  },
+  {
+    "bn": "জৈব নিয়ন্ত্রণ",
+    "en": "Biological control",
+    "category": "general"
+  },
+  {
+    "bn": "মিশ্র ফসল",
+    "en": "Mixed cropping",
+    "category": "general"
+  },
+  {
+    "bn": "গোড়ায় পচন",
+    "en": "Foot rot / Root rot",
+    "category": "disease"
+  },
+  {
+    "bn": "সূত্রকৃমি",
+    "en": "Nematodes",
+    "category": "pest"
+  },
+  {
+    "bn": "গান্ধি পোকা",
+    "en": "Rice bug / Gandhi bug",
+    "category": "pest"
+  },
+  {
+    "bn": "আগাছা পোকা",
+    "en": "Weed pest",
+    "category": "pest"
+  },
+  {
+    "bn": "শস্য ছিদ্রকারী পোকা",
+    "en": "Stem borer",
+    "category": "pest"
+  },
+  {
+    "bn": "ভূমি ধস",
+    "en": "Landslide",
+    "category": "general"
+  },
+  {
+    "bn": "গোড়া পচন",
+    "en": "Seedling rot / Foot rot",
+    "category": "disease"
+  },
+  {
+    "bn": "খয়েরি রোগ",
+    "en": "Sheath blight",
+    "category": "disease"
+  },
+  {
+    "bn": "মাদার বা গ্লিরিসিডিয়া",
+    "en": "Gliricidia",
+    "category": "general"
+  },
+  {
+    "bn": "মাটির ক্ষয়",
+    "en": "Soil erosion",
+    "category": "general"
+  },
+  {
+    "bn": "কভার ক্রপস",
+    "en": "Cover crops",
+    "category": "general"
+  },
+  {
+    "bn": "অ্যাগ্রিভেশন",
+    "en": "Agroforestry",
+    "category": "general"
+  },
+  {
+    "bn": "ওক্রা স্পট",
+    "en": "Ocracean spot",
+    "category": "disease"
+  },
+  {
+    "bn": "শুকনো পাতার রোগ",
+    "en": "Leaf spot disease",
+    "category": "disease"
+  },
+  {
+    "bn": "খাদি পোকা",
+    "en": "Hairy caterpillar",
+    "category": "pest"
+  },
+  {
+    "bn": "ধূসর দাগ রোগ",
+    "en": "Gray leaf spot",
+    "category": "disease"
+  },
+  {
+    "bn": "সাদা ছোপ রোগ",
+    "en": "White Spot Disease",
+    "category": "disease"
+  },
+  {
+    "bn": "বাদামি দাগ",
+    "en": "Brown Spot",
+    "category": "disease"
+  },
+  {
+    "bn": "শৈবাল পাতার দাগ রোগ",
+    "en": "Algal Leaf Spot Disease",
+    "category": "disease"
+  },
+  {
+    "bn": "সিলিকন সার",
+    "en": "Silicon Fertilizer",
+    "category": "general"
+  },
+  {
+    "bn": "রঞ্জি রোগ",
+    "en": "Rice blast",
+    "category": "disease"
+  },
+  {
+    "bn": "চারা শোধন",
+    "en": "Seed treatment",
+    "category": "general"
+  },
+  {
+    "bn": "বেঞ্চ টেরেছ",
+    "en": "Bench terrace",
+    "category": "general"
+  },
+  {
+    "bn": "পলিমাটি",
+    "en": "Silty soil",
+    "category": "general"
+  },
+  {
+    "bn": "গান্ধি পোকা",
+    "en": "Rice bug (Leptocorisa oratorius)",
+    "category": "pest"
+  },
+  {
+    "bn": "পাতায় দাগ রোগ",
+    "en": "Leaf spot disease",
+    "category": "disease"
+  },
+  {
+    "bn": "শ্বেতপোকা",
+    "en": "Whitefly",
+    "category": "pest"
+  },
+  {
+    "bn": "মঞ্জি",
+    "en": "Mildew",
+    "category": "disease"
+  },
+  {
+    "bn": "চা শৈবাল পাতার দাগ",
+    "en": "Tea leaf spot",
+    "category": "disease"
+  },
+  {
+    "bn": "যিলিকি রোগ",
+    "en": "Fusarium Head Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "শুট ব্লight",
+    "en": "Sclerotinia Stem Rot",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্লাস্ট রোগ",
+    "en": "Rice Blast",
+    "category": "disease"
+  },
+  {
+    "bn": "স-ফ্লাই",
+    "en": "Sawfly",
+    "category": "pest"
+  },
+  {
+    "bn": "লার্ভা",
+    "en": "Larva",
+    "category": "pest"
+  },
+  {
+    "bn": "ধুলো রোগ",
+    "en": "Powdery mildew",
+    "category": "disease"
+  },
+  {
+    "bn": "নাইট্রোজেনের অভাব",
+    "en": "Nitrogen deficiency",
+    "category": "general"
+  },
+  {
+    "bn": "উরচুঙ্গা",
+    "en": "Urchunga",
+    "category": "pest"
+  },
+  {
+    "bn": "স্মুট",
+    "en": "Smut",
+    "category": "disease"
+  },
+  {
+    "bn": "রাইস ইয়েলো মটল ভাইরাস",
+    "en": "Rice Yellow Mottle Virus (RYMV)",
+    "category": "disease"
+  },
+  {
+    "bn": "শুটকি মাকড়",
+    "en": "Spodoptera litura",
+    "category": "pest"
+  },
+  {
+    "bn": "রাইজ ব্লাইট",
+    "en": "Rice Blast",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াল স্পট",
+    "en": "Bacterial Leaf Spot",
+    "category": "disease"
+  },
+  {
+    "bn": "খামার যান্ত্রিকীকরণ",
+    "en": "Farm mechanization",
+    "category": "general"
+  },
+  {
+    "bn": "ধসা রোগ",
+    "en": "Late Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "খোলপোড়া রোগ",
+    "en": "Rice Sheath Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "ফ্লাচারী রোগ",
+    "en": "Flacherie",
+    "category": "disease"
+  },
+  {
+    "bn": "সমন্বিত কীট/রোগ ব্যবস্থাপনা",
+    "en": "Integrated Pest/Disease Management (IPM)",
+    "category": "general"
+  },
+  {
+    "bn": "পাতায় দাগ",
+    "en": "Leaf spot",
+    "category": "disease"
+  },
+  {
+    "bn": "পাতাপোড়া রোগ",
+    "en": "Leaf spot disease",
+    "category": "disease"
+  },
+  {
+    "bn": "সাদা ছোপ রোগ",
+    "en": "Powdery mildew",
+    "category": "disease"
+  },
+  {
+    "bn": "ধূসর ছোপ রোগ",
+    "en": "Gray mold",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্যক্তিগত সুরক্ষার সরঞ্জাম",
+    "en": "Personal Protective Equipment (PPE)",
+    "category": "general"
+  },
+  {
+    "bn": "শস্য পর্যায়ক্রম",
+    "en": "Crop rotation",
+    "category": "general"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াজনিত দাগ",
+    "en": "Bacterial leaf spot",
+    "category": "disease"
+  },
+  {
+    "bn": "খয়েরি রোগ",
+    "en": "Rice blast",
+    "category": "disease"
+  },
+  {
+    "bn": "শ্বেত মড়ক রোগ",
+    "en": "White head rust",
+    "category": "disease"
+  },
+  {
+    "bn": "সবুজ মিরিড পোকা",
+    "en": "Green midge",
+    "category": "pest"
+  },
+  {
+    "bn": "মাইক",
+    "en": "Mite",
+    "category": "pest"
+  },
+  {
+    "bn": "নলিমাছি",
+    "en": "Downy Mildew",
+    "category": "disease"
+  },
+  {
+    "bn": "ছত্রা পোকা",
+    "en": "Fungus gnats",
+    "category": "pest"
+  },
+  {
+    "bn": "মরিচা",
+    "en": "Common Rust",
+    "category": "disease"
+  },
+  {
+    "bn": "পাতার পোকা",
+    "en": "Leaf miner",
+    "category": "pest"
+  },
+  {
+    "bn": "সমন্বিত শস্য উৎপাদন পদ্ধতি",
+    "en": "Integrated Crop Management",
+    "category": "general"
+  },
+  {
+    "bn": "খয়েরি রোগ",
+    "en": "Sooty leaf spot",
+    "category": "disease"
+  },
+  {
+    "bn": "কালো ছোপ রোগ",
+    "en": "Black spot disease",
+    "category": "disease"
+  },
+  {
+    "bn": "গোলমাসী রোগ",
+    "en": "Golmasi disease",
+    "category": "disease"
+  },
+  {
+    "bn": "খয়েরি রোগ",
+    "en": "Sheath Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "পাতার পচন",
+    "en": "Leaf Spot/Rot",
+    "category": "disease"
+  },
+  {
+    "bn": "আঠালো পাতার রোগ",
+    "en": "Sticky Leaf Disease",
+    "category": "disease"
+  },
+  {
+    "bn": "বাদামি দাগ রোগ",
+    "en": "Brown Spot Disease",
+    "category": "disease"
+  },
+  {
+    "bn": "ঢলে পড়া রোগ",
+    "en": "Fusarium Wilt",
+    "category": "disease"
+  },
+  {
+    "bn": "চুঙ্গি পোকা",
+    "en": "Rice Case Worm",
+    "category": "pest"
+  },
+  {
+    "bn": "স্ট্রাইপ রাস্ট",
+    "en": "Strip Rust",
+    "category": "disease"
+  },
+  {
+    "bn": "পাতা ঝলসানো রোগ",
+    "en": "Leaf Scorching Disease",
+    "category": "disease"
+  },
+  {
+    "bn": "অল্টারনারিয়া ব্লাইট",
+    "en": "Alternaria blight",
+    "category": "disease"
+  },
+  {
+    "bn": "সাদা নেকড়ে রোগ",
+    "en": "White leaf blight",
+    "category": "disease"
+  },
+  {
+    "bn": "রৈখিক ক্ষত",
+    "en": "Narrow brown spot",
+    "category": "disease"
+  },
+  {
+    "bn": "গমের ব্লাস্ট",
+    "en": "Wheat blast",
+    "category": "disease"
+  },
+  {
+    "bn": "কাটওয়ার্ম",
+    "en": "Cutworm",
+    "category": "pest"
+  },
+  {
+    "bn": "পাতার দাগ",
+    "en": "Leaf spot",
+    "category": "disease"
+  },
+  {
+    "bn": "দানার কুঁচকে যাওয়া",
+    "en": "Grain shriveling",
+    "category": "disease"
+  },
+  {
+    "bn": "রাইজোপেরোসিস",
+    "en": "Rhizoctonia",
+    "category": "disease"
+  },
+  {
+    "bn": "পাতামোড়ানো পোকা",
+    "en": "Leaf-rolling pests",
+    "category": "pest"
+  },
+  {
+    "bn": "গলমাছি",
+    "en": "Rice Gall Midge",
+    "category": "pest"
+  },
+  {
+    "bn": "লেট ব্লাইট",
+    "en": "Late Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "সাদা কান্ড রোগ",
+    "en": "White rot",
+    "category": "disease"
+  },
+  {
+    "bn": "মাটি পরীক্ষা",
+    "en": "Soil testing",
+    "category": "general"
+  },
+  {
+    "bn": "জুট-জিও টেক্সটাইল",
+    "en": "Jute-geotextile",
+    "category": "general"
+  },
+  {
+    "bn": "ভূমি ধ্বস",
+    "en": "Landslide",
+    "category": "general"
+  },
+  {
+    "bn": "সাদা পোকা",
+    "en": "Whitefly",
+    "category": "pest"
+  },
+  {
+    "bn": "নাইট্রোজেন আবদ্ধকরণ",
+    "en": "Nitrogen fixation",
+    "category": "general"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াল ওজ রোগ",
+    "en": "Bacterial blight",
+    "category": "disease"
+  },
+  {
+    "bn": "খয়েরি ছোপ রোগ",
+    "en": "Rust",
+    "category": "disease"
+  },
+  {
+    "bn": "পাতার দাগ রোগ",
+    "en": "Leaf spot diseases",
+    "category": "disease"
+  },
+  {
+    "bn": "সরিষার পাতা ঝলসে যাওয়া রোগ",
+    "en": "Safflower leaf spot",
+    "category": "disease"
+  },
+  {
+    "bn": "এআইডি (AWD)",
+    "en": "Alternate Wetting and Drying",
+    "category": "general"
+  },
+  {
+    "bn": "চুঙ্গি পোকা",
+    "en": "Cabbage Worms",
+    "category": "pest"
+  },
+  {
+    "bn": "আলুর পাতা পচন রোগ",
+    "en": "Potato Leaf Spot",
+    "category": "disease"
+  },
+  {
+    "bn": "নাইট্রোজেন ফিক্সেশন",
+    "en": "Nitrogen fixation",
+    "category": "general"
+  },
+  {
+    "bn": "টমেটো মকস",
+    "en": "Tomato mosaic",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াল ব্রাউন ক্যানকার",
+    "en": "Bacterial brown canker",
+    "category": "disease"
+  },
+  {
+    "bn": "সমন্বিত ব্যবস্থাপনা পদ্ধতি",
+    "en": "Integrated Pest and Disease Management (IPM)",
+    "category": "general"
+  },
+  {
+    "bn": "পেঁয়াজ মচ",
+    "en": "Onion bulb fly",
+    "category": "pest"
+  },
+  {
+    "bn": "শট হোল বোরার",
+    "en": "Shoot hole borer",
+    "category": "pest"
+  },
+  {
+    "bn": "বোরো",
+    "en": "Boro (Rice season)",
+    "category": "general"
+  },
+  {
+    "bn": "জিংক সালফেট",
+    "en": "Zinc Sulfate",
+    "category": "general"
+  },
+  {
+    "bn": "ব্ল্যাক স্কোর",
+    "en": "Black Spot",
+    "category": "disease"
+  },
+  {
+    "bn": "কন্টুর গ্রাসড ওয়াটারওয়ে",
+    "en": "Contour Grassed Waterway",
+    "category": "general"
+  },
+  {
+    "bn": "ব্ল্যাক স্পট",
+    "en": "Black Spot",
+    "category": "disease"
+  },
+  {
+    "bn": "স্কেলেরোশিয়া",
+    "en": "Sclerotia",
+    "category": "disease"
+  },
+  {
+    "bn": "সালোকসংশ্লেষ",
+    "en": "Photosynthesis",
+    "category": "general"
+  },
+  {
+    "bn": "লিফ ব্লাইট",
+    "en": "Leaf Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "পাইরেথ্রয়েড",
+    "en": "Pyrethroid",
+    "category": "general"
+  },
+  {
+    "bn": "শৈবাল পাতার দাগ",
+    "en": "Algae leaf spot",
+    "category": "disease"
+  },
+  {
+    "bn": "খোলপচা রোগ",
+    "en": "Sheath brown rot",
+    "category": "disease"
+  },
+  {
+    "bn": "কুয়াশা",
+    "en": "Fog",
+    "category": "general"
+  },
+  {
+    "bn": "রঞ্জি",
+    "en": "Rust",
+    "category": "disease"
+  },
+  {
+    "bn": "নাইট্রোজেন সংবন্ধন",
+    "en": "Nitrogen fixation",
+    "category": "general"
+  },
+  {
+    "bn": "আফিদ",
+    "en": "Aphid",
+    "category": "pest"
+  },
+  {
+    "bn": "আইল্লা পোকা",
+    "en": "Rice bug",
+    "category": "pest"
+  },
+  {
+    "bn": "ফসকা দাগ",
+    "en": "Leaf Spot",
+    "category": "disease"
+  },
+  {
+    "bn": "আগাছানাশক",
+    "en": "Herbicide",
+    "category": "general"
+  },
+  {
+    "bn": "সমন্বিত রোগ ব্যবস্থাপনা",
+    "en": "Integrated Disease Management",
+    "category": "general"
+  },
+  {
+    "bn": "মাজরা পোকা",
+    "en": "Yellow Stem Borer",
+    "category": "pest"
+  },
+  {
+    "bn": "ছত্রাক পোকা",
+    "en": "Chatra Poka",
+    "category": "pest"
+  },
+  {
+    "bn": "লাল মরিচা রোগ",
+    "en": "Red rust disease",
+    "category": "disease"
+  },
+  {
+    "bn": "সাথী ফসল",
+    "en": "Intercropping",
+    "category": "general"
+  },
+  {
+    "bn": "ম্যাক্রোনিউট্রিয়েন্টস",
+    "en": "Macronutrients",
+    "category": "general"
+  },
+  {
+    "bn": "মাইক্রোনিউট্রিয়েন্টস",
+    "en": "Micronutrients",
+    "category": "general"
+  },
+  {
+    "bn": "স্টেম বোরার",
+    "en": "Stem Borer",
+    "category": "pest"
+  },
+  {
+    "bn": "রঞ্জি স্পোর",
+    "en": "Rust spore",
+    "category": "disease"
+  },
+  {
+    "bn": "গিট পচা",
+    "en": "Stem rot",
+    "category": "disease"
+  },
+  {
+    "bn": "ঘাসফড়িং",
+    "en": "Rice planthopper",
+    "category": "pest"
+  },
+  {
+    "bn": "লিফ হপার",
+    "en": "Leafhopper",
+    "category": "pest"
+  },
+  {
+    "bn": "সমন্বিত ফসল ব্যবস্থাপনা",
+    "en": "Integrated Pest Management (IPM)",
+    "category": "general"
+  },
+  {
+    "bn": "ধণচণ রোগ",
+    "en": "Leaf Spot",
+    "category": "disease"
+  },
+  {
+    "bn": "সাদা মরিচা রোগ",
+    "en": "White rust",
+    "category": "disease"
+  },
+  {
+    "bn": "খয়েরি রোগ",
+    "en": "Brown spot",
+    "category": "disease"
+  },
+  {
+    "bn": "সুষম সার প্রয়োগ",
+    "en": "Balanced fertilization",
+    "category": "general"
+  },
+  {
+    "bn": "ধূসর রোগ",
+    "en": "Gray leaf spot",
+    "category": "disease"
+  },
+  {
+    "bn": "পর্ণকচি রোগ",
+    "en": "Leaf spot disease",
+    "category": "disease"
+  },
+  {
+    "bn": "জিঙ্কের স্বল্পতা",
+    "en": "Zinc deficiency",
+    "category": "general"
+  },
+  {
+    "bn": "কালো ছোপ রোগ",
+    "en": "Black spot",
+    "category": "disease"
+  },
+  {
+    "bn": "সাদা মাছি রোগ",
+    "en": "White rust",
+    "category": "disease"
+  },
+  {
+    "bn": "সবুজ পাতাফড়িং",
+    "en": "Green Leafhopper",
+    "category": "pest"
+  },
+  {
+    "bn": "মিলি এফিড",
+    "en": "Mili Aphid",
+    "category": "pest"
+  },
+  {
+    "bn": "শস্য পর্যায়ক্রম",
+    "en": "Crop Rotation",
+    "category": "general"
+  },
+  {
+    "bn": "ফসল পর্যায়",
+    "en": "Crop Rotation",
+    "category": "general"
+  },
+  {
+    "bn": "সাংস্কৃতিক দমন",
+    "en": "Cultural Control",
+    "category": "general"
+  },
+  {
+    "bn": "পুষ্টির অভাব",
+    "en": "Nutrient deficiency",
+    "category": "general"
+  },
+  {
+    "bn": "মাটির pH",
+    "en": "Soil pH",
+    "category": "general"
+  },
+  {
+    "bn": "চুন",
+    "en": "Lime",
+    "category": "general"
+  },
+  {
+    "bn": "বীজতলা",
+    "en": "Seedbed",
+    "category": "general"
+  },
+  {
+    "bn": "রসেট",
+    "en": "Rhizoctonia",
+    "category": "disease"
+  },
+  {
+    "bn": "আন্তঃফসল",
+    "en": "Intercropping",
+    "category": "general"
+  },
+  {
+    "bn": "ধানের পাতা খাওয়া পোকা",
+    "en": "Rice leaf folder",
+    "category": "pest"
+  },
+  {
+    "bn": "ব্রাউন ব্লাইট",
+    "en": "Brown blight",
+    "category": "disease"
+  },
+  {
+    "bn": "ছাই রোগ",
+    "en": "Powdery mildew",
+    "category": "disease"
+  },
+  {
+    "bn": "কালো পচা রোগ",
+    "en": "Black Rot",
+    "category": "disease"
+  },
+  {
+    "bn": "ফ্লি বিটেল",
+    "en": "Flea Beetle",
+    "category": "pest"
+  },
+  {
+    "bn": "হোয়াইট পয়েন্ট রোগ",
+    "en": "White point disease",
+    "category": "disease"
+  },
+  {
+    "bn": "বট রোগ",
+    "en": "Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "রাইজ/সাদা ছোপ",
+    "en": "Rice Blast/White Spot",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াল স্পট",
+    "en": "Bacterial spot",
+    "category": "disease"
+  },
+  {
+    "bn": "ম্যাগনেসিয়াম ঘাটতি",
+    "en": "Magnesium deficiency",
+    "category": "general"
+  },
+  {
+    "bn": "পাতা পচা রোগ",
+    "en": "Leaf spot",
+    "category": "disease"
+  },
+  {
+    "bn": "উইপোকা",
+    "en": "Termites",
+    "category": "pest"
+  },
+  {
+    "bn": "শীষের গোড়ার পচ",
+    "en": "Sheath rot",
+    "category": "disease"
+  },
+  {
+    "bn": "খোসা দাগ রোগ",
+    "en": "Husk spot disease",
+    "category": "disease"
+  },
+  {
+    "bn": "গোড়া পচা",
+    "en": "Foot Rot",
+    "category": "disease"
+  },
+  {
+    "bn": "অল্টারনারিয়া ব্লাইট",
+    "en": "Alternaria Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "পাতা ঝলসে যাওয়া রোগ",
+    "en": "Leaf Spot disease",
+    "category": "disease"
+  },
+  {
+    "bn": "পাতা চোষা পোকা",
+    "en": "Leaf-chewing insects",
+    "category": "pest"
+  },
+  {
+    "bn": "মাকড়সা",
+    "en": "Spider mites",
+    "category": "pest"
+  },
+  {
+    "bn": "আর্গুস রোগ",
+    "en": "Downy Mildew",
+    "category": "disease"
+  },
+  {
+    "bn": "কালো ছোপ রোগ",
+    "en": "Black Spot",
+    "category": "disease"
+  },
+  {
+    "bn": "ফস্কা দাগ",
+    "en": "False Smut",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াজনিত নরম পচন রোগ",
+    "en": "Bacterial soft rot",
+    "category": "disease"
+  },
+  {
+    "bn": "আর্গুস রোগ",
+    "en": "Argus disease",
+    "category": "disease"
+  },
+  {
+    "bn": "পাতা ঝলসা রোগ",
+    "en": "Leaf blight",
+    "category": "disease"
+  },
+  {
+    "bn": "স্পাইডার মাইট",
+    "en": "Spider Mite",
+    "category": "pest"
+  },
+  {
+    "bn": "উইপোকা",
+    "en": "Caterpillar",
+    "category": "pest"
+  },
+  {
+    "bn": "বাদামী ঝলসা রোগ",
+    "en": "Brown Spot disease",
+    "category": "disease"
+  },
+  {
+    "bn": "গমের ব্লাস্ট রোগ",
+    "en": "Wheat Blast Disease",
+    "category": "disease"
+  },
+  {
+    "bn": "ধূসর পাতা দাগ রোগ",
+    "en": "Grey Leaf Spot Disease",
+    "category": "disease"
+  },
+  {
+    "bn": "জৈব বালাইনাশক",
+    "en": "Biological pesticide",
+    "category": "general"
+  },
+  {
+    "bn": "পাতামোড়ানো পোকা",
+    "en": "Leaf-eating pests / Leaf folder",
+    "category": "pest"
+  },
+  {
+    "bn": "মিলি এফিড",
+    "en": "Mealybug / Aphid",
+    "category": "pest"
+  },
+  {
+    "bn": "পাতামোরানো পোকা",
+    "en": "Leaf Folder",
+    "category": "pest"
+  },
+  {
+    "bn": "ধানের পাতা ঝলসে যাওয়া",
+    "en": "Leaf Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "ধানের ব্লাস্ট রোগ",
+    "en": "Rice Blast",
+    "category": "disease"
+  },
+  {
+    "bn": "সাদা দাগ রোগ",
+    "en": "White Spot Disease",
+    "category": "disease"
+  },
+  {
+    "bn": "ধূসর পাতা দাগ",
+    "en": "Grey Leaf Spot",
+    "category": "disease"
+  },
+  {
+    "bn": "পাউডার মাইট",
+    "en": "Powdery mildew",
+    "category": "disease"
+  },
+  {
+    "bn": "শুট ব্ল্যাক",
+    "en": "Shoot black",
+    "category": "disease"
+  },
+  {
+    "bn": "প্যাথোজেন",
+    "en": "Pathogen",
+    "category": "general"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াল ব্রাউন স্পট",
+    "en": "Bacterial brown spot",
+    "category": "disease"
+  },
+  {
+    "bn": "চুঙ্গি পোকা",
+    "en": "Planthoppers",
+    "category": "pest"
+  },
+  {
+    "bn": "খিনপোকা",
+    "en": "Leafhopper",
+    "category": "pest"
+  },
+  {
+    "bn": "পাতা মোচড় দেওয়া পোকা",
+    "en": "Leaf miner",
+    "category": "pest"
+  },
+  {
+    "bn": "বাদামী ঝলসা রোগ",
+    "en": "Brown spot disease",
+    "category": "disease"
+  },
+  {
+    "bn": "স্পাইডার মাইট",
+    "en": "Spider mite",
+    "category": "pest"
+  },
+  {
+    "bn": "ছত্রাকজনিত পাতার রোগ",
+    "en": "Fungal leaf spot",
+    "category": "disease"
+  },
+  {
+    "bn": "বাদামী ঝলসা",
+    "en": "Brown Spot",
+    "category": "disease"
+  },
+  {
+    "bn": "মাটি শোধন",
+    "en": "Soil Treatment",
+    "category": "general"
+  },
+  {
+    "bn": "চায়ের পাতা ভক্ষক পোকা",
+    "en": "Tea Leaf Borer",
+    "category": "pest"
+  },
+  {
+    "bn": "কালো ছোপ রোগ",
+    "en": "Black Spot Disease",
+    "category": "disease"
+  },
+  {
+    "bn": "কাণ্ড পচন",
+    "en": "Stem Rot",
+    "category": "disease"
+  },
+  {
+    "bn": "ফস্কা দাগ",
+    "en": "Rice Blast",
+    "category": "disease"
+  },
+  {
+    "bn": "নিওনিকোটিনয়েড",
+    "en": "Neonicotinoid",
+    "category": "general"
+  },
+  {
+    "bn": "শিকড় পচন",
+    "en": "Root rot",
+    "category": "disease"
+  },
+  {
+    "bn": "শীষের গোড়ায় পচন",
+    "en": "Sheath Rot",
+    "category": "disease"
+  },
+  {
+    "bn": "দানার বিবর্ণতা",
+    "en": "Grain Discoloration",
+    "category": "disease"
+  },
+  {
+    "bn": "পচন রোগ",
+    "en": "Sheath Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "পানি নিষ্কাশন",
+    "en": "Drainage",
+    "category": "general"
+  },
+  {
+    "bn": "ভূমিক্ষয়",
+    "en": "Soil erosion",
+    "category": "general"
+  },
+  {
+    "bn": "সমোচ্চতা রেখা",
+    "en": "Contour line",
+    "category": "general"
+  },
+  {
+    "bn": "ঝাড়ের বেড়া",
+    "en": "Hedge row",
+    "category": "general"
+  },
+  {
+    "bn": "ধূসর পাতা দাগ",
+    "en": "Gray leaf spot",
+    "category": "disease"
+  },
+  {
+    "bn": "পাতা কুঁকড়ে যাওয়া",
+    "en": "Leaf curl",
+    "category": "disease"
+  },
+  {
+    "bn": "ধসা রোগ",
+    "en": "Downy mildew",
+    "category": "disease"
+  },
+  {
+    "bn": "কপার ক্লোরোসিস",
+    "en": "Copper chlorosis",
+    "category": "disease"
+  },
+  {
+    "bn": "ধানের ব্লাইট",
+    "en": "Rice blight",
+    "category": "disease"
+  },
+  {
+    "bn": "উরচুঙ্গা পোকা",
+    "en": "Urcunga pest",
+    "category": "pest"
+  },
+  {
+    "bn": "পাতামোড়ানো পোকা",
+    "en": "Leaf-rolling insect",
+    "category": "pest"
+  },
+  {
+    "bn": "কালা দাগ",
+    "en": "Black spot",
+    "category": "disease"
+  },
+  {
+    "bn": "শুঁয়োপোকা",
+    "en": "Moth/Caterpillar",
+    "category": "pest"
+  },
+  {
+    "bn": "পাতা মোড়ানো পোকা",
+    "en": "Rice leaf folder",
+    "category": "pest"
+  },
+  {
+    "bn": "লবণ সহিষ্ণু জাত",
+    "en": "Salt-tolerant variety",
+    "category": "general"
+  },
+  {
+    "bn": "দানা চিটা হওয়া",
+    "en": "Shucking/Lodging of grains",
+    "category": "general"
+  },
+  {
+    "bn": "খোল পোড়া রোগ",
+    "en": "Rice Sheath Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "솎ার",
+    "en": "Thinning",
+    "category": "general"
+  },
+  {
+    "bn": "ধুলো ছত্রাক",
+    "en": "Powdery Mildew",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াল রোগ",
+    "en": "Bacterial Diseases",
+    "category": "disease"
+  },
+  {
+    "bn": "কালো দাগ রোগ",
+    "en": "Black Spot",
+    "category": "disease"
+  },
+  {
+    "bn": "শুটকি রোগ",
+    "en": "Leaf spot",
+    "category": "disease"
+  },
+  {
+    "bn": "আঁশ পোকা",
+    "en": "Aphids",
+    "category": "pest"
+  },
+  {
+    "bn": "পাতা ছিদ্রকারী পোকা",
+    "en": "Leaf-chewing insects",
+    "category": "pest"
+  },
+  {
+    "bn": "মাকড়সা",
+    "en": "Spider mites",
+    "category": "pest"
+  },
+  {
+    "bn": "ধাতব রোগ",
+    "en": "Rust Disease",
+    "category": "disease"
+  },
+  {
+    "bn": "শস্য পচক রোগ",
+    "en": "Sheath Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "শোষক পোকা",
+    "en": "Sucking pests",
+    "category": "pest"
+  },
+  {
+    "bn": "হারলেকুইন পোকা",
+    "en": "Harlequin bug",
+    "category": "pest"
+  },
+  {
+    "bn": "ধণচ রোগ",
+    "en": "Blast disease",
+    "category": "disease"
+  },
+  {
+    "bn": "সরিষার পোকা",
+    "en": "Aphids",
+    "category": "pest"
+  },
+  {
+    "bn": "নিমাটোড",
+    "en": "Nematodes",
+    "category": "pest"
+  },
+  {
+    "bn": "শুঁয়োপোকা",
+    "en": "Weevils",
+    "category": "pest"
+  },
+  {
+    "bn": "স্তন্যপায়ী পোকা",
+    "en": "Crickets",
+    "category": "pest"
+  },
+  {
+    "bn": "মূল পচন",
+    "en": "Root rot",
+    "category": "disease"
+  },
+  {
+    "bn": "বোল পচা",
+    "en": "Boll rot",
+    "category": "disease"
+  },
+  {
+    "bn": "পাতা ছিদ্রকারী পোকা",
+    "en": "Leaf-piercing insects",
+    "category": "pest"
+  },
+  {
+    "bn": "মিলিবাগ",
+    "en": "Mealybugs",
+    "category": "pest"
+  },
+  {
+    "bn": "স্পাইডার মাইটস",
+    "en": "Spider Mites",
+    "category": "pest"
+  },
+  {
+    "bn": "পাতাপোড়া রোগ",
+    "en": "Leaf Spot Disease",
+    "category": "disease"
+  },
+  {
+    "bn": "চা শৈবাল পাতার দাগ",
+    "en": "Algal Leaf Spot",
+    "category": "disease"
+  },
+  {
+    "bn": "উত্তরীয় পাতা পোড়া রোগ",
+    "en": "Northern Corn Leaf Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "ধানের পাতা ছিদ্রকারী পোকা",
+    "en": "Leaf-cutting insects",
+    "category": "pest"
+  },
+  {
+    "bn": "পাতা চোষা পোকা",
+    "en": "Leaf-chewing pests",
+    "category": "pest"
+  },
+  {
+    "bn": "ধসর দাগ",
+    "en": "Grey spot",
+    "category": "disease"
+  },
+  {
+    "bn": "আন্তঃফসল চাষ",
+    "en": "Intercropping",
+    "category": "general"
+  },
+  {
+    "bn": "গমের পাতার দাগ রোগ",
+    "en": "Wheat Leaf Spot",
+    "category": "disease"
+  },
+  {
+    "bn": "গোলমাসী",
+    "en": "Downy Mildew",
+    "category": "disease"
+  },
+  {
+    "bn": "নলীমাসী",
+    "en": "Powdery Mildew",
+    "category": "disease"
+  },
+  {
+    "bn": "শৈবাল পাতার দাগ",
+    "en": "Algal Staining",
+    "category": "disease"
+  },
+  {
+    "bn": "ম্যাক্রোনিউট্রিয়েন্ট",
+    "en": "Macronutrient",
+    "category": "general"
+  },
+  {
+    "bn": "শস্য ছিদ্রকারী পোকা",
+    "en": "Leaf-mining insects",
+    "category": "pest"
+  },
+  {
+    "bn": "পাতা ভক্ষক পোকা",
+    "en": "Leaf-chewing pests",
+    "category": "pest"
+  },
+  {
+    "bn": "নলিমাছি",
+    "en": "Stem borer",
+    "category": "pest"
+  },
+  {
+    "bn": "গোলমাছি",
+    "en": "Leaf miner",
+    "category": "pest"
+  },
+  {
+    "bn": "খড়কুটো রোগ",
+    "en": "Rice blast",
+    "category": "disease"
+  },
+  {
+    "bn": "লবণাক্ত মাটি",
+    "en": "Saline Soil",
+    "category": "general"
+  },
+  {
+    "bn": "কোষ প্রাচীর",
+    "en": "Cell wall",
+    "category": "general"
+  },
+  {
+    "bn": "শীথ রট",
+    "en": "Sheath rot",
+    "category": "disease"
+  },
+  {
+    "bn": "মিলি এফিড",
+    "en": "Mili aphid",
+    "category": "pest"
+  },
+  {
+    "bn": "কালো মরিচা",
+    "en": "Black rust",
+    "category": "disease"
+  },
+  {
+    "bn": "রঞ্জি স্পট",
+    "en": "Narrow Brown Spot",
+    "category": "disease"
+  },
+  {
+    "bn": "খিংপোকা",
+    "en": "Rice Bug",
+    "category": "pest"
+  },
+  {
+    "bn": "সুষম সার",
+    "en": "Balanced Fertilization",
+    "category": "general"
+  },
+  {
+    "bn": "ফ্ল্যাগ লিফ ইনফেকশন",
+    "en": "Flag Leaf Infection",
+    "category": "disease"
+  },
+  {
+    "bn": "লাল মাকড়সা",
+    "en": "Red Mite",
+    "category": "pest"
+  },
+  {
+    "bn": "সাদা গাছফড়িং",
+    "en": "White-backed Planthopper",
+    "category": "pest"
+  },
+  {
+    "bn": "কারেন্ট পোকা",
+    "en": "Brown Plant Hopper",
+    "category": "pest"
+  },
+  {
+    "bn": "বাদামী ঘাসফড়িং",
+    "en": "Brown Plant Hopper",
+    "category": "pest"
+  },
+  {
+    "bn": "শুঁটি পোকা",
+    "en": "Pod Borer",
+    "category": "pest"
+  },
+  {
+    "bn": "ম্যাগনেসিয়াম সালফেট",
+    "en": "Magnesium Sulfate",
+    "category": "general"
+  },
+  {
+    "bn": "পাতা খাওয়া পোকা",
+    "en": "Leaf eater insect",
+    "category": "pest"
+  },
+  {
+    "bn": "সবুজ মিরিড পোকা",
+    "en": "Green Mirid bug",
+    "category": "pest"
+  },
+  {
+    "bn": "রডেন্টিসাইড",
+    "en": "Rodenticide",
+    "category": "pesticide"
+  },
+  {
+    "bn": "মরিচ",
+    "en": "Chili",
+    "category": "general"
+  },
+  {
+    "bn": "মিকোটক্সিক পচন",
+    "en": "Mycotoxic rot",
+    "category": "disease"
+  },
+  {
+    "bn": "গান্ধি পোকা",
+    "en": "Gandi bug",
+    "category": "pest"
+  },
+  {
+    "bn": "সেপটোরিয়া লিফ স্পট",
+    "en": "Septoria Leaf Spot",
+    "category": "disease"
+  },
+  {
+    "bn": "গান্ধি পোকা",
+    "en": "Gundhi bug",
+    "category": "pest"
+  },
+  {
+    "bn": "মাকড়সা",
+    "en": "Spider Mites",
+    "category": "pest"
+  },
+  {
+    "bn": "পাতা মরিচা",
+    "en": "Leaf Rust",
+    "category": "disease"
+  },
+  {
+    "bn": "পর্ণমাশীষী পোকা",
+    "en": "Leaf Folder / Leaf Miner",
+    "category": "pest"
+  },
+  {
+    "bn": "মিলি এফিড",
+    "en": "Aphid",
+    "category": "pest"
+  },
+  {
+    "bn": "সাদা মাছি রোগ",
+    "en": "Rice Blast",
+    "category": "disease"
+  },
+  {
+    "bn": "গোড়া পচা",
+    "en": "Foot Rot / Collar Rot",
+    "category": "disease"
+  },
+  {
+    "bn": "সাদা গ্যাসফড়িং",
+    "en": "White Grasshopper",
+    "category": "pest"
+  },
+  {
+    "bn": "খোসা দাগ রোগ",
+    "en": "Sheath Spot",
+    "category": "disease"
+  },
+  {
+    "bn": "পাতা মরিচা রোগ",
+    "en": "Rust disease",
+    "category": "disease"
+  },
+  {
+    "bn": "ধূসর রোগ",
+    "en": "Grey leaf spot",
+    "category": "disease"
+  },
+  {
+    "bn": "জৈব সার",
+    "en": "Organic manure",
+    "category": "general"
+  },
+  {
+    "bn": "বেঞ্চ টেরাসিং",
+    "en": "Bench terracing",
+    "category": "general"
+  },
+  {
+    "bn": "আউশ",
+    "en": "Aus (Rice season)",
+    "category": "general"
+  },
+  {
+    "bn": "ধানের খোসা দাগ রোগ",
+    "en": "Rice grain spot disease",
+    "category": "disease"
+  },
+  {
+    "bn": "সাদা ছোপ রোগ",
+    "en": "White spot disease",
+    "category": "disease"
+  },
+  {
+    "bn": "চিটা",
+    "en": "Sheath Blight/Leaf Spot",
+    "category": "disease"
+  },
+  {
+    "bn": "এডব্লিউডি",
+    "en": "AWD (Alternate Wetting and Drying)",
+    "category": "general"
+  },
+  {
+    "bn": "ঢাল বরাবর চাষ",
+    "en": "Contour Cultivation",
+    "category": "general"
+  },
+  {
+    "bn": "ধূসর পাতা দাগ রোগ",
+    "en": "Gray Leaf Spot",
+    "category": "disease"
+  },
+  {
+    "bn": "খয়েরি ছোপ রোগ",
+    "en": "Brown Spot",
+    "category": "disease"
+  },
+  {
+    "bn": "শূককীট",
+    "en": "Stem Borer",
+    "category": "pest"
+  },
+  {
+    "bn": "পচন রোগ",
+    "en": "Soft Rot",
+    "category": "disease"
+  },
+  {
+    "bn": "লিফ রাস্ট",
+    "en": "Leaf Rust",
+    "category": "disease"
+  },
+  {
+    "bn": "পাতাফড়িং",
+    "en": "Leafhopper",
+    "category": "pest"
+  },
+  {
+    "bn": "চায়ের ফলন",
+    "en": "Tea yield",
+    "category": "general"
+  },
+  {
+    "bn": "ক্লোরপাইরিফস",
+    "en": "Chlorpyrifos",
+    "category": "pest"
+  },
+  {
+    "bn": "নিম তেল",
+    "en": "Neem Oil",
+    "category": "general"
+  },
+  {
+    "bn": "ইমড্যাক্সিপ",
+    "en": "Imidacloprid",
+    "category": "pest"
+  },
+  {
+    "bn": "পাইরেথ্রয়েড",
+    "en": "Pyrethroids",
+    "category": "pest"
+  },
+  {
+    "bn": "আইপ্রোডিয়ন",
+    "en": "Iprodione",
+    "category": "disease"
+  },
+  {
+    "bn": "শুটকি রোগ",
+    "en": "Spot disease",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াল রোগ",
+    "en": "Bacterial disease",
+    "category": "disease"
+  },
+  {
+    "bn": "জিঙ্ক সালফেট",
+    "en": "Zinc sulfate",
+    "category": "general"
+  },
+  {
+    "bn": "সাদা দাগ রোগ",
+    "en": "White spot disease",
+    "category": "disease"
+  },
+  {
+    "bn": "বেনজিমাইড",
+    "en": "Benzimides",
+    "category": "disease"
+  },
+  {
+    "bn": "ট্রায়াজোল",
+    "en": "Triazole",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্লু কপার",
+    "en": "Blue Copper",
+    "category": "disease"
+  },
+  {
+    "bn": "কার্বেন্ডাজিম",
+    "en": "Carbendazim",
+    "category": "disease"
+  },
+  {
+    "bn": "বোরিক অ্যাসিড",
+    "en": "Boric acid",
+    "category": "general"
+  },
+  {
+    "bn": "বোরন সালফেট",
+    "en": "Boron sulfate",
+    "category": "general"
+  },
+  {
+    "bn": "কারটাপ",
+    "en": "Cartap",
+    "category": "pest"
+  },
+  {
+    "bn": "সেভিন পাউডার",
+    "en": "Sevin powder",
+    "category": "pest"
+  },
+  {
+    "bn": "কপার অক্সিক্লোরাইড",
+    "en": "Copper oxychloride",
+    "category": "disease"
+  },
+  {
+    "bn": "পাইমেট্রোজিন",
+    "en": "Pymetrozine",
+    "category": "pest"
+  },
+  {
+    "bn": "গোবর সার",
+    "en": "Farm Yard Manure",
+    "category": "general"
+  },
+  {
+    "bn": "ম্যাগনেসিয়াম সালফেট",
+    "en": "Magnesium sulfate",
+    "category": "general"
+  },
+  {
+    "bn": "ডাইথেন এম-৪৫",
+    "en": "Dithane M-45",
+    "category": "disease"
+  },
+  {
+    "bn": "প্রোভেক্স",
+    "en": "Pro-vax",
+    "category": "disease"
+  },
+  {
+    "bn": "অটোস্টিন",
+    "en": "Autostin",
+    "category": "disease"
+  },
+  {
+    "bn": "ট্রায়াডিমেনফন",
+    "en": "Triadimefon",
+    "category": "disease"
+  },
+  {
+    "bn": "আলুর পচন রোগ",
+    "en": "Late blight",
+    "category": "disease"
+  },
+  {
+    "bn": "ফলিয়ার স্প্রে",
+    "en": "Foliar spray",
+    "category": "general"
+  },
+  {
+    "bn": "ধসা রোগ",
+    "en": "Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "সমন্বিত রোগ ব্যবস্থাপনা",
+    "en": "Integrated Pest Management (IPM)",
+    "category": "general"
+  },
+  {
+    "bn": "বিষটোপ",
+    "en": "Poison Bait",
+    "category": "general"
+  },
+  {
+    "bn": "শীষ",
+    "en": "Panicle",
+    "category": "general"
+  },
+  {
+    "bn": "রাইস হোরাল ম্যাগট",
+    "en": "Rice Whorl Maggot",
+    "category": "pest"
+  },
+  {
+    "bn": "ছোট বাদামী প্ল্যান্টহপার",
+    "en": "Small Brown Planthopper",
+    "category": "pest"
+  },
+  {
+    "bn": "স্ক্লেরোশিয়া",
+    "en": "Sclerotia",
+    "category": "general"
+  },
+  {
+    "bn": "ফ্ল্যাগ লিফ",
+    "en": "Flag Leaf",
+    "category": "general"
+  },
+  {
+    "bn": "স্ট্রাইপ রাস্ট (হলুদ মরিচা রোগ)",
+    "en": "Stripe rust",
+    "category": "disease"
+  },
+  {
+    "bn": "স্টেম রাস্ট (কাণ্ড মরিচা রোগ)",
+    "en": "Stem rust",
+    "category": "disease"
+  },
+  {
+    "bn": "পাউডারি মিলডিউ রোগ",
+    "en": "Powdery mildew",
+    "category": "disease"
+  },
+  {
+    "bn": "কমন রাস্ট (সাধারণ মরিচা রোগ)",
+    "en": "Common rust",
+    "category": "disease"
+  },
+  {
+    "bn": "সবুজ সেতু",
+    "en": "Green bridge",
+    "category": "general"
+  },
+  {
+    "bn": "ইকোনমিক থ্রেশহোল্ড (ETL)",
+    "en": "Economic Threshold Level",
+    "category": "general"
+  },
+  {
+    "bn": "বুটিন পর্যায়",
+    "en": "Booting stage",
+    "category": "general"
+  },
+  {
+    "bn": "ইউরেডিনিওস্পোর",
+    "en": "Urediniospores",
+    "category": "general"
+  },
+  {
+    "bn": "টেলিস্পোর",
+    "en": "Teliospores",
+    "category": "general"
+  },
+  {
+    "bn": "এসিয়া",
+    "en": "Aecia",
+    "category": "general"
+  },
+  {
+    "bn": "বিকল্প পোষক",
+    "en": "Alternative host",
+    "category": "general"
+  },
+  {
+    "bn": "টারসিকাম লিফ ব্লাইট",
+    "en": "Turcicum Leaf Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "সাউদার্ন লিফ স্পট",
+    "en": "Southern Leaf Spot",
+    "category": "disease"
+  },
+  {
+    "bn": "পুসচুল",
+    "en": "Pustule",
+    "category": "general"
+  },
+  {
+    "bn": "ক্লোরোটিক",
+    "en": "Chlorotic",
+    "category": "general"
+  },
+  {
+    "bn": "নেক্রোটিক",
+    "en": "Necrotic",
+    "category": "general"
+  },
+  {
+    "bn": "ইনোকুলাম",
+    "en": "Inoculum",
+    "category": "general"
+  },
+  {
+    "bn": "ট্যাসেলিং",
+    "en": "Tasseling",
+    "category": "general"
+  },
+  {
+    "bn": "বিটস আর্মিওয়ার্ম",
+    "en": "Beet armyworm",
+    "category": "pest"
+  },
+  {
+    "bn": "আমেরিকান কটন বলওয়ার্ম",
+    "en": "American cotton bollworm",
+    "category": "pest"
+  },
+  {
+    "bn": "ফল আর্মিওয়ার্ম",
+    "en": "Fall armyworm",
+    "category": "pest"
+  },
+  {
+    "bn": "সোরগাম মিজ",
+    "en": "Sorghum midge",
+    "category": "pest"
+  },
+  {
+    "bn": "আর্লি ব্লাইট (আগাম ধসা)",
+    "en": "Early Blight",
+    "category": "disease"
+  },
+  {
+    "bn": "পাতা মরিচা রোগ",
+    "en": "Leaf Rust",
+    "category": "disease"
+  },
+  {
+    "bn": "কাণ্ড মরিচা রোগ",
+    "en": "Stem Rust",
+    "category": "disease"
+  },
+  {
+    "bn": "স্ট্রাইপ রাস্ট (হলুদ মরিচা রোগ)",
+    "en": "Stripe Rust (Yellow Rust)",
+    "category": "disease"
+  },
+  {
+    "bn": "গন্দি পোকা",
+    "en": "Gandi Bug",
+    "category": "pest"
+  },
+  {
+    "bn": "মোল্ডিং",
+    "en": "Molding (Earthing up)",
+    "category": "general"
+  },
+  {
+    "bn": "ক্যানোপি",
+    "en": "Canopy",
+    "category": "general"
+  },
+  {
+    "bn": "কপিসিং",
+    "en": "Coppicing",
+    "category": "general"
+  },
+  {
+    "bn": "ম্যাগট",
+    "en": "Maggot",
+    "category": "pest"
+  },
+  {
+    "bn": "চিন্চ বাগ",
+    "en": "Chinch bug",
+    "category": "pest"
+  },
+  {
+    "bn": "ভুট্টার স্ট্রাইপ ভাইরাস",
+    "en": "Maize stripe virus",
+    "category": "disease"
+  },
+  {
+    "bn": "ভুট্টার মোজাইক ভাইরাস",
+    "en": "Maize mosaic virus",
+    "category": "disease"
+  },
+  {
+    "bn": "পঙ্গপাল ও ঘাসফড়িং",
+    "en": "Locust and grasshopper",
+    "category": "pest"
+  },
+  {
+    "bn": "স্প্রিং গ্রিন এফিড",
+    "en": "Spring green aphid",
+    "category": "pest"
+  },
+  {
+    "bn": "মরচে রোগ",
+    "en": "Rust",
+    "category": "disease"
+  },
+  {
+    "bn": "স্টিং নেমাটোড",
+    "en": "Sting nematode",
+    "category": "pest"
+  },
+  {
+    "bn": "স্টাবি রুট নেমাটোড",
+    "en": "Stubby root nematode",
+    "category": "pest"
+  },
+  {
+    "bn": "লেশন নেমাটোড",
+    "en": "Lesion nematode",
+    "category": "pest"
+  },
+  {
+    "bn": "রুট নট নেমাটোড",
+    "en": "Root knot nematode",
+    "category": "pest"
+  },
+  {
+    "bn": "স্টান্ট নেমাটোড",
+    "en": "Stunt nematode",
+    "category": "pest"
+  },
+  {
+    "bn": "উইচউইড",
+    "en": "Witchweed",
+    "category": "pest"
+  },
+  {
+    "bn": "হোয়াইট রাস্ট",
+    "en": "White rust",
+    "category": "disease"
+  },
+  {
+    "bn": "বীজবাহিত রোগ",
+    "en": "Seed-borne disease",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াল সফট রট",
+    "en": "Bacterial soft rot",
+    "category": "disease"
+  },
+  {
+    "bn": "জিক দ্রবণ",
+    "en": "Jik solution (Sodium hypochlorite)",
+    "category": "general"
+  },
+  {
+    "bn": "ক্যাবেজ ম্যাগট",
+    "en": "Cabbage maggot",
+    "category": "pest"
+  },
+  {
+    "bn": "নিমাটোড",
+    "en": "Nematode",
+    "category": "pest"
+  },
+  {
+    "bn": "ডায়মন্ডব্যাক মথ",
+    "en": "Diamondback moth",
+    "category": "pest"
+  },
+  {
+    "bn": "সুটি মোল্ড",
+    "en": "Sooty mold",
+    "category": "disease"
+  },
+  {
+    "bn": "টার্নিপ মথ",
+    "en": "Turnip moth",
+    "category": "pest"
+  },
+  {
+    "bn": "হার্বিসাইড",
+    "en": "Herbicide",
+    "category": "general"
+  },
+  {
+    "bn": "সোলারাইজেশন",
+    "en": "Solarization",
+    "category": "general"
+  },
+  {
+    "bn": "শীষ",
+    "en": "Spike/Ear",
+    "category": "general"
+  },
+  {
+    "bn": "পাতার দাগ রোগ",
+    "en": "Leaf blight disease",
+    "category": "disease"
+  },
+  {
+    "bn": "কান্ডের মরিচা রোগ",
+    "en": "Stem rust disease",
+    "category": "disease"
+  },
+  {
+    "bn": "ইঁদুর",
+    "en": "Rat/Rodent",
+    "category": "pest"
+  },
+  {
+    "bn": "চওড়া পাতা জাতীয় আগাছা",
+    "en": "Broad-leaf weed",
+    "category": "general"
+  },
+  {
+    "bn": "বথুয়া",
+    "en": "Chenopodium album",
+    "category": "general"
+  },
+  {
+    "bn": "কাঁকরি",
+    "en": "Melon/Cucumis melo (weed context)",
+    "category": "general"
+  },
+  {
+    "bn": "বিষকাটালি",
+    "en": "Polygonum hydropiper",
+    "category": "general"
+  },
+  {
+    "bn": "সুগারকেন মিলিবাগ",
+    "en": "Grey sugarcane mealy bug",
+    "category": "pest"
+  },
+  {
+    "bn": "সুগারকেন এফিড",
+    "en": "Sugarcane aphid",
+    "category": "pest"
+  },
+  {
+    "bn": "সুটি মোল্ড",
+    "en": "Sooty mould",
+    "category": "disease"
+  },
+  {
+    "bn": "গ্রিন কর্ন এফিড",
+    "en": "Green Corn Aphid",
+    "category": "pest"
+  },
+  {
+    "bn": "জোনেট লিফ স্পট",
+    "en": "Zonate leaf spot",
+    "category": "disease"
+  },
+  {
+    "bn": "অ্যানথ্রাকনোজ ফোলিয়ার ব্লাইট",
+    "en": "Anthracnose foliar blight",
+    "category": "disease"
+  },
+  {
+    "bn": "সুটি স্ট্রাইপ",
+    "en": "Sooty stripe",
+    "category": "disease"
+  },
+  {
+    "bn": "সাউদার্ন লিফ স্পট",
+    "en": "Southern leaf spot",
+    "category": "disease"
+  },
+  {
+    "bn": "গ্রে লিফ স্পট",
+    "en": "Grey leaf spot",
+    "category": "disease"
+  },
+  {
+    "bn": "রাফ লিফ স্পট",
+    "en": "Rough leaf spot",
+    "category": "disease"
+  },
+  {
+    "bn": "কর্ন প্ল্যানথপার",
+    "en": "Corn planthopper",
+    "category": "pest"
+  },
+  {
+    "bn": "মেইজ মোজাইক ভাইরাস",
+    "en": "Maize mosaic virus",
+    "category": "disease"
+  },
+  {
+    "bn": "ফসফেট ঘাটতি",
+    "en": "Phosphate deficiency",
+    "category": "general"
+  },
+  {
+    "bn": "নাইট্রোজেন ঘাটতি",
+    "en": "Nitrogen deficiency",
+    "category": "general"
+  },
+  {
+    "bn": "পটাশিয়াম ঘাটতি",
+    "en": "Potassium deficiency",
+    "category": "general"
+  },
+  {
+    "bn": "ক্যালসিয়াম ঘাটতি",
+    "en": "Calcium deficiency",
+    "category": "general"
+  },
+  {
+    "bn": "সালফার ঘাটতি",
+    "en": "Sulphur deficiency",
+    "category": "general"
+  },
+  {
+    "bn": "মেইজ স্ট্রিক ভাইরাস",
+    "en": "Maize streak virus",
+    "category": "disease"
+  },
+  {
+    "bn": "মেইজ ডয়ার্ফ মোজাইক ভাইরাস",
+    "en": "Maize dwarf mosaic virus",
+    "category": "disease"
+  },
+  {
+    "bn": "আয়রন ঘাটতি",
+    "en": "Iron deficiency",
+    "category": "general"
+  },
+  {
+    "bn": "এরগট",
+    "en": "Ergot",
+    "category": "disease"
+  },
+  {
+    "bn": "ক্রেজি টপ",
+    "en": "Crazy top",
+    "category": "disease"
+  },
+  {
+    "bn": "গ্রেইন মোল্ড",
+    "en": "Grain mould",
+    "category": "disease"
+  },
+  {
+    "bn": "সরগাম মিজ",
+    "en": "Sorghum midge",
+    "category": "pest"
+  },
+  {
+    "bn": "কাভার্ড কার্নেল স্মাট",
+    "en": "Covered kernel smut",
+    "category": "disease"
+  },
+  {
+    "bn": "হেড স্মাট",
+    "en": "Head smut",
+    "category": "disease"
+  },
+  {
+    "bn": "লুজ কার্নেল স্মাট",
+    "en": "Loose kernel smut",
+    "category": "disease"
+  },
+  {
+    "bn": "বলওয়ার্ম",
+    "en": "Bollworms",
+    "category": "pest"
+  },
+  {
+    "bn": "আর্মিওয়ার্ম",
+    "en": "Armyworms",
+    "category": "pest"
+  },
+  {
+    "bn": "ফিউসারিয়াম রুট অ্যান্ড স্টলক রট",
+    "en": "Fusarium root and stalk rot",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াল ব্ল্যাক স্টলক",
+    "en": "Bacterial black stalk",
+    "category": "disease"
+  },
+  {
+    "bn": "চারকোল রুট অ্যান্ড স্টলক রট",
+    "en": "Charcoal root and stalk rot",
+    "category": "disease"
+  },
+  {
+    "bn": "পাইথিয়াম সিডলিং অ্যান্ড রুট রট",
+    "en": "Pythium seedling and root rot",
+    "category": "disease"
+  },
+  {
+    "bn": "সরগাম স্টেম ফ্লাই",
+    "en": "Sorghum stem fly",
+    "category": "pest"
+  },
+  {
+    "bn": "বারি গম ৩০",
+    "en": "BARI Gom 30",
+    "category": "general"
+  },
+  {
+    "bn": "বারি গম ৩১",
+    "en": "BARI Gom 31",
+    "category": "general"
+  },
+  {
+    "bn": "বারি গম ৩২",
+    "en": "BARI Gom 32",
+    "category": "general"
+  },
+  {
+    "bn": "তাপ সহিষ্ণু",
+    "en": "Heat tolerant",
+    "category": "general"
+  },
+  {
+    "bn": "উচ্চ ফলনশীল",
+    "en": "High yielding",
+    "category": "general"
+  },
+  {
+    "bn": "ব্লাষ্ট রোগ",
+    "en": "Blast disease",
+    "category": "disease"
+  },
+  {
+    "bn": "আগাছা",
+    "en": "Weeds",
+    "category": "pest"
+  },
+  {
+    "bn": "ব্লাস্ট রোগ",
+    "en": "Wheat Blast",
+    "category": "disease"
+  },
+  {
+    "bn": "পাতার দাগ রোগ",
+    "en": "Leaf blight",
+    "category": "disease"
+  },
+  {
+    "bn": "নিশান পাতা",
+    "en": "Flag leaf",
+    "category": "general"
+  },
+  {
+    "bn": "ভুট্টা",
+    "en": "Maize",
+    "category": "general"
+  },
+  {
+    "bn": "রবি মৌসুম",
+    "en": "Rabi season",
+    "category": "general"
+  },
+  {
+    "bn": "খরিপ মৌসুম",
+    "en": "Kharif season",
+    "category": "general"
+  },
+  {
+    "bn": "খরা সহিষ্ণু",
+    "en": "Drought tolerant",
+    "category": "general"
+  },
+  {
+    "bn": "লবণাক্ততা সহনশীল",
+    "en": "Salinity tolerant",
+    "category": "general"
+  },
+  {
+    "bn": "একমুখী সংকরায়ন",
+    "en": "Single cross hybridization",
+    "category": "general"
+  },
+  {
+    "bn": "ইনব্রিড লাইন",
+    "en": "Inbred line",
+    "category": "general"
+  },
+  {
+    "bn": "ফল আর্মি ওয়ার্ম",
+    "en": "Fall Armyworm",
+    "category": "pest"
+  },
+  {
+    "bn": "রেশমকীট",
+    "en": "Silkworm",
+    "category": "general"
+  },
+  {
+    "bn": "তুঁতপাতা",
+    "en": "Mulberry leaf",
+    "category": "general"
+  },
+  {
+    "bn": "পলুপালন",
+    "en": "Silkworm rearing",
+    "category": "general"
+  },
+  {
+    "bn": "সেমি-ডেন্ট",
+    "en": "Semi-dent",
+    "category": "general"
+  },
+  {
+    "bn": "ফ্লিন্ট",
+    "en": "Flint",
+    "category": "general"
+  },
+  {
+    "bn": "তুলা",
+    "en": "Cotton",
+    "category": "general"
+  },
+  {
+    "bn": "জ্যাসিড",
+    "en": "Jassid",
+    "category": "pest"
+  },
+  {
+    "bn": "বোলওয়ার্ম",
+    "en": "Bollworm",
+    "category": "pest"
+  },
+  {
+    "bn": "পাতায় দাগ পড়া রোগ",
+    "en": "Leaf spot",
+    "category": "disease"
+  },
+  {
+    "bn": "জিওটি",
+    "en": "Ginning Out Turn (GOT)",
+    "category": "general"
+  },
+  {
+    "bn": "ডিলিন্টেড বীজ",
+    "en": "Delinted seed",
+    "category": "general"
+  },
+  {
+    "bn": "সাথী ফসল",
+    "en": "Inter-cropping",
+    "category": "general"
+  },
+  {
+    "bn": "মিষ্টি ভুট্টা",
+    "en": "Sweet corn",
+    "category": "general"
+  },
+  {
+    "bn": "সিনথেটিক জাত",
+    "en": "Synthetic variety",
+    "category": "general"
+  },
+  {
+    "bn": "বেবিকর্ণ",
+    "en": "Baby corn",
+    "category": "general"
+  },
+  {
+    "bn": "সিঙ্গেল ক্রস",
+    "en": "Single cross",
+    "category": "general"
+  },
+  {
+    "bn": "স্ব-পরাগায়ন",
+    "en": "Self-pollination (Selfing)",
+    "category": "general"
+  },
+  {
+    "bn": "আমিষ",
+    "en": "Protein",
+    "category": "general"
+  },
+  {
+    "bn": "এন্থোসায়ানিন",
+    "en": "Anthocyanin",
+    "category": "general"
+  },
+  {
+    "bn": "ডেন্ট",
+    "en": "Dent",
+    "category": "general"
+  },
+  {
+    "bn": "এমাইনো এসিড",
+    "en": "Amino acid",
+    "category": "general"
+  },
+  {
+    "bn": "ট্রিপটোফেন",
+    "en": "Tryptophan",
+    "category": "general"
+  },
+  {
+    "bn": "লাইসিন",
+    "en": "Lysine",
+    "category": "general"
+  },
+  {
+    "bn": "মেটে কলপ",
+    "en": "First instar silkworm",
+    "category": "general"
+  },
+  {
+    "bn": "দো-কলপ",
+    "en": "Second instar silkworm",
+    "category": "general"
+  },
+  {
+    "bn": "তে-কলপ",
+    "en": "Third instar silkworm",
+    "category": "general"
+  },
+  {
+    "bn": "সোদ কলপ",
+    "en": "Fourth instar silkworm",
+    "category": "general"
+  },
+  {
+    "bn": "রোজ কলপ",
+    "en": "Fifth instar silkworm",
+    "category": "general"
+  },
+  {
+    "bn": "কাসার করা",
+    "en": "Bed cleaning",
+    "category": "general"
+  },
+  {
+    "bn": "কালশিরা/ফ্লাচারী",
+    "en": "Flacherie",
+    "category": "disease"
+  },
+  {
+    "bn": "রসা রোগ",
+    "en": "Grasserie",
+    "category": "disease"
+  },
+  {
+    "bn": "চুনাকাঠি রোগ",
+    "en": "Muscardine",
+    "category": "disease"
+  },
+  {
+    "bn": "উজি মাছি",
+    "en": "Uzi fly",
+    "category": "pest"
+  },
+  {
+    "bn": "চা মশা পোকা",
+    "en": "Tea mosquito bug",
+    "category": "pest"
+  },
+  {
+    "bn": "জ্যাসিড",
+    "en": "Jassids",
+    "category": "pest"
+  },
+  {
+    "bn": "লুপার শুঁয়াপোকা",
+    "en": "Looper caterpillar",
+    "category": "pest"
+  },
+  {
+    "bn": "কৃমি",
+    "en": "Nematodes",
+    "category": "pest"
+  },
+  {
+    "bn": "লাল মাকড়",
+    "en": "Red spider mites",
+    "category": "pest"
+  },
+  {
+    "bn": "আউশ ধান",
+    "en": "Aus Rice",
+    "category": "general"
+  },
+  {
+    "bn": "ভিত্তি বীজ",
+    "en": "Foundation Seed",
+    "category": "general"
+  },
+  {
+    "bn": "প্রত্যয়িত বীজ",
+    "en": "Certified Seed",
+    "category": "general"
+  },
+  {
+    "bn": "মানঘোষিত বীজ",
+    "en": "Truthfully Labeled Seed",
+    "category": "general"
+  },
+  {
+    "bn": "খড়া",
+    "en": "Drought",
+    "category": "general"
+  },
+  {
+    "bn": "জলমগ্নতা",
+    "en": "Waterlogging",
+    "category": "general"
+  },
+  {
+    "bn": "কুশী",
+    "en": "Tiller",
+    "category": "general"
+  },
+  {
+    "bn": "ইয়েলো স্টেম বোরার",
+    "en": "Yellow stem borer",
+    "category": "pest"
+  },
+  {
+    "bn": "রাইস উইভিল",
+    "en": "Rice weevil",
+    "category": "pest"
+  },
+  {
+    "bn": "রেড ফ্লাওয়ার বিটল",
+    "en": "Red flour beetle",
+    "category": "pest"
+  },
+  {
+    "bn": "শীথ ব্লাইট",
+    "en": "Sheath blight",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্রাউন স্পট",
+    "en": "Brown spot",
+    "category": "disease"
+  },
+  {
+    "bn": "হোয়াইট টিপ",
+    "en": "White tip",
+    "category": "disease"
+  },
+  {
+    "bn": "স’ টুথড গ্রেইন বিটল",
+    "en": "Saw-toothed grain beetle",
+    "category": "pest"
+  },
+  {
+    "bn": "লেসার গ্রেইন বোরার",
+    "en": "Lesser grain borer",
+    "category": "pest"
+  },
+  {
+    "bn": "লিফ ব্লাইট",
+    "en": "Leaf blight",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্ল্যাক পয়েন্ট",
+    "en": "Black point",
+    "category": "disease"
+  },
+  {
+    "bn": "লুস স্মাট",
+    "en": "Loose smut",
+    "category": "disease"
+  },
+  {
+    "bn": "গ্রিন পীচ এফিড",
+    "en": "Green peach aphid",
+    "category": "pest"
+  },
+  {
+    "bn": "পটেটো টিউবার মথ",
+    "en": "Potato tuber moth",
+    "category": "pest"
+  },
+  {
+    "bn": "ফিউজেরিয়াম ড্রাই রট",
+    "en": "Fusarium dry rot",
+    "category": "disease"
+  },
+  {
+    "bn": "কমন স্ক্যাব",
+    "en": "Common scab",
+    "category": "disease"
+  },
+  {
+    "bn": "এশিয়ান কর্ণ বোরার",
+    "en": "Asian corn borer",
+    "category": "pest"
+  },
+  {
+    "bn": "ফল আর্মিওয়ার্ম",
+    "en": "Fall army worm",
+    "category": "pest"
+  },
+  {
+    "bn": "কার্নেল মোল্ড",
+    "en": "Kernel mold",
+    "category": "disease"
+  },
+  {
+    "bn": "রুট নট",
+    "en": "Root knot",
+    "category": "disease"
+  },
+  {
+    "bn": "শুট অ্যান্ড ফ্রুট বোরার",
+    "en": "Shoot and Fruit Borer",
+    "category": "pest"
+  },
+  {
+    "bn": "ডায়মন্ড ব্যাক মথ",
+    "en": "Diamond back moth",
+    "category": "pest"
+  },
+  {
+    "bn": "অনিয়ন থ্রিপস",
+    "en": "Onion thrips",
+    "category": "pest"
+  },
+  {
+    "bn": "ফ্রুট ফ্লাই",
+    "en": "Fruit fly",
+    "category": "pest"
+  },
+  {
+    "bn": "রাইজোম রট",
+    "en": "Rhizome rot",
+    "category": "disease"
+  },
+  {
+    "bn": "খৈরা রোগ",
+    "en": "Khaira disease",
+    "category": "disease"
+  },
+  {
+    "bn": "স্মাট",
+    "en": "Smut",
+    "category": "disease"
+  },
+  {
+    "bn": "খোলস পচা",
+    "en": "Sheath blight",
+    "category": "disease"
+  },
+  {
+    "bn": "কালো পচন",
+    "en": "Black rot",
+    "category": "disease"
+  },
+  {
+    "bn": "নরম পচন",
+    "en": "Soft rot",
+    "category": "disease"
+  },
+  {
+    "bn": "গুঁড়া জ্বর",
+    "en": "Powdery mildew",
+    "category": "disease"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াল ব্লাইট",
+    "en": "Bacterial blight",
+    "category": "disease"
+  },
+  {
+    "bn": "সবুজ পাতা ফড়িং",
+    "en": "Green leafhopper",
+    "category": "pest"
+  },
+  {
+    "bn": "বাদামি গাছ ফড়িং",
+    "en": "Brown plant hopper",
+    "category": "pest"
+  },
+  {
+    "bn": "জাসিড",
+    "en": "Jassid",
+    "category": "pest"
+  },
+  {
+    "bn": "লাল মাকড়",
+    "en": "Red mites",
+    "category": "pest"
+  },
+  {
+    "bn": "ট্রাইকো-কম্পোস্ট",
+    "en": "Trichocompost",
+    "category": "general"
+  },
+  {
+    "bn": "ব্যাকটেরিয়াল ক্যানকার",
+    "en": "Bacterial Canker",
+    "category": "disease"
+  },
+  {
+    "bn": "সাদামাছি",
+    "en": "Whitefly",
+    "category": "pest"
+  },
+  {
+    "bn": "ফল ছিদ্রকারী পোকা",
+    "en": "Fruit Borer",
+    "category": "pest"
+  },
+  {
+    "bn": "ফার্টিগেশন",
+    "en": "Fertigation",
+    "category": "general"
+  },
+  {
+    "bn": "শীতলীকরণ পরিবহন ব্যবস্থা",
+    "en": "Cool Chain Transportation System",
+    "category": "general"
+  },
+  {
+    "bn": "উঁচু বেড",
+    "en": "Raised Beds",
+    "category": "general"
+  },
+  {
+    "bn": "উল্লম্ব বাগান",
+    "en": "Vertical Garden",
+    "category": "general"
+  },
+  {
+    "bn": "কম্পোস্ট সার",
+    "en": "Organic Compost",
+    "category": "general"
+  },
+  {
+    "bn": "কেঁচো সার",
+    "en": "Worm Humus",
+    "category": "general"
+  },
+  {
+    "bn": "শস্য পর্যায়",
+    "en": "Crop Rotation",
+    "category": "general"
+  },
+  {
+    "bn": "শামুক",
+    "en": "Snail",
+    "category": "pest"
+  },
+  {
+    "bn": "উইভিল",
+    "en": "Weevil",
+    "category": "pest"
+  }
+]
